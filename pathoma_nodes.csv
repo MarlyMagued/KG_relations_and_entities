@@ -1,0 +1,3421 @@
+cui,umls_concept
+C0442805,increase
+C0020564,hypertrophy
+C0020507,hyperplasia
+C0007634,cells
+C0027061,myocardium
+C0242692,skeletal muscle structure
+C0027740,nerve
+C0040300,body tissue
+C0225828,myocytes cardiac
+C0020538,hypertensive disease
+C0334044,dysplasia
+C0014173,endometrial hyperplasia
+C0392756,reduced
+C0178784,organ
+C0041618,ultrasonography
+C0333641,atrophic
+C0208355,multicatalytic endopeptidase complex
+C0004391,autophagy
+C0030940,peptide hydrolases
+C0025568,metaplasia
+C1182670,squamous
+C1182672,columnar
+C0227599,transitional epithelial cell of urinary bladder
+C0334023,metaplastic
+C0014876,esophagus
+C0017168,gastroesophageal reflux disease
+C0038250,stem cells
+C0004763,barrett esophagus
+C0042842,vitamin a deficiency
+C0042839,vitamin a
+C0009758,conjunctiva
+C0392747,changing
+C0009780,connective tissue
+C0007868,cervical dysplasia
+C0038435,stress
+C0205092,unilateral
+C0243069,hypoplasia
+C0266371,streak ovary
+C0033204,probability
+C0027882,neurons
+C0439834,slow
+C0001363,acute vascular insufficiency of intestine disorder
+C0021368,inflammation
+C0162429,malnutrition
+C0242184,hypoxia
+C0043251,wounds and injuries
+C0026882,mutation
+C0429622,oxygen delivery
+C0030054,oxygen
+C0030013,oxidative phosphorylation
+C0001480,adenosine triphosphate
+C0022116,ischemia
+C0700292,hypoxemia
+C0003850,arteriosclerosis
+C0019154,hepatic vein thrombosis
+C3887486,interstitial lung fibrosis
+C0012222,diffusion
+C1881865,mismatch
+C0428871,right to left cardiovascular shunt finding
+C0004144,atelectasis
+C0008721,chrysarobin
+C0007018,carbon monoxide
+C0037366,smoke
+C0178629,exhaust
+C0439858,conventional
+C1279919,early
+C0274281,injury due to exposure to external cause
+C0302583,iron
+C0025637,methemoglobinemia
+C0039798,therapeutic aspects
+C0025746,methylene blue
+C0182537,pump device
+C0037473,sodium
+C0666743,infliximab
+C2986569,buildup
+C0205251,low
+C0013604,edema
+C0205343,reversible
+C0007603,plasma membrane
+C1096316,cardiac troponin measurement
+C1096176,mitochondrial damage
+C2244392,electron transport chain
+C1383501,cytoplasmic matrix
+C0230812,membrane of lysosome
+C1522058,coagulative necrosis
+C0022646,kidney
+C0007587,cell death
+C1517945,loss
+C0027540,necrosis
+C0162638,apoptosis
+C0333361,acute inflammation
+C0005778,blood coagulation
+C2749591,ischemic infarction
+C0021308,infarction
+C0034074,pulmonary infarction
+C0392041,infarction of testis
+C0206116,microglia
+C0027950,neutrophil
+C0030274,pancreas
+C0333536,dry gangrene
+C0333537,wet gangrene
+C0553697,granulomatous inflammation
+C0333512,caseous necrosis
+C0333549,hemorrhagic infarct
+C0233426,personal appearance
+C0010957,tissue damage
+C0015684,fatty acids
+C0006675,calcium
+C0023764,lipase
+C0030305,pancreatitis
+C0038702,sulfanilamide
+C0333582,dystrophic calcification
+C0221255,metastatic calcification
+C0036785,serum calcium level
+C0428304,phosphate level result
+C0020502,hyperparathyroidism
+C1883709,damage
+C0332234,leaking
+C0015982,fibrin
+C0033684,proteins
+C0332585,pink color
+C0010834,cytoplasm
+C0024432,macrophage
+C0010656,caspase
+C0014230,endonuclease
+C0010749,cytochromes c
+C0302912,radicals chemistry
+C0013846,electron transport
+C0038836,superoxides
+C0020281,hydrogen peroxide
+C0063146,hydroxyl radical
+C0016693,free radicals
+C0010762,cytochrome p450
+C0012860,dna damage
+C0003402,antioxidants
+C0038838,superoxide dismutase
+C0017822,glutathione peroxidase
+C0007367,catalase
+C0007292,carrier proteins
+C0360100,organic solvent product
+C1423586,rb1cc1 gene
+C0599732,cell injury
+C0035553,ribosomes
+C0041199,troponin
+C0002716,amyloid
+C1655235,misfolded protein binding
+C0009742,congo red
+C0023216,lower extremity
+C0333562,deposition
+C0268381,primary amyloidosis
+C0026764,multiple myeloma
+C0221014,reactive systemic amyloidosis
+C0002722,amyloid protein aa
+C0002723,serum amyloid a protein
+C0031069,familial mediterranean fever
+C0037088,signs and symptoms
+C0011900,diagnosis
+C1563742,abdominal fat
+C0034896,rectum
+C0229671,serum
+C0152254,fatty degeneration
+C1705846,atm wt allele
+C0063684,amylin
+C0002680,ampicillin
+C0013080,down syndrome
+C0027361,persons
+C0025939,michigan geographic location
+C0006668,calcitonin
+C0431085,tumor cells uncertain whether benign or malignant
+C0440752,inflammatory cell
+C0032120,plasma proteins
+C0302908,liquid substance
+C0009498,complement system proteins
+C0127400,mediator brand of benfluorex hydrochloride
+C0011306,dendritic cells
+C0108768,cd14 antigen
+C0023810,lipopolysaccharides
+C4042797,pathogenassociated molecular pattern molecules
+C1879547,activation action
+C0227088,deciduous maxillary right first molar tooth
+C0020964,immune response
+C0221135,blood group antigen s
+C0024264,lymphocyte
+C0001972,alcoholics anonymous
+C0033551,prostaglandinendoperoxide synthase
+C0003693,arachidonate 5lipoxygenase
+C0033554,prostaglandins
+C0033567,epoprostenol
+C0033532,prostaglandin d2
+C0012472,dinoprostone
+C0033559,prostaglandins e
+C0023546,leukotriene b4
+C0024320,tumor necrosis factorbeta
+C3853573,granules dose form
+C0205421,deferred
+C0064855,leukotrienes e
+C0024742,mannose
+C1704259,biochemical pathway
+C0009507,complement c3 convertases
+C0009545,complement membrane attack complex
+C1332656,c3 gene
+C0010592,cyclosporine
+C0020283,hydrogenion concentration
+C0015525,factor xii
+C0019536,highmolecularweight kininogen protein
+C0006100,bradykinin
+C0042401,vasodilation
+C0162337,vascular permeability
+C0019588,histamine
+C0021376,chronic inflammation
+C0005775,blood circulation
+C0225336,endothelial cells
+C0600532,weibelpalade bodies
+C0812246,tnf gene
+C0212009,iantigen
+C0007578,cell adhesion molecules
+C1367710,c5 gene
+C0021701,integrins
+C0272187,congenital leukocyte adherence deficiency
+C0023516,leukocytes
+C0029122,opsonin
+C0007965,chediakhigashi syndrome
+C0599895,protein transport
+C1523305,phagolysosome assembly
+C0023530,leukopenia
+C0011065,cessation of life
+C0332466,fused structure
+C0205225,primary
+C0162388,killing
+C0009170,cocaine
+C0085416,respiratory burst
+C0018203,chronic granulomatous disease
+C0068355,nadph oxidase
+C1817882,granuloma formation
+C0038172,staphylococcus aureus
+C0085469,burkholderia cepacia
+C0036766,serratia marcescens
+C0028240,nocardia
+C0004034,aspergillus
+C0430303,nitro blue tetrazolium assay
+C0332452,defective
+C0398595,myeloperoxidase deficiency
+C0030705,patients
+C0014442,enzymes
+C0026794,muramidase
+C0026473,monocytes
+C0040690,transforming growth factor beta
+C0003209,antiinflammatory agents
+C0039215,cd4 positive t lymphocytes
+C0079189,cytokine
+C0032112,plasma cells
+C0678209,adaptive immunity
+C0234402,stimulus
+C0005953,bone marrow
+C0003320,antigens
+C1710082,signal
+C0521119,extracellular
+C0003315,antigenpresenting cells
+C0507117,medial basal segmental bronchus
+C0070410,perforin
+C1333877,granzymes
+C0015923,fetal alcohol syndrome
+C1539478,faslg gene
+C1512631,immature blymphocyte
+C3641721,naive tlymphocyte
+C0000934,acclimatization
+C0017255,gene activation
+C0597295,protein biosynthesis
+C0042149,uterus
+C0006826,malignant neoplasms
+C0010853,cytoskeleton
+C0544966,autophagic vaculoes finding
+C1166607,cellularcomponent
+C1182809,surface of epithelium
+C0836137,nonkeratinizing stratified squamous epithelium
+C3850096,cellular reprogramming
+C0007589,cell differentiation process
+C0015392,eye
+C0152455,keratomalacia
+C0005931,bone and bones
+C0007847,malignant tumor of cervix
+C0007097,carcinoma
+C0033268,production
+C0013936,embryonic development
+C0041408,turner syndrome
+C0151763,liver damage
+C0439793,severities
+C0392760,affecting
+C0441713,chemical injury
+C3263722,traumatic andor nontraumatic injury
+C0848724,circulation problem
+C0035203,respiration
+C0018681,headache
+C0009421,comatose
+C0085403,oxidants
+C0021289,infant newborn
+C0005767,blood
+C0205216,decreased
+C0007613,cell physiology
+C0012854,dna
+C4235040,membrane blebbing
+C0086168,dissociation
+C0230840,inner mitochondrial membrane
+C4551596,abnormal renal morphology
+C1155631,chromosome condensation
+C0332472,abnormal fragmented structure
+C4721411,osteolysis
+C0449774,patterns
+C0205233,firm
+C0229983,body organ structure
+C0487112,liquefaction
+C0006104,brain
+C0933845,parenchyma
+C0333509,liquefactive necrosis
+C0205358,soft
+C0041296,tuberculosis
+C0026946,mycoses
+C0024109,lung
+C0039597,testis
+C0006141,breast
+C3686617,structure of peripancreatic adipose tissue
+C0006660,physiologic calcification
+C0027709,nephrocalcinosis
+C1180033,structure of wall of blood vessel
+C0005847,blood vessel
+C0677535,walls of a building
+C0333930,eosinophilic
+C3269134,apoptotic bodies
+C1510421,mitochondrial matrix
+C0041368,tumor necrosis factors
+C1705920,species
+C0728938,partial
+C0034538,ionizing radiation
+C1417699,nfe2 gene
+C0013227,pharmaceutical preparations
+C0000970,acetaminophen
+C0178796,peroxidation
+C0001811,aging
+C0007621,neoplastic cell transformation
+C0017817,glutathione
+C0042890,vitamins
+C0026237,mitochondria
+C0014239,endoplasmic reticulum
+C0040679,transferrin
+C0007841,ceruloplasmin
+C0729428,dry cleaning agent
+C0443763,cardiac enzymes
+C0015352,extracellular space
+C0205288,microscopic qualifier value
+C0205373,systemic
+C0392752,localized
+C0439064,numerous
+C0021038,immunoglobulin light chains
+C1136084,plasma cell dyscrasia
+C0001347,acutephase proteins
+C0031847,physiopathological
+C0332189,episode of
+C0003615,appendicitis
+C0003864,arthritis
+C0027051,myocardial infarction
+C0268380,systemic amyloidosis
+C0027726,nephrotic syndrome
+C0185275,biopsy of soft tissue
+C0005558,biopsy
+C0037179,unmarried person
+C0018787,heart
+C0023884,liver
+C0007196,restrictive cardiomyopathy
+C0085756,african american
+C0021641,insulin
+C0085151,amyloid betaprotein precursor
+C0008664,chromosomes human pair 21
+C0814229,temptation and restraint inventory
+C0002395,alzheimers disease
+C0022417,joints
+C0027651,neoplasms
+C1706907,background
+C0225319,interstitial space
+C1321919,tlr4 protein human
+C1421554,yme1l1 gene
+C0205160,negative
+C0445623,microorganism
+C3275238,zinc finger protein 384
+C1158435,phospholipid transfer to membrane
+C0031667,phospholipases a2
+C0030193,pain
+C0015967,fever
+C0023545,leukotrienes
+C0042396,vascular constriction function
+C0006266,bronchospasm
+C1158360,arachidonic acid metabolic process
+C0687028,duct organ structure
+C0025202,melanoma
+C0751038,cockayne syndrome type ii
+C4329171,epinephrinemediated vasodilation
+C0031308,phagocytosis
+C0226505,structure of postcapillary venule
+C0015388,exudate
+C0086697,nerve endings sensory
+C0004611,bacteria
+C0282651,selectins
+C0030685,patient discharge
+C0134835,pselectin
+C0115305,eselectin
+C0014257,endothelium
+C0441748,autosomal recessive inheritance
+C0006463,busulfan
+C0020852,immunoglobulin g
+C0858906,pyogenic infection
+C0018042,golgi apparatus
+C0205307,normal
+C1280519,effectiveness
+C0024369,lysosomes
+C0241764,xlinked inheritance
+C0239998,recurrent infections
+C0475331,colorless
+C0006840,candidiasis
+C0231221,asymptomatic finding
+C0205266,intact
+C1325605,specific granule
+C0014467,eosinophil
+C0016059,fibrosis
+C1264606,persistent infection
+C0009450,communicable diseases
+C0026912,genus mycobacterium
+C0030498,parasites
+C0016832,fungi
+C0004364,autoimmune diseases
+C0016542,foreign bodies
+C0039195,cytotoxic tlymphocytes
+C0034790,tcell receptor
+C0108779,cd3 antigens
+C0567416,molecule
+C0017349,genes mhc class ii
+C0376327,international aspects
+C0038027,reproduction spores
+C0221284,leptocyte
+C2754998,igm b cell receptor complex
+C0020843,immunoglobulin d
+C1323357,cd40 receptor binding
+C0167627,cd40 ligand
+C0018894,helperinducer tlymphocyte
+C0678723,biologic development
+C0018188,granuloma
+C1707544,epithelioid fibrous histiocytoma
+C0021386,necrotizing granulomatous inflammation
+C0243107,development aspects
+C0012236,digeorge syndrome
+C1744558,tlymphocyte deficiency
+C0020598,hypocalcemia
+C0011155,deficiency
+C0574493,adangme language
+C0332268,lacking
+C0218158,agammaglobulinaemia tyrosine kinase
+C0729663,maternal antibody
+C0042211,vaccines attenuated
+C0021027,immunoglobulins
+C0004623,bacterial infections
+C4318485,giardia lamblia infection
+C0020861,immunoglobulin m
+C0272236,hyperimmunoglobulin m syndrome
+C1159762,opsonization
+C1844383,recurrent bacterial infection
+C0040034,thrombocytopenia
+C0013595,eczema
+C0019080,hemorrhage
+C0039082,syndrome
+C0085396,neisseriaceae infections
+C0019243,angioedemas hereditary
+C3179074,central tolerance
+C0039194,tlymphocyte
+C3179073,peripheral tolerance
+C0039198,regulatory tlymphocytes
+C0032529,genetic polymorphism
+C0014939,estrogens
+C0015127,etiology aspects
+C0014406,environment
+C0035020,relapse
+C0544452,disease remission
+C1514562,protein domain
+C0003313,immune complex
+C4317010,reactive lymphocyte
+C0744422,proliferative diffuse glomerulonephritis nos
+C0017665,membranous glomerulonephritis
+C0002871,anemia
+C0162595,antiphospholipid antibodies
+C0034678,ras oncogene
+C3805721,discoid rash
+C0007188,cardiolipins
+C0085240,lupus coagulation inhibitor
+C0398623,thrombophilia
+C0032043,placenta
+C0042487,venous thrombosis
+C0019155,structure of hepatic vein
+C1167878,histone antibody assay
+C0015252,removal technique
+C0021081,immunosuppressive agents
+C0035078,kidney failure
+C1261381,destructive procedure surgical
+C0035448,rheumatoid factor
+C0443935,ribosomal ribonucleoprotein antibody
+C4725341,intraglandular route
+C0043210,woman
+C0021270,infant
+C0242647,mucosaassociated lymphoid tissue lymphoma
+C0036421,systemic scleroderma
+C3156591,fibroblast activation
+C4551524,autoimmune
+C0856169,endothelial dysfunction
+C0227091,maxillary left lateral primary incisor
+C0032200,plateletderived growth factor
+C1314939,involvement with
+C0206138,crest syndrome
+C0205219,diffuse
+C0034734,raynaud disease
+C0014858,esophageal motility disorders
+C0232483,reflux
+C0020542,pulmonary hypertension
+C1262147,scleroderma renal crisis
+C0003241,antibodies
+C0015498,factor v
+C0205360,stable status
+C0205355,permanent
+C0700321,small
+C0444099,skin specimen
+C0227525,hepatocyte
+C0150988,sclerodactyly
+C0043240,wound healing
+C0016030,fibroblasts
+C0009332,collagen type iii
+C0041455,collagen type i
+C0162745,collagenase
+C0043481,zinc
+C0018284,growth factor
+C0206454,growth factor receptors
+C0037420,social interaction
+C0027627,neoplasm metastasis
+C0003968,ascorbic acid
+C0020365,hydroxylation
+C0009968,copper
+C0149663,dehiscence
+C0162810,cicatrix hypertrophic
+C0022548,keloid
+C0597032,neoplastic cell
+C0796368,clonality genetic analysis
+C0017757,glucosephosphate dehydrogenase
+C0597298,protein isoforms
+C0034786,androgen receptor
+C0456603,ratio
+C0024299,lymphoma
+C0007222,cardiovascular diseases
+C0264220,chronic disease of respiratory system
+C0000924,accidents
+C0000768,congenital abnormality
+C0555952,colorectal
+C0445379,roman numeral vi
+C0152060,transection procedure
+C0199230,screening for cancer
+C0007124,noninfiltrating intraductal carcinoma
+C1334274,invasive carcinoma
+C0007090,carcinogens
+C0220806,chemicals
+C0042776,virus
+C0034519,electromagnetic radiation
+C1519689,tumor promotion
+C0242656,disease progression
+C0332454,disrupted
+C0033713,protooncogenes
+C0029016,oncogenes
+C0017337,genes
+C0072480,protooncogene proteins csis
+C0069515,erbb2 receptor
+C0028197,nitrosamines
+C0260030,naphthylamines
+C0008574,chromium
+C0019046,hemoglobin
+C0449560,subtype attribute
+C0038817,sunlight
+C0007137,squamous cell carcinoma
+C0001418,adenocarcinoma
+C0007133,carcinoma papillary
+C0007117,basal cell carcinoma
+C0003818,arsenic
+C0032457,polycyclic hydrocarbons
+C0699791,stomach carcinoma
+C0032624,polyvinyl chloride
+C0034286,pyrimidine dimers
+C0018353,guanosine triphosphate
+C0061928,gtpaseactivating proteins
+C1705285,mutation abnormality
+C1325288,cell cycle regulator
+C0079183,cyclins
+C0243045,cyclindependent kinases
+C0439855,complex
+C0079419,tp53 gene
+C0035335,retinoblastoma
+C0032207,platinum
+C0000744,abetalipoproteinemia
+C0039738,thallium
+C0220781,anabolism
+C0206530,germline mutation
+C0146462,e2f transcription factors
+C0332296,free of attribute
+C0751483,familial retinoblastoma
+C0376515,bcl2 gene
+C1415978,ighg1 gene
+C0227099,mandibular right second primary molar
+C0596952,mitochondrial membranes
+C0004561,blymphocytes
+C5206618,somatic hypermutation
+C0087071,telomerase
+C0085187,telomere
+C0302600,angiogenic process
+C0016026,fibroblast growth factor
+C0078058,vascular endothelial growth factor a
+C0021059,immunologic surveillance
+C0311448,abnormal protein
+C0021051,immunologic deficiency syndromes
+C0014597,epithelial cells
+C0042172,ecadherin
+C0013081,downregulation
+C0004799,basement membrane
+C0016055,fibronectins
+C0337095,entrance
+C0332261,spreading qualifier value
+C0796572,hematogenous spread
+C1705192,seeding
+C0029925,ovarian carcinoma
+C4317108,immunohistochemical stains
+C0010803,cytokeratin
+C0086692,benign neoplasm
+C0206071,immunoglobulin class switching
+C0017526,giant cells
+C0036202,sarcoidosis
+C0238761,beryllium exposure
+C0010346,crohn disease
+C0007361,catscratch disease
+C1442161,gene deletion abnormality
+C0206552,receptors cytokine
+C0011061,deamination
+C1327413,cytokine production
+C5546928,is sterile
+C0472699,hemopoietic stem cell transplant
+C0013378,dysgeusia
+C0851162,infections of musculoskeletal system
+C0032371,poliomyelitis
+C0009447,common variable immunodeficiency
+C0815205,late childhood
+C0745242,immunoglobulin deficiency
+C0521026,viral
+C0026724,mucous membrane
+C0027573,neisseria gonorrhoeae
+C0027575,neisseria meningitidis
+C0814999,thymocyte
+C0085859,polyglandular type i autoimmune syndrome
+C1817902,b cell receptor editing
+C0206120,clonal anergy
+C1328840,autoimmune lymphoproliferative syndrome
+C1155065,tcell activation
+C0026221,mississippi geographic location
+C0332307,type attribute
+C1844666,immune dysregulation
+C5681797,polyendocrinopathy
+C0021831,intestinal diseases
+C0242943,molecular mimicry
+C1272688,status in progress
+C0032854,poverty
+C0012634,disease
+C0014060,encephalitis st louis
+C1446409,positive
+C0205250,high
+C0085278,antiphospholipid syndrome
+C2921106,recurrent pregnancy loss
+C0038454,cerebrovascular accident
+C0003842,arteries
+C0263591,druginduced lupus erythematosus
+C0003873,rheumatoid arthritis
+C0003380,antimony
+C0442874,neuropathy
+C0409979,neonatal systemic lupus erythematosus
+C0149530,congenital heart block
+C0011644,scleroderma
+C0439234,year
+C0162415,mesenchyma
+C0036536,process of secretion
+C0442165,perivascular
+C0018563,hand
+C0015450,face
+C0206708,cervical intraepithelial neoplasia
+C0017189,gastrointestinal tract structure
+C0236513,antiscl70 autoantibodies
+C0085655,polymyositis
+C0221925,stratum basale
+C3820815,cell quiescence
+C0333979,secondary hyperplasia
+C3820816,quiescence
+C1527336,sjogrens syndrome
+C0018180,granulation tissue
+C0920502,embryonic tissue
+C0039508,tendon structure
+C0242275,epidermal growth factor
+C0017262,gene expression
+C0007595,cell growth
+C1267092,smooth muscle tissue
+C0241158,scar tissue
+C0009325,collagen
+C0001779,age
+C0024375,proteinlysine 6oxidase
+C0043250,injury wounds
+C5206630,abdominal surgery patient
+C1621966,tissue growth
+C0031603,phosphates
+C0043292,x chromosome
+C4524906,polyclonality
+C0746619,monoclonal
+C0031437,phenotype
+C0439539,heavy weight qualifier value
+C0439099,greek letter kappa
+C0926407,lambda sutural junction
+C0205183,benign
+C0205282,malignant descriptor
+C0001675,adult
+C0008059,child
+C0278252,prognosis bad
+C1514391,premalignant
+C0024671,mammography
+C0596244,cancer risk
+C1704735,regulator
+C0018270,growth
+C0079427,tumor suppressor genes
+C3658238,gasotransmitters
+C0182953,regulators device
+C0004114,astrocytoma
+C0006142,malignant neoplasm of breast
+C2349952,oropharyngeal carcinoma
+C0684249,carcinoma of lung
+C0345907,angiosarcoma of liver
+C0242379,malignant neoplasm of lung
+C2239176,liver carcinoma
+C0553723,squamous cell carcinoma of skin
+C0042993,vulva
+C0042232,vagina
+C0003461,anus
+C0007874,cervix uteri
+C0040132,thyroid gland
+C0239059,cigarette smoke substance
+C0022341,japan
+C0071109,piperazinennbis2ethanesulfonic acid
+C0205254,sedentary
+C0597358,receptor binding
+C0007610,cell nucleus
+C0018340,guanosine diphosphate
+C0080113,retinoblastoma protein
+C0678222,breast carcinoma
+C0025268,multiple endocrine neoplasia type 2a
+C0025269,multiple endocrine neoplasia type 2b
+C0033681,protein tyrosine kinase
+C0023473,myeloid leukemia chronic
+C0023449,acute lymphocytic leukemia
+C0007586,cell cycle
+C1258083,dna repair enzymes
+C0812198,bax gene
+C0080129,s phase
+C1948062,copy object
+C0854915,unilateral retinoblastoma
+C0854914,bilateral retinoblastoma
+C0029463,osteosarcoma
+C0024301,lymphoma follicular
+C0008633,chromosomes
+C0008656,chromosomes human pair 14
+C0282491,structure of germinal center of lymph node
+C0024204,lymph nodes
+C0028977,omentum
+C0007581,cellular senescence
+C0041904,upregulation physiology
+C0038952,continuance of life
+C0002976,angiogenesis factor
+C0022984,laminin
+C0009333,collagen type iv
+C0015350,extracellular matrix
+C1261473,sarcoma
+C0031153,peritoneum
+C4086857,slow growing
+C1282914,surrounding qualifier value
+C0231435,mobile
+C4527217,infiltrative tumor margin
+C0678594,structure
+C3245505,potential
+C0021044,immunohistochemistry
+C1337013,differentiated thyroid gland carcinoma
+C1335444,poorly differentiated malignant neoplasm
+C0302052,blood group antigen n
+C0019116,hemostatic function
+C0087086,thrombus
+C0178324,vascular system injuries
+C0005779,blood coagulation disorders
+C1292856,stimulation procedure
+C0042971,von willebrand factor
+C0001511,tissue adhesions
+C5235637,degranulation
+C0001459,adenosine diphosphate
+C0040057,thromboxane a2
+C0005821,blood platelets
+C0017759,glucosephosphate isomerase
+C0016006,fibrinogen
+C0182324,plug physical object
+C0392762,quantitative qualifier value
+C0151699,intracranial hemorrhage
+C0031256,petechiae
+C0681827,laboratory study
+C0032181,platelet count measurement
+C0040223,time
+C0025166,megakaryocytes
+C0034150,purpura
+C0004358,autoantibodies
+C0021540,inosine triphosphate
+C0205178,acute
+C0205191,chronic
+C0085826,antiplatelet agents
+C0005789,blood coagulation factor
+C0030605,activated partial thromboplastin time measurement
+C0085297,immunoglobulins intravenous
+C0037995,splenectomy
+C0205087,late
+C0014792,erythrocytes
+C0002878,anemia hemolytic
+C0034155,purpura thrombotic thrombocytopenic
+C0389918,adamts13 protein human
+C0019061,hemolyticuremic syndrome
+C0013369,dysentery
+C0148323,shiga toxins
+C0040018,thrombin
+C0005129,bernardsoulier syndrome
+C0032174,platelet adhesion function
+C1856453,mild thrombocytopenia
+C4317068,enlarged platelets
+C0040015,thrombasthenia
+C0032176,platelet aggregation
+C0041948,uremia
+C0332621,aggregation
+C0018924,hemarthrosis
+C0026845,muscle tissue
+C3269143,intrinsic apoptotic signaling pathway
+C2981439,clinical events severity
+C0008533,hemophilia b
+C1999216,inhibitor
+C0035654,ristocetin
+C0221099,impaired
+C0011701,desmopressin
+C0042878,vitamin k
+C0078377,vitamin k epoxide reductases
+C0178529,carboxylation
+C0003232,antibiotics
+C0024523,malabsorption syndrome
+C0085605,liver failure
+C0302106,platelet destruction
+C0009830,consumption of goods
+C0040048,thromboplastin
+C0014834,escherichia coli
+C0026682,mucins
+C1325603,azurophil granule
+C0028128,nitric oxide
+C0060323,fibrin fragment d
+C0443121,cryoprecipitate product
+C0032140,plasminogen
+C0016016,plasmin
+C1150268,plasmin activity
+C0023890,liver cirrhosis
+C0000608,6aminocaproic acid
+C2960476,intravascular route of drug administration
+C0226514,structure of deep vein
+C0332285,within
+C2717756,corneal endothelial cell loss
+C0333138,stasis
+C0003811,cardiac arrhythmia
+C0032143,alteplase
+C0033621,protein c
+C0042384,vasculitis
+C2242817,homocysteine measurement
+C0376286,avitaminosis
+C0016412,folic acid deficiency
+C0016410,folic acid
+C0650224,chloromethyl methyl ether
+C2698794,phentydrone
+C0019878,homocysteine
+C1439329,cbs gene
+C0149676,enzyme deficiency
+C0449450,presentation
+C4303340,warfarin therapy
+C0040053,thrombosis
+C4285107,f2 nm0005064c97ga
+C1412610,serpinc1 gene
+C0699129,coumadin
+C0009905,contraceptives oral
+C0442123,intravascular
+C0683368,symptoms aspect
+C0040038,thromboembolism
+C0333482,atherosclerotic
+C1704212,embolus
+C0013928,fat embolism disorder
+C0001527,adipose tissue
+C0301294,nitrogen gas
+C0027543,avascular necrosis of bone
+C0001861,air substance
+C4239945,fetal skin
+C0221910,squamous epithelial cells
+C0333131,keratin plug
+C0149871,deep vein thrombosis
+C0015811,femur
+C0005839,blood supply aspects
+C0016504,foot
+C1457869,defect
+C0332479,shapes
+C0340861,electromechanical dissociation
+C0023370,leriche syndrome
+C0002962,angina pectoris
+C5194182,microcytic anemia
+C0221265,microcytosis
+C0018966,heme
+C0162316,iron deficiency anemia
+C0599175,heme biosynthetic process
+C0000854,process of absorption
+C0682610,enterocytes
+C0915115,metal transporting protein 1
+C0015879,ferritin
+C1318312,serum iron measurement
+C1516240,capacity
+C0522534,saturated
+C0450235,evaluation of iron stores procedure
+C0240066,iron deficiency
+C0026140,milk human
+C0002830,ancylostomatoidea
+C0456389,size
+C0221261,koilonychia
+C0031873,pica disease
+C0749139,sulfa
+C0032249,plummervinson syndrome
+C0008679,chronic disease
+C0966897,hepcidin
+C0432608,ringed sideroblast
+C0597271,porphyrin biosynthesis
+C0033733,protoporphyrins
+C0026019,electron microscopy
+C0075444,succinylcoenzyme a
+C0002565,5aminolevulinate synthase
+C0034272,pyridoxine
+C0001898,alanine
+C0002564,porphobilinogen synthase
+C0032704,porphobilinogen
+C0015880,ferrochelatase
+C0014802,erythroid precursor cells
+C0002896,sideroblastic anemia
+C1412330,alas1 gene
+C0001973,alcoholic intoxication chronic
+C0036835,serum total ironbinding capacity result
+C0007294,genetic carriers
+C0002312,alphathalassemia
+C0039730,thalassemia
+C0015936,fetal hemoglobin
+C0019016,hemoglobin a
+C1415478,hba2 gene
+C0007787,transient ischemic attack
+C0205615,well differentiated
+C0205618,undifferentiated
+C0871261,response process
+C0150369,preventive monitoring
+C1514474,prognostic factors
+C0009074,clotrimazole
+C1325604,platelet dense granule
+C1762617,weak
+C0014591,epistaxis
+C0019079,hemoptysis
+C0017181,gastrointestinal hemorrhage
+C0018965,hematuria
+C0025323,menorrhagia
+C0013491,ecchymosis
+C0009938,contusions
+C2238079,blood smear
+C0037993,spleen
+C0042769,virus diseases
+C0020971,immunization
+C0680063,offspring
+C0032821,potassium
+C0001617,adrenal cortex hormones
+C0205269,unresponsive to treatment
+C0221282,schistocyte
+C1417215,mmrn1 gene
+C0032134,plasmapheresis
+C1254881,platelet function
+C3269136,extrinsic apoptotic signaling pathway
+C4549754,col8a1 protein human
+C0033706,prothrombin
+C1257900,colicin plasmids
+C0019069,hemophilia a
+C1565489,renal insufficiency
+C0243067,defects aspect
+C0443147,autosomal dominant inheritance
+C1366370,f8 gene
+C1441463,plate agglutination
+C0151756,le test abnormal
+C0031843,physiological aspects
+C0259753,fatsoluble vitamin
+C0522794,heparin therapy
+C3830528,destroyed medical device
+C1319047,site of intravenous insertion
+C0444567,ostium
+C1184743,bony process
+C0002638,amniotic fluid
+C0009566,complication
+C0036690,septicemia
+C0010927,dacarbazine
+C0163275,fibrin split products
+C0005841,blood transfusion
+C0016017,fibrinolysis
+C0020488,hypernatremia
+C0035647,risk
+C0021467,psychological inhibition
+C0042845,vitamin b12
+C1709634,precursor
+C0025646,methionine
+C0019880,homocystinuria
+C0333052,version
+C0010640,cystathionine
+C0521116,current present time
+C0003281,anticoagulation therapy
+C0183619,stone dislodgers
+C3686582,cholesterol cleft
+C0016658,fracture
+C1508661,pulmonary vessels
+C0011119,decompression sickness
+C0751429,surgical procedures laparoscopic
+C0000726,abdomen
+C0026591,mother person
+C0860888,tomography spiral computed
+C2983609,gross pathologic examination
+C0034052,pulmonary artery structure
+C0086582,males
+C0086287,females
+C0302870,microcytic
+C1317572,normocytic
+C0302845,mcv raised
+C0285131,cisplatinmethotrexatevinblastine protocol
+C0017645,globin
+C0025017,meat
+C0013303,duodenum
+C0596902,membrane transport proteins
+C1159668,iron transport
+C0443286,reaction
+C0012155,diet
+C0001792,elderly population group
+C2700280,world
+C0427403,iron absorption level result
+C0267080,esophageal web
+C0155964,atrophy of tongue papillae
+C0011168,deglutition disorders
+C0040408,tongue
+C0014118,endocarditis
+C0870668,hospitalized patients
+C1555583,transfer product ownership
+C0014822,erythropoietin
+C0060234,prussian blue insoluble
+C0002563,aminolevulinic acid
+C0009678,congenital mesh qualifier
+C0439661,acquired qualifier value
+C0871208,rating action
+C0032150,plasmodium falciparum
+C0227089,deciduous maxillary right second molar tooth
+C1537647,malat1 gene
+C1511760,deletion mutation
+C0019026,hemoglobin h
+C0596611,gene mutation
+C0205217,increased
+C0002875,cooleys anemia
+C1412304,aire gene
+C0312854,extravascular hemolysis
+C0014800,erythroid hyperplasia
+C0018952,extramedullary hematopoiesis function
+C0029433,osteogenesis
+C0085273,erythema infectiosum
+C0018553,hamartoma syndrome multiple
+C4698769,hypochromic
+C0014762,erythroblasts
+C0483202,hypersegmented neutrophil
+C0002888,anemia megaloblastic
+C0450596,bl2 bladder acupuncture point
+C0178638,folate
+C0596922,methyl group
+C0023895,liver diseases
+C0042440,vegetables
+C0016767,fruit
+C0547040,minimal
+C0588012,diet poor
+C0016411,folic acid antagonists
+C0032961,pregnancy
+C0025677,methotrexate
+C0030559,parietal cells gastric
+C0030293,pancreatic insufficiency
+C0012564,diphyllobothrium latum
+C0033499,proprioception
+C0234198,vibratory sense function
+C0747265,spastic paresis
+C0376558,life
+C1167159,replication compartment
+C0205202,corrected
+C0019054,hemolysis disorder
+C0235574,intravascular hemolysis
+C0035287,reticuloendothelial system
+C0301719,indirect reacting bilirubin
+C0022346,icterus
+C0005959,bone marrow hyperplasia
+C0552639,tubular cells
+C0439660,hereditary
+C0025255,tissue membrane
+C0037888,spherocytes
+C0020058,howelljolly bodies
+C0332255,fragment of qualifier value
+C0061472,glutamic acid
+C0042285,valine
+C0002895,anemia sickle cell
+C0032521,polymers
+C0011175,dehydration
+C0001122,acidosis
+C0020402,hydroxyurea
+C0221283,drepanocyte cell
+C0086776,parvovirus
+C0009778,connecticut
+C0038410,streptococcus pneumoniae
+C0018483,haemophilus influenzae
+C0022667,kidney papillary necrosis
+C0037054,sickle cell trait
+C0026826,muscle hypertonia
+C0183185,screens device
+C0013855,electrophoresis
+C0599883,trait
+C1521970,characteristics
+C0108793,antigens cd55
+C0001127,acidosis respiratory
+C2721579,hemosiderinuria
+C0038636,sucrose
+C0430257,hemolysin acid test
+C0016263,flow cytometry
+C0023467,leukemia myelocytic acute
+C1845977,x linked recessive
+C0027303,nadp
+C5392203,oxidative damage
+C2939465,deficiency of glucose6phosphate dehydrogenase
+C0027567,african
+C0240321,mediterranean
+C0033613,protective agents
+C0242606,oxidative stress
+C0033126,primaquine
+C0599503,sulfonamide antiinfective agents
+C0010980,dapsone
+C0330788,vicia faba
+C0947630,scientific study
+C0056097,cold agglutinins
+C0446413,c3 level
+C0009961,coombs test
+C0200555,direct coombs test
+C0430262,indirect coombs test
+C0001801,agglutination
+C0032148,plasmodium genus
+C1511572,event cycle
+C0750480,count
+C0023602,structure of interstitial cell of leydig
+C0005955,bone marrow cells
+C0018956,hematopoietic stem cells
+C0030312,pancytopenia
+C0344211,supportive care
+C0021079,therapeutic immunosuppression
+C0008058,chilblains
+C0030660,pathologic processes
+C0018951,hematopoiesis
+C0013221,drug toxicity
+C0025018,meat products
+C5139167,severe infection
+C0079460,granulocytemacrophage colonystimulating factor
+C0024312,lymphopenia
+C0019682,hiv
+C0541847,cortisol high
+C0010481,cushing syndrome
+C0024141,lupus erythematosus systemic
+C0151683,neutrophilia finding
+C1561251,neck soft tissue necrosis
+C0085702,monocytosis
+C0014457,eosinophilia
+C0020517,hypersensitivity
+C0030499,parasitic diseases
+C0019829,hodgkin disease
+C0020523,immediate hypersensitivity
+C0853716,basophilia finding
+C0023518,leukocytosis
+C0020731,pertussis toxin
+C0010823,cytomegalovirus infections
+C0014644,epsteinbarr virus
+C0031350,pharyngitis
+C0019158,hepatitis
+C1287351,finding of liver enzyme levels
+C0476486,generalized enlarged lymph nodes
+C0342190,ccell hyperplasia of thyroid
+C0038002,splenomegaly
+C0430435,monospot test
+C0428046,monospot test negative
+C4745335,initial diagnosis
+C1167519,viral capsid
+C0205182,atypical
+C5548425,neoplastic proliferation
+C4055506,accumulation
+C0337026,blast physical force
+C0085669,acute leukemia
+C0229613,lymphoblast
+C1152370,dna nucleotidylexotransferase activity
+C0033107,prevention control
+C0033325,forecast of outcome
+C0577559,mass of body structure
+C3826992,immature myeloid cell
+C0229633,myeloblast
+C4316798,auer rod
+C0008902,classification
+C0023487,acute promyelocytic leukemia
+C0587081,laboratory test finding
+C0017260,gene deletion
+C0008658,chromosomes human pair 16
+C0205082,severe severity modifier
+C0003988,asian americans
+C5690837,african people
+C0033414,promotion action
+C0008653,chromosomes human pair 11
+C0344440,hemoglobin electrophoresis
+C0019214,hepatosplenomegaly
+C0302111,aplastic crisis
+C0238158,secondary hemochromatosis
+C0444186,smear test
+C0002886,anemia macrocytic
+C2939773,levomefolate
+C0221908,epithelial
+C0022378,jejunum
+C0687725,alcoholics
+C0039667,tetrahydrofolate dehydrogenase
+C0034481,rbinder
+C0227230,body of stomach
+C0596563,fatty acid metabolism pathway
+C0037925,spinal cord
+C0228576,dorsal funiculus
+C0152402,structure of lateral corticospinal tract
+C1609982,residual
+C0123759,interleukin12
+C0439228,day
+C5420133,bone marrow response
+C0002520,amino acids
+C1160466,chemical conjugation
+C0221102,excretory function
+C0019113,hemosiderin
+C0051926,ankyrins
+C0037799,spectrin
+C0029392,osmotic fragility test
+C0020677,hypotonic solutions
+C0544483,hemoglobin subunit beta
+C0475370,hydrophilicity
+C0598629,hydrophobicity
+C0441889,levels qualifier value
+C0268306,unconjugated hyperbilirubinemia
+C0037303,bone structure of cranium
+C0015455,bone structure of face
+C0019209,hepatomegaly
+C0001168,complete obstruction
+C0029235,organism
+C0473237,frank hematuria
+C0033687,proteinuria
+C0239937,microscopic hematuria
+C0392148,providing presence regimetherapy
+C0019043,hemoglobin sickle
+C0024337,lysine
+C0596993,myeloid progenitor cells
+C0061688,glycosylphosphatidylinositols
+C0521164,ring shape
+C0235573,hemoglobinemia
+C0019048,hemoglobinuria
+C1456348,confirm
+C0005773,blood cells
+C0205419,variant
+C0018871,heinz bodies
+C0427483,finding of bite cells
+C0491333,stains heinz body
+C0023434,chronic lymphocytic leukemia
+C0030842,penicillins
+C3536856,cephalosporins
+C0025741,methyldopa
+C0038317,steroids
+C0015385,limb structure
+C0439852,indirect
+C0741949,cardiovascular pathology
+C4727002,chronic hemolysis
+C0162739,hellp syndrome
+C0018825,heart valve prosthesis
+C0003507,aortic valve stenosis
+C0023675,life cycle stages
+C1521721,supportive assistance
+C0439801,limited extensiveness
+C0206161,reticulocyte count procedure
+C0858318,plasmodium falciparum infection
+C0002874,aplastic anemia
+C0043162,wholebody irradiation
+C2708700,immature cells
+C0004827,basophils
+C0036087,saliva
+C0205653,adolescent age group
+C0521367,oropharyngeal
+C0235996,elevated liver enzymes
+C1512836,interfollicular area of the lymph node
+C1186982,periarterial lymphatic sheath
+C5441935,cd2 protein human
+C0003248,heterophile antibodies
+C0231377,at risk for impaired home maintenance management
+C0036743,serologic tests
+C0021345,infectious mononucleosis
+C0015230,exanthema
+C0034897,recurrence
+C0079731,bcell lymphomas
+C0312827,normal hematopoiesis
+C0015672,fatigue
+C0012892,dnadirected dna polymerase
+C0108748,cd19 antigens
+C0054946,cd20 antigens
+C0013216,pharmacotherapy
+C0036471,scrotum
+C0007806,cerebrospinal fluid
+C0008625,chromosome aberrations
+C0278250,prognosis good
+C0108773,cd2 antigens
+C0003323,cd4 antigens
+C0054968,cd7 antigens
+C0025285,meninges
+C0334227,tumor cells malignant
+C1709160,neoplastic
+C0027021,peroxidase
+C2745888,markers device
+C0140278,retinoic acid receptor
+C0040845,tretinoin
+C0023465,acute monocytic leukemia
+C0229655,monoblast
+C0023462,acute megakaryocytic leukemias
+C0229650,megakaryoblasts
+C3463824,myelodysplastic syndrome
+C0334094,proliferation morphologic abnormality
+C0023418,leukemia
+C0333823,smudge cell
+C0040682,cell transformation
+C0699952,fused
+C0023443,hairy cell leukemia
+C0333850,hairy cell
+C0001443,adenosine
+C0333851,sezary cell
+C0935989,imatinib
+C0018183,granulocyte
+C0032461,polycythemia
+C1457887,symptoms
+C0700148,congestion
+C0030840,penicillin v
+C2826586,leukoerythroblastic reaction
+C0226032,anterior descending branch of left coronary artery
+C0275518,acute infectious disease
+C0497156,lymphadenopathy
+C4014733,follicular hyperplasia
+C0342494,adrenocortical hyperplasia
+C0024305,lymphoma nonhodgkin
+C4721414,mantle cell lymphoma
+C0028259,nodule
+C0393022,rituximab
+C5237714,increased tingible body macrophages
+C1333183,cyclin gene
+C1711368,marginal zone
+C0006413,burkitt lymphoma
+C0205422,sporadic qualifier value
+C0085133,reedsternberg cells
+C0152268,nodular sclerosis classical hodgkin lymphoma
+C0036429,sclerosis
+C0178539,cellular
+C0152267,hodgkin lymphoma lymphocyte depletion
+C5686841,malignant neoplastic proliferation
+C0597357,receptor
+C0024348,lysis
+C0241988,monoclonal band
+C0221285,rouleaux formation
+C0221198,lesion
+C0023005,langerhans cell
+C0019621,histiocytosis langerhanscell
+C0016663,pathological fracture
+C0240942,rash of scalp
+C0011848,diabetes insipidus
+C0015300,exophthalmos
+C0507850,wall of artery
+C1262477,weight loss
+C0231528,myalgia
+C0333164,narrow
+C4025218,vasculitis of large artery
+C4049638,cutaneous small vessel vasculitis
+C0018202,granulomatous angiitis
+C0032533,polymyalgia rheumatica
+C0039263,takayasu arteritis
+C0332197,absent
+C0013845,electron spin resonance spectroscopy
+C1318520,necrotizing vasculitis
+C0002940,aneurysm
+C0037199,sinusitis
+C0027442,nasopharynx
+C0235896,pulmonary infiltrate
+C0010583,cyclophosphamide
+C0004096,asthma
+C1335386,peripheral blood eosinophilia
+C0333513,fibrinoid necrosis
+C0035067,renal artery stenosis
+C0678234,stenosis morphology
+C0035094,renin
+C0003017,angiotensinogen
+C0003006,angiotensin i
+C0022709,peptidyldipeptidase a
+C0002006,aldosterone
+C1827184,unilateral renal atrophy
+C0016052,fibromuscular dysplasia
+C0205271,irregular
+C0878486,arteriolosclerosis
+C0887866,monckeberg medial calcific sclerosis
+C0020443,hypercholesterolemia
+C0037369,smoking
+C0011847,diabetes
+C0023823,lowdensity lipoproteins
+C0023821,high density lipoproteins
+C0079399,gender
+C0017398,science of genetics
+C0232970,postmenopausal state
+C0241889,family history finding
+C0023779,lipids
+C0074129,scavenger receptor
+C0333484,fatty streaks
+C0085096,peripheral vascular diseases
+C0156149,gastrointestinal tract vascular insufficiency
+C3203359,rupture
+C0003847,structure of arteriole
+C0022663,kidney glomerulus
+C0268796,arteriolar nephrosclerosis
+C1817007,cell wall thickening
+C0022660,kidney failure acute
+C0444507,incidental
+C0003483,aorta
+C0024796,marfan syndrome
+C0013720,ehlersdanlos syndrome
+C0007177,cardiac tamponade
+C0003860,arteritis
+C0012359,pathological dilatation
+C0178987,artificial airways
+C0003484,abdominal aorta structure
+C0033416,promyelocytes
+C0042849,vitamin b complex
+C0017562,gingiva
+C0034619,radiotherapeutic
+C0010828,cytopenia
+C1334068,hypercellular bone marrow
+C0282416,overall publication type
+C0297331,tartrateresistant acid phosphatase
+C0229687,splenic red pulp
+C0001815,primary myelofibrosis
+C0600688,toxic effect
+C0332461,plaque lesion
+C0333373,microabscess
+C0036920,sezary syndrome
+C5539801,death in late adulthood
+C0740394,hyperuricemia
+C0018099,gout
+C0031526,philadelphia chromosome
+C0026606,physical activity
+C0872076,pluripotent stem cells
+C0023501,leukemoid reaction
+C0032718,portal vein structure
+C0010271,cranial sinuses
+C0016382,flushing
+C0033774,pruritus
+C0238617,high altitude physical force
+C0024115,lung diseases
+C0007134,renal cell carcinoma
+C2827348,jak2 gene mutation
+C0483203,nrbc nucleated red blood cell present result
+C0205286,mature
+C0157705,acute lymphadenitis
+C1384494,metastatic carcinoma
+C0154304,chronic lymphadenitis
+C1517067,extranodal
+C0162658,cell size
+C0040715,chromosomal translocation
+C1955939,lymphoid progenitor cells
+C0332453,disruption
+C3891557,anticd20 antibody
+C0677607,hashimoto disease
+C0744310,gastritis h pylori
+C1333782,gastric mucosaassociated lymphoid tissue lymphoma
+C0022359,jaw
+C0450429,location
+C0812425,sphase fraction
+C0796494,lobe
+C3280497,prominent nucleoli
+C0080188,antigens cd15
+C0054950,antigens cd30
+C0085593,chills
+C0028081,night sweats
+C0238598,young adult
+C0050385,cyclophosphamidedoxorubicin protocol
+C0029431,osteoclasts
+C0238790,bone destruction
+C0549207,bone structure of spine
+C0201720,serum protein electrophoresis
+C0946139,monoclonal igg
+C0042036,urine
+C0004965,bence jones protein
+C0268784,myeloma kidney
+C0221104,hyperviscosity
+C0226002,structure of medium artery
+C0080322,branchial arch structure
+C0547030,visual disturbance
+C0392171,influenzalike symptoms
+C4020753,intimal fibrosis
+C0456909,blindness
+C0003489,aortic arch structure
+C0235031,neurologic symptoms
+C1140618,upper extremity
+C0004057,aspirin
+C0041582,ulcer
+C0017086,gangrene
+C1833222,autoamputation
+C3845546,heavy smoking
+C0085134,cessation of smoking
+C3495801,granulomatosis with polyangiitis
+C0031036,polyarteritis nodosa
+C4228838,immune complex deposition
+C0017661,iga glomerulonephritis
+C0034057,pulmonary circulation
+C0836183,systemic arterial system
+C0020545,hypertension renovascular
+C0022445,juxtaglomerular apparatus
+C0005823,blood pressure
+C0032127,blood plasma volume
+C0035065,structure of renal artery
+C1547225,mild severity of illness code
+C0013962,emergency medical tags
+C0008377,cholesterol
+C0162864,tunica intima
+C0016390,foam cells
+C0226415,artery of lower extremity
+C0442037,popliteal
+C0205042,coronary artery
+C0025465,mesenteric arteries
+C0149566,structure of middle cerebral artery
+C0544726,hole finding
+C0020191,hyalin substance
+C3272633,hyaline arteriolosclerosis
+C4072986,macular thickening
+C0026018,microscopy
+C0022661,kidney failure chronic
+C0012737,tissue dissection
+C0392775,cystic medial necrosis of aorta
+C1522460,thoracic aorta
+C0153188,syphilis tertiary
+C0003504,aortic valve insufficiency
+C0025066,mediastinum
+C0226027,structure of aortic bifurcation
+C0020649,hypotension
+C0151744,myocardial ischemia
+C0340288,stable angina
+C0008031,chest pain
+C0264695,subendocardial ischemia
+C0011570,mental depression
+C0002963,angina pectoris variant
+C0439775,elevation procedure
+C0010073,coronary artery vasospasm
+C5238790,medication for kawasaki disease
+C0232290,crushing chest pain
+C0700590,increased sweating
+C0013404,dyspnea
+C0205265,initially
+C0077401,troponin i
+C0019134,heparin
+C0001895,alabama
+C0332522,contract agreement
+C0036980,shock cardiogenic
+C0031046,pericarditis
+C0225870,ventricular septum
+C0030352,structure of papillary muscle
+C0205284,marginal
+C0007457,caucasian
+C0155713,rupture of papillary muscle
+C0018799,heart diseases
+C0085612,ventricular arrhythmia
+C0231174,failure biologic function
+C0242073,pulmonary congestion
+C5397971,hemosiderinladen macrophages in bronchoalveolar fluid
+C0268000,body fluid retention
+C0235527,heart failure rightsided
+C0034072,cor pulmonale
+C0333243,pitting edema
+C0813207,creation of shunt
+C0232180,cardiac shunt
+C0010520,cyanosis
+C0225840,structure of ostium secundum
+C1308727,rbbp8 protein human
+C0238096,embolism paradoxical
+C0013743,eisenmenger complex
+C0021246,indomethacin
+C0013274,patent ductus arteriosus
+C0549177,large
+C0225883,right ventricular structure
+C0018817,atrial septal defects
+C0205091,left
+C0003492,aortic coarctation
+C0009348,collateral circulation
+C0443327,tricuspid
+C0746591,mitral
+C0232605,regurgitates after swallowing
+C0036689,streptococcal sore throat
+C0004627,bacterial proteins
+C0243161,criteria
+C0240344,migratory polyarthritis
+C4551970,sclerotic vertebral endplates
+C0026264,mitral valve
+C0003960,aschoff bodies
+C0019612,histiocytes
+C0027059,myocarditis
+C0041834,erythema
+C0152113,rheumatic chorea
+C1261512,attack behavior
+C0149630,bicuspid aortic valve
+C0577790,aortic valve normal
+C0026269,mitral valve stenosis
+C0035435,rheumatism
+C0241320,systolic click
+C4068736,crescendodecrescendo murmur
+C0149721,left ventricular hypertrophy
+C0015259,exercise
+C0428791,aortic valve calcification
+C5239551,valve replacement
+C0225897,left ventricular structure
+C0039137,syphilitic aneurysm
+C0340643,dissection of aorta
+C0014122,subacute bacterial endocarditis
+C2585422,hyperdynamic circulation
+C0949236,pulse pressure
+C0428883,diastolic blood pressure
+C0871470,systolic pressure
+C0425574,bounding pulse
+C0221997,nail bed structure
+C0333964,eccentric hypertrophy
+C0333451,myxoid degeneration
+C0026266,mitral valve insufficiency
+C0023212,leftsided heart failure
+C0546817,fluid overload
+C0004238,atrial fibrillation
+C0318157,streptococcus viridans group
+C0333205,mural thrombus
+C1285498,vegetation
+C0375268,acute endocarditis
+C0038174,staphylococcus epidermidis
+C0085496,streptococcus bovis
+C0004610,bacteremia
+C0018808,heart murmur
+C0240608,oslers node
+C0333286,splinter hemorrhage
+C0240916,roth spots
+C0206054,echocardiography transesophageal
+C0221390,nonbacterial thrombotic endocarditis
+C0242380,libmansacks disease
+C0878544,cardiomyopathies
+C0749225,systolic dysfunction
+C0333386,chronic lymphocytic inflammation
+C0007193,cardiomyopathy dilated
+C0520863,diastolic dysfunction
+C0007194,hypertrophic cardiomyopathy
+C3671015,myofiber disarray
+C1334699,mesenchymal cell neoplasm
+C0205320,pedunculated
+C0028778,obstruction
+C0035473,rhinovirus
+C0037383,sneezing
+C1260880,rhinorrhea
+C1334103,il13 gene
+C0032385,pollen
+C3887644,inflammatory infiltrate
+C1319853,asthma aspirininduced
+C0121772,haemophilus influenzae type b
+C0030393,parainfluenza virus
+C0396053,singers nodes
+C0476073,papillary neoplasm
+C0021344,human papillomavirus
+C0032300,lobar pneumonia
+C0006285,bronchopneumonia
+C0206061,pneumonia interstitial
+C0155814,acute epiglottitis
+C5447929,gross appearance
+C0004135,ataxia telangiectasia
+C0521530,lung consolidation
+C0001699,klebsiella pneumoniae
+C1260386,glucocorticoidremediable aldosteronism
+C0004613,bacteria anaerobic
+C0004661,bacteroides
+C0016878,genus fusobacterium
+C0030965,peptococcus
+C0332448,infiltration
+C0000833,abscess
+C0014009,empyema
+C0032285,pneumonia
+C0702135,primary atypical pneumonia
+C0010239,coxiella
+C4086768,reactivation
+C0038128,stains
+C0024091,bone structure of lumbar vertebra
+C0001883,airway obstruction
+C0231819,air trapping finding
+C0016199,flank pain
+C0041951,ureter
+C0205968,thorotrast
+C0001175,acquired immunodeficiency syndrome
+C0599685,antiretroviral agents
+C0040732,transplantation
+C0015264,exertion
+C0086209,emotional stress
+C0596981,muscle cells
+C3808668,episodic pain
+C0522497,transmural
+C0239076,cocaine user
+C0035569,ricin
+C0022864,labor childbirth
+C0035126,reperfusion injury
+C0162691,friction
+C0221205,yellow color
+C0018802,congestive heart failure
+C0034063,pulmonary edema
+C4476767,diffuse alveolar hemorrhage
+C0003015,angiotensinconverting enzyme inhibitors
+C0428870,left to right cardiovascular shunt finding
+C0746102,chronic lung disease
+C0085699,cardiac cirrhosis
+C0018801,heart failure
+C0481667,live birth
+C0162770,right ventricular hypertrophy
+C0149651,clubbing
+C0018818,ventricular septal defects
+C1327729,cell septum
+C0185003,reparative closure
+C0035921,congenital rubella syndrome
+C0013273,structure of ductus arteriosus
+C0543481,hypoplastic
+C0459917,intercostal artery
+C0455825,left ventricular mass
+C0184252,medical valves
+C1879885,backflow
+C0043262,wrist
+C0022742,knee
+C0003086,ankle
+C0744221,friction rub
+C0225442,trunk of elephant
+C0221722,involuntary muscle movement
+C0035439,rheumatic heart disease
+C0035436,rheumatic fever
+C0035440,acute rheumatic heart disease
+C2717979,tooth wear
+C0039070,syncope
+C1866956,aortic root dilation
+C0033095,pressure physical agent
+C0232123,collapsing pulse
+C0034107,pulse taking
+C0225860,left atrial structure
+C0439673,unknown
+C0264863,subacute endocarditis
+C0338666,drug abuser
+C0227426,structure of anal valves
+C0336548,prosthetic valve
+C0009402,colorectal carcinoma
+C0018826,heart valves
+C0016129,fingers
+C0442726,detected finding
+C3277906,cardiac dysfunction
+C4049886,coxsackievirus a
+C0011071,sudden death
+C0878751,late pregnancy
+C0005615,birth
+C0018823,heart transplantation
+C0041341,tuberous sclerosis
+C0007799,cerebral ventricles
+C0031050,pericardial sac structure
+C0009443,common cold
+C0035455,rhinitis
+C0027430,nasal polyps
+C0225331,fibrous tissue
+C0014540,epiglottis structure
+C0042930,vocal cord structure
+C0030354,papilloma
+C0819757,structure of parenchyma of lung
+C0039985,plain chest xray
+C0225691,alveolar sac
+C0225389,alveolar air
+C0332529,consistency
+C0006270,bronchioles
+C0205292,multifocal
+C0238767,bilateral
+C0449416,source
+C1293950,silver stain method
+C0694549,community acquired pneumonia
+C1301808,geographic state
+C0175816,cold hemagglutinin disease
+C0085393,immunocompromised host
+C0743973,fever high finding
+C0221460,farmers
+C0242856,veterinarian
+C0007452,cattle
+C0035588,rickettsia rickettsii
+C0035583,rickettsia
+C0483226,acidfast bacillus
+C0588054,cervical lymph node group
+C0025289,meningitis
+C0281986,sterile pyuria
+C0041330,tuberculosis spinal
+C0040509,total lung capacity
+C0026926,mycobacterium tuberculosis
+C0001878,air sacs
+C0264393,panacinar emphysema
+C0521117,severity of illness
+C0812214,pim1 gene
+C0019425,heterozygote
+C0019904,homozygote
+C0079043,bronchoconstriction
+C0155877,allergic asthma
+C0699748,pathogenesis
+C0002092,allergens
+C0220898,predisposition attribute
+C0020846,immunoglobulin e
+C0427896,crystal human material
+C0239134,productive cough
+C0013352,dynein atpase
+C0021359,infertility
+C0037221,situs inversus
+C0022521,kartagener syndrome
+C0005740,bleomycin
+C0002598,amiodarone
+C0085236,macrophages alveolar
+C0442893,systemic disease
+C0032273,pneumoconiosis
+C0006915,caplan syndrome
+C0005138,berylliosis
+C0025500,mesothelioma
+C0205141,stellate
+C0042164,uveitis
+C0037287,skin nodule
+C0014743,erythema nodosum
+C0020437,hypercalcemia
+C0003165,anthracosis
+C0007009,carbon
+C0037098,silicon dioxide
+C0678579,brown color
+C0333598,deposition of asbestos fibers
+C0333568,asteroid body
+C0439667,granulomatous
+C0332157,exposure to
+C2265909,smooth muscle hypertrophy
+C4505106,loss of function mutation
+C0024117,chronic obstructive airway disease
+C0206062,lung diseases interstitial
+C0018798,congenital heart defects
+C0333563,hyaline membrane
+C0035220,respiratory distress syndrome newborn
+C0036974,shock
+C0349707,aspirationaction
+C0034085,pulmonary surfactants
+C4534306,supplemental oxygen
+C0347602,injury of retina
+C0034629,radon
+C0003947,asbestos
+C0041928,uranium
+C0009131,coal
+C0028013,nickel
+C0150312,present
+C0010200,coughing
+C0019653,genus histoplasma
+C0699790,colon carcinoma
+C0149925,small cell carcinoma of lung
+C1266002,nonsmall cell carcinoma
+C0206695,carcinoma neuroendocrine
+C0007095,carcinoid tumor
+C0030472,paraneoplastic syndromes
+C0334276,adenocarcinoma in situ
+C0225338,columnar epithelial cell
+C4684680,granularity
+C2752741,prostatic bud formation
+C1167402,intercellular bridge
+C0042484,venous engorgement
+C0026205,miosis disorder
+C0001625,adrenal glands
+C3266992,egfr gene mutation
+C4329227,alk gene translocation
+C0034802,epidermal growth factor receptor
+C0004015,aspartic acid
+C0149781,spontaneous pneumothorax
+C0032326,pneumothorax
+C0008924,cleft upper lip
+C0038363,aphthous stomatitis
+C0333262,vesicle morphologic abnormality
+C0023531,leukoplakia
+C0023532,leukoplakia oral
+C0006849,oral candidiasis
+C0206186,leukoplakia hairy
+C0014818,erythroplasia
+C0036098,salivary glands
+C0015282,exocrine glands
+C1285092,gland
+C0026783,mumps virus
+C0029191,orchitis
+C0231448,extension
+C0015462,facial nerve structure
+C0018520,halitosis
+C0205127,longitudinal
+C0006370,bulimia
+C1522619,esophageal
+C0020541,portal hypertension
+C0226737,structure of left gastric vein
+C0014848,esophageal achalasia
+C0041234,chagas disease
+C0311392,physical findings
+C0001962,ethanol
+C0040329,tobacco
+C0241986,lye ingestion
+C0152018,esophageal carcinoma
+C0034898,recurrent laryngeal nerve
+C0205322,persistent
+C1548795,live specimen condition
+C0334037,intestinal metaplasia
+C2753459,mucus layer
+C0005367,bicarbonates
+C0021880,intracranial pressure
+C0333307,superficial ulcer
+C4744549,autoimmune atrophic chronic gastritis
+C0020522,delayed hypersensitivity
+C0600653,indexes
+C0007012,carbon dioxide
+C1283004,po2 measurement
+C0013990,pathological accumulation of air in tissues
+C0225756,structure of upper lobe of lung
+C0225758,structure of lower lobe of lung
+C0175630,circulating
+C0231335,childhood
+C0001349,acutephase reaction
+C0002736,amyotrophic lateral sclerosis
+C0038218,status asthmaticus
+C0028798,occupational exposure
+C0026649,movement
+C2328510,interstitium
+C0332664,injured
+C0412611,ct of lungs
+C0024128,lung transplantation
+C0206643,neoplasms fibrous tissue
+C0005139,beryllium
+C0021267,industry
+C1305372,hilar lymph node
+C0460002,body system
+C0403066,construction worker
+C0336099,plumber general
+C1306056,worker
+C0042160,uvea
+C1324037,steroid 22alpha hydroxylase activity
+C1515933,alveolus
+C0035222,respiratory distress syndrome adult
+C0225700,typeii pneumocytes
+C0237820,recovery action
+C0008767,cicatrization
+C1959616,phosphatidylcholines
+C0038887,surface tension
+C0021294,infant premature
+C0520459,necrotizing enterocolitis
+C0006287,bronchopulmonary dysplasia
+C0035648,risk factors
+C0337664,smoker
+C0026879,mutagens
+C1265611,quantity
+C2700110,unit of radioactive decay
+C0037592,soil
+C0750540,nonspecific
+C0007301,cartilage
+C0683312,categories
+C0019638,histology
+C0008586,chromogranins
+C0085424,interleukin9
+C0245662,cd95 antigens
+C0006255,bronchi
+C0001942,alcohol dehydrogenase
+C0001655,corticotropin
+C0022972,lamberteaton myasthenic syndrome
+C2347662,preexisting
+C0024586,malignant carcinoid syndrome
+C1325815,peripherin location
+C0205099,central
+C0038833,superior vena cava syndrome
+C0019825,hoarseness
+C0035232,respiratory paralysis
+C0005745,blepharoptosis
+C0003028,anhidrosis
+C0019937,horner syndrome
+C0037011,shoulder pain
+C0575810,weakness of hand
+C0549471,pancoast tumor
+C0205150,hilar
+C1269798,pm category
+C0021083,immunotherapy
+C0178802,pleural cavity
+C0043254,wounds penetrating
+C0817096,chest
+C5237755,recurrent large pleural effusion
+C0700374,palate
+C0026639,oral mucous membrane structure
+C1854783,grayish enamel
+C0151281,genital ulcers
+C0023759,lip structure
+C4727465,squamous dysplasia
+C1882869,rat squamous cell hyperplasia
+C0030580,parotid gland
+C0038553,sublingual gland
+C1318973,staphylococcus aureus infection
+C0014609,epithelium
+C0161479,nerve injury
+C1513712,mucinous
+C0040578,trachea
+C0227140,pharyngeal mucous membrane
+C0333115,false diverticulum
+C0042963,vomiting
+C0038536,subcutaneous emphysema
+C0042345,varicosity
+C0226644,structure of esophageal vein
+C0027028,myenteric plexus
+C1282913,circular
+C0021853,intestines
+C0267096,esophageal injury
+C0018926,hematemesis
+C0041633,umbilical cord structure
+C0185181,myotomy
+C0085695,chronic gastritis
+C1517304,foveolar cell
+C0678695,nutrients
+C3893723,curli
+C0205124,superficial
+C0016823,structure of fundus of eye
+C0013295,duodenal ulcer
+C0184980,endoscopic biopsy
+C0038358,gastric ulcer
+C0030920,peptic ulcer
+C0079488,helicobacter pylori
+C3887639,autoimmune gastritis
+C0005810,blood group classification
+C0333727,signet ring cell
+C0038351,stomach
+C0229730,structure of supraclavicular lymph node
+C0272401,virchows node disorder
+C0446495,periumbilical part of abdomen
+C0878585,sister mary josephs nodule
+C0023743,linitis plastica
+C0227898,both ovaries
+C0022790,krukenberg tumor
+C0042961,intestinal volvulus
+C0021933,intussusception
+C0023595,lewis bloodgroup system
+C1621433,cell leading edge
+C0333997,lymphoid hyperplasia
+C0035870,rotavirus
+C0021852,intestines small
+C0083183,lactase
+C2362561,gluten
+C0017622,gliadin
+C0529334,transglutaminase 2
+C5565118,tgm2 protein human
+C0020835,immunoglobulin a
+C0011608,dermatitis herpetiformis
+C0162538,immunoglobulin a deficiency disorder
+C0399805,biopsy of duodenum
+C0238196,small intestine carcinoma
+C0079772,tcell lymphoma
+C2673838,flattened villi
+C0995830,tropheryma whipplei
+C0030125,aminosalicylic acid
+C0008731,chylomicrons
+C0230686,neurosecretory granule
+C0036751,serotonin
+C0020361,hydroxyindoleacetic acid
+C0007093,carcinoid heart disease
+C0026454,monoamine oxidase
+C0031154,peritonitis
+C0228071,ganglion cell
+C0038564,submucous plexus
+C0238551,left lower quadrant pain
+C0032568,inflammatory polyp
+C0025162,megacolon toxic
+C0332469,fissure
+C0694551,right lower quadrant pain
+C0205418,aggregate
+C0009373,colonic diseases
+C0038013,ankylosing spondylitis
+C0574960,sacroiliitis
+C0205100,peripheral
+C0009324,ulcerative colitis
+C0333374,crypt abscess morphologic abnormality
+C0012811,colon diverticulum anatomic structure
+C0403082,diver occupation
+C0016169,pathologic fistula
+C0268842,colovesical fistula
+C0018932,hematochezia
+C3899989,autosomal dominant disorder
+C0227387,left colic flexure
+C0000737,abdominal pain
+C0333983,hyperplastic polyp
+C0206677,adenomatous polyps
+C0032580,adenomatous polyposis coli
+C0032584,polyps
+C0017097,gardner syndrome
+C0016048,fibromatosis
+C0029440,osteoma
+C0265325,turcot syndrome disorder
+C0085136,central nervous system neoplasms
+C0034887,rectal polyp
+C0345893,juvenile polyposis syndrome
+C0162834,hyperpigmentation
+C0796369,microsatellite instability diagnostic test
+C1519302,short tandem repeat
+C1444783,instability
+C1155661,mismatch repair
+C4024989,hereditary nonpolyposis colorectal carcinoma
+C0252642,mlh1 protein human
+C5418305,leftsided breast carcinoma
+C0444532,right sided
+C0013292,duodenal obstruction
+C0920330,pancreatic enzyme
+C0015668,fat necrosis
+C0232493,epigastric pain
+C0022131,islets of langerhans
+C0022354,jaundice obstructive
+C0271640,secondary diabetes mellitus
+C0085162,pancreaticoduodenectomy
+C0008350,cholelithiasis
+C0006736,calculi
+C0005437,bilirubin
+C0031617,lecithin
+C0005390,bile acids
+C0003955,ascaris lumbricoides
+C0009022,clonorchis sinensis
+C0151824,biliary colic
+C0149520,acute cholecystitis
+C0085694,chronic cholecystitis
+C0311273,ascending cholangitis
+C0156156,gallstone ileus
+C0153452,malignant neoplasm of gallbladder
+C0005388,bile fluid
+C0040456,impacted tooth
+C0036776,serum alkaline phosphatase measurement
+C0227548,gallbladder mucosa
+C0005682,urinary bladder
+C0032691,intramural calcification of gallbladder
+C0267892,rokitanskyaschoff sinuses of the gallbladder
+C0008320,cholecystectomy procedure
+C0701818,choledocholithiasis
+C0682578,glandular epithelium
+C0235782,gallbladder carcinoma
+C0240962,scleral icterus
+C0041560,glucuronosyltransferase
+C0236556,direct reacting bilirubin
+C0042052,urobilinogen
+C0075228,stercobilin
+C0042051,urobilin
+C0022353,neonatal jaundice
+C0019159,hepatitis a
+C0085294,hepatitis e virus
+C0427736,urobilinogen measurement urine
+C0031765,phototherapy
+C0017152,gastritis
+C0001339,pancreatitis acute
+C0003211,antiinflammatory agents nonsteroidal
+C0005403,bile reflux
+C1549092,antrum
+C0227224,stomach wall structure
+C0239233,early satiety
+C0000889,acanthosis nigricans
+C0686770,lesertrélat sign
+C0012817,diverticulum
+C0017136,gastric mucosa
+C0227391,sigmoid colon
+C0007531,cecum
+C0031133,peristalsis
+C0040597,traction
+C0020885,ileum
+C3899988,autosomal recessive disorder
+C1437174,hladq2 antigen
+C0043137,wheat dietary
+C0086369,grains
+C0450254,pathogenic organism
+C0339897,transjugular intrahepatic portosystemic shunt procedure
+C0344351,glutenfree diet
+C0504097,endomysium
+C0007570,celiac disease
+C0205324,flat shape
+C1512944,intraepithelial lymphocytes
+C1514815,refractory disease
+C1518275,neuroendocrine cells
+C1373178,hepatic metabolism
+C0011991,diarrhea
+C0040961,tricuspid valve insufficiency
+C0034089,pulmonary valve stenosis
+C0003617,appendix
+C0000727,abdomen acute
+C0333033,fecalith
+C0205090,right
+C0427198,protective muscle spasm
+C0234246,rebound tenderness
+C0027789,neural crest
+C0007608,cell motility
+C0225344,tunica submucosa
+C0036537,bodily secretions
+C0151594,hemorrhagic diarrhea
+C0011923,diagnostic imaging
+C0349966,figs dietary
+C1261287,stenosis
+C0085652,pyoderma gangrenosum
+C0566602,primary sclerosing cholangitis
+C0134596,panca
+C0225358,bladder detrusor muscle
+C0009806,constipation
+C0442694,straining finding
+C0489802,capillary beds
+C0009368,colon structure body structure
+C0009376,colonic polyps
+C0032927,precancerous conditions
+C0009378,colonoscopy
+C0035359,retroperitoneal space
+C0025149,medulloblastoma
+C0017638,glioma
+C0033377,ptosis
+C0017420,genitalia
+C0227349,colonic mucous membrane
+C0227395,rectal mucous membrane
+C0004793,base sequence
+C0007590,cell division
+C0441712,mechanism attribute
+C0205408,vague
+C2985400,serum tumor marker test
+C0521982,response to treatment
+C0225317,soft tissue
+C0521613,hemorrhage of pancreas
+C0010674,cystic fibrosis
+C0004600,back
+C0038238,steatorrhea
+C0014695,ergocalciferol
+C1179571,parenchyma of pancreas
+C0030288,pancreatic duct
+C0242821,human body
+C0085295,interleukin10
+C0016976,gallbladder
+C0205208,solid
+C0332490,round shape
+C0031676,phospholipids
+C0037628,solubility
+C0920156,biliary tract infection
+C0005423,biliary tract structure
+C0008115,china
+C0022771,korea
+C0042658,vietnam
+C0008311,cholangitis
+C0206698,cholangiocarcinoma
+C0734014,wall of gallbladder
+C0010672,cystic duct structure
+C0151521,bacterial resistance
+C0022108,irritants
+C4083049,muscle organ
+C0005400,bile duct structure
+C0008325,cholecystitis
+C1834412,yellow discoloration
+C0005393,structure of bile canaliculus
+C0012238,digestion
+C0687759,traveler
+C0043056,water pollution
+C0426396,urine looks dark
+C0043047,water
+C1948047,soluble qualifier
+C0004781,basal ganglia
+C0521654,neurologic deficits
+C0022610,kernicterus
+C0220991,rotor syndrome
+C0005443,bilirubinuria
+C0032105,plasma
+C0042040,urine bilirubin tests
+C0302809,fulminant hepatitis
+C0035668,rna
+C0546816,persistence
+C0011226,hepatitis d infection
+C0019167,hepatitis b e antigens
+C0019186,hepatitis viruses
+C0267797,acute hepatitis
+C0526532,cinobufotalin
+C0598117,stellate cell
+C0003962,ascites
+C0032720,surgical portosystemic shunt
+C0019212,hepatorenal syndrome
+C0002607,ammonia
+C0856054,mental status change
+C0232766,asterixis
+C0154209,hyperestrogenism
+C0239981,hypoalbuminemia
+C0015695,fatty liver
+C3843422,abstinence
+C0019187,hepatitis alcoholic
+C0000966,acetaldehyde
+C0333744,mallory bodies
+C0018995,hemochromatosis
+C0392514,hereditary hemochromatosis
+C0018050,gonadal disorders
+C0193388,biopsy of liver procedure
+C0023789,lipofuscin
+C0011265,presenile dementia
+C0008489,chorea
+C0152457,kayserfleischer ring
+C0005401,intrahepatic bile duct
+C0333596,deposition of iron
+C5678451,periductal fibrosis
+C5667409,regions involved
+C0206669,hepatocellular adenoma
+C0019189,hepatitis chronic
+C0400966,nonalcoholic fatty liver disease
+C0019202,hepatolenticular degeneration
+C0002210,alphafetoproteins
+C0748164,multiple pulmonary nodules
+C0221353,horseshoe kidney
+C0542519,congenital absence of kidney
+C0266294,unilateral agenesis of kidney
+C1609433,congenital absence of kidneys syndrome
+C0010709,cyst
+C0009714,hepatic fibrosis congenital
+C0242528,azotemia
+C0554309,prerenal azotemia
+C0428601,measurement of fractional excretion of sodium
+C5670030,renal tubule damage
+C1845169,renal phosphate wasting
+C2610987,renal sodium ion absorption
+C0022677,kidney tubules proximal
+C0025148,medulla oblongata
+C1321013,hydration status
+C0002144,allopurinol
+C0028961,oliguria
+C0020461,hyperkalemia
+C3541994,drug hypersensitivity syndrome
+C0012798,diuretics
+C1843274,acute tubulointerstitial nephritis
+C0002771,analgesics
+C0086438,hypogammaglobulinemia
+C0030817,penicillamine
+C0599297,glomerular basement membrane
+C5539715,glomerular subepithelial deposits
+C0441730,type 2
+C0009508,complement c3 nephritic factor
+C0202041,glucose measurement serum
+C2936349,plaque amyloid
+C0268731,renal glomerular disease
+C3853628,granule
+C0268732,nephritic syndrome
+C0021099,impetigo
+C2607943,findings aspects
+C0022658,kidney diseases
+C2347126,microscopic polyarteritis
+C0008728,eosinophilic granulomatosis with polyangiitis
+C5539893,glomerular crescent formation
+C0444628,crescents
+C0227643,structure of bowmans space
+C0205210,clinical
+C0079603,immunofluorescence assay
+C0017655,structure of glomerular mesangium
+C0010692,cystitis
+C0125619,leucocyte esterase
+C0038170,genus staphylococcus
+C0038404,enterococcus faecalis
+C0041976,urethritis
+C0013428,dysuria
+C0042580,vesicoureteral reflux
+C0441994,lower spatial qualifier
+C0370152,waxy casts substance
+C0032931,precipitation
+C0086045,mental concentration
+C0232856,urine volume function
+C0549433,surgical intervention finding
+C0011849,diabetes mellitus
+C0389252,ret protein human
+C0035086,renal osteodystrophy
+C0011945,physical dialysis
+C0022671,kidney transplantation
+C0018552,hamartoma
+C0070099,parathyroid hormonerelated protein
+C0040648,transcription factor
+C0019562,von hippellindau syndrome
+C0544461,inactivation
+C0027708,nephroblastoma
+C0522116,renin secretion
+C0332582,dark color
+C0022350,jaundice chronic idiopathic
+C0302314,xanthoma
+C0868928,case situation
+C0019163,hepatitis b
+C0030657,pathogenicity aspects
+C0231218,malaise
+C0027497,nausea
+C0032717,portal system
+C5670396,regenerative phase
+C0014867,esophageal varices
+C0019112,hemorrhoids
+C0221226,distended umbilical veins
+C0311400,metabolic
+C0018418,gynecomastia
+C0085666,spider nevus
+C0014745,palmar erythema
+C0556346,binge drinking
+C1268448,cytokeratin filaments
+C2939074,bronze skin
+C0156312,atrophy of testis
+C4555503,pigment brown 1
+C0190979,venous blood sampling
+C1412689,atp7b gene
+C0027854,neurologic manifestations
+C0010031,cornea
+C0205054,hepatic
+C0020615,hypoglycemia
+C0027498,nausea and vomiting
+C0019065,hemoperitoneum
+C0019196,hepatitis c
+C0151731,hepatic infarction
+C0227992,structure of inferior pole of testis
+C0162860,structure of inferior mesenteric artery
+C0079924,oligohydramnios
+C0265783,congenital hypoplasia of lung
+C0178426,oligohydramnios sequence
+C0332290,consistent with
+C0022680,polycystic kidney diseases
+C0022655,structure of cortex of kidney
+C0267834,liver cyst
+C0235446,azotemia due to intrarenal disease
+C0017654,glomerular filtration rate
+C0475224,ischemic
+C1514118,nephrotoxic
+C0027080,myoglobinuria
+C0205263,induce action
+C0220981,metabolic acidosis
+C0024439,macular corneal dystrophy
+C0523207,hematoxylin and eosin stain method
+C0001924,albumins
+C0086409,hispanics
+C1280412,thick
+C1515018,subendothelial layer
+C0205115,afferent
+C0232809,glomerular filtration
+C0730345,microalbuminuria
+C0333348,inflammatory
+C0031354,pharyngeal structure
+C0081583,cytoplasmic antineutrophil cytoplasmic antibody
+C0041967,urethra
+C0042023,increased frequency of micturition
+C0439609,urgent
+C0241310,suprapubic pain
+C0028137,nitrites
+C0034359,pyuria
+C0010453,anthropological culture
+C0008151,chlamydia trachomatis
+C0221971,hair follicle structure
+C0232488,abdominal colic
+C0003123,anorexia
+C0679429,platelet dysfunction
+C0085681,hyperphosphatemia disorder
+C0020503,hyperparathyroidism secondary
+C0029442,osteomalacia
+C0029456,osteoporosis
+C0022674,renal tubule structure
+C0085697,chronic pyelonephritis
+C0042341,varicocele
+C0206734,hemangioblastoma
+C0162597,stromal cells
+C0740457,malignant neoplasm of kidney
+C4054315,organomegaly
+C0205312,papillary
+C0221763,chronic cystitis
+C0276926,schistosoma hematobium infection
+C0015338,exstrophy
+C0007138,carcinoma transitional cell
+C0004768,bartholin glands
+C0009663,condylomata acuminata
+C0275828,condyloma latum
+C0333896,koilocytotic atypia
+C0302180,condyloma
+C0221909,squamous epithelium
+C1334059,human papillomavirusrelated vulvar squamous cell carcinoma
+C0346210,vulval intraepithelial neoplasia
+C1335070,nuclear atypia
+C0225337,columnar epithelium
+C0000771,abnormalities druginduced
+C1306573,botryoidtype embryonal rhabdomyosarcoma
+C0035412,rhabdomyosarcoma
+C0346208,vaginal intraepithelial neoplasia
+C0227829,exocervix
+C0227837,endocervix
+C0036918,sexually transmitted diseases viral
+C0201679,human papillomavirus typing procedure
+C0597611,tumor suppressor proteins
+C0441800,grade
+C0349458,cervical intraepithelial neoplasia grade 1
+C0349459,cervical intraepithelial neoplasia grade 2
+C0851140,carcinoma in situ of uterine cervix
+C4744555,low grade dysplasia
+C0302592,cervix carcinoma
+C0079104,pap smear
+C1333110,colorectal high grade intraepithelial neoplasia
+C5392198,tetravalent vaccines
+C0014180,endometrium
+C0027088,myometrium
+C0162633,viral shedding
+C0232940,secondary physiologic amenorrhea
+C0333056,protrusion
+C0039286,tamoxifen
+C0227848,endometrial gland structure
+C0014175,endometriosis
+C0030794,pelvic pain
+C0021102,implants
+C0028754,obesity
+C0032460,polycystic ovary syndrome
+C0014935,estrogen replacement therapy
+C0333865,cytologic atypia
+C1336905,endometrial endometrioid adenocarcinoma
+C0221930,papillary area
+C3650625,abnormal uterine bleeding
+C0347944,pelvic mass
+C0023269,leiomyosarcoma
+C0439806,gross qualifier value
+C0205462,histologic
+C0018120,ovarian follicle
+C0023607,luteinizing hormone
+C0002844,androgens
+C0016424,follicle stimulating hormone injectable
+C0014912,estradiol
+C0029965,ovulation
+C0010092,structure of corpus luteum of ovary
+C0033308,progesterone
+C0024153,luteal phase
+C0016427,follicular cyst
+C0016429,follicular cyst of ovary
+C3822293,hydrogen biosynthetic process
+C0019572,hirsutism
+C0014942,estrone
+C0029939,ovary
+C0440743,serous
+C0334355,serous cystadenoma borderline malignancy
+C0006160,brenner tumor
+C0474809,endometrioid tumor
+C0015461,facial neoplasms
+C0205851,germ cell tumor
+C0011649,dermoid cyst
+C1333190,neoplasms cystic
+C0242291,fetal tissue
+C0205252,immature
+C0038478,struma ovarii
+C0039538,teratoma
+C0013377,dysgerminoma
+C0036631,seminoma
+C1710022,schillerduval body
+C1300819,hemorrhagic tumor
+C0025184,meigs syndrome
+C4727169,metastatic gastric carcinoma
+C0033822,pseudomyxoma peritonei
+C1334811,neoplasms mucinous
+C0021107,implantation procedure
+C0015560,fallopian tubes
+C1280500,effect
+C0439230,week
+C0027530,neck
+C0022265,isotretinoin
+C0852036,pregnancy associated hypertension
+C0205161,abnormal
+C0013537,eclampsia
+C2717961,thrombotic microangiopathies
+C0020217,hydatidiform mole
+C0678213,complete hydatidiform mole
+C0227266,intestinal villus
+C0027960,nevus
+C0426038,fetal heart sounds present
+C0008497,choriocarcinoma
+C0003076,aniridia
+C0744356,abnormality of the genital system
+C0229992,psyche structure
+C0238395,male pseudohermaphroditism
+C0332890,congenital hemihypertrophy
+C0227666,renal pelvis
+C0814140,lower urinary tract cancer
+C0332915,congenital failure of fusion
+C0227760,labium majus
+C0227766,labium minus
+C0230190,mons pubis
+C0042606,vestibule
+C0149985,syphilis secondary
+C0014520,epidermis
+C1706307,irritation finding
+C2987480,scratch action
+C0677055,carcinoma of vulva
+C0227793,upper third of vagina
+C0231057,urogenital sinus
+C0030851,penis
+C0011696,desmin
+C0067053,myogenin
+C0227784,vaginal mucous membrane
+C0729596,inguinal lymph node group
+C0205147,regional
+C0200048,vaginal examination
+C1963704,male reproductive system
+C0162326,dna sequence
+C1711358,cervix epithelium
+C0334252,squamous cell carcinoma microinvasive
+C0162854,commonwealth of independent states
+C0343641,human papilloma virus infection
+C0736448,wall of body of uterus
+C4744722,advanced cervical carcinoma
+C0181839,microscopes
+C0871311,screening test
+C0227844,uterine cavity
+C5670395,menstrual phase
+C0042134,uterine hemorrhage
+C0476089,endometrial carcinoma
+C0205145,site
+C0013390,dysmenorrhea
+C0237029,endometrium normal
+C0230299,structure of uterine ligament
+C0013075,structure of rectouterine pouch
+C0458421,wall of bladder
+C0736937,mucosa of uterine tube
+C0341858,endometriosis of uterus
+C0927195,stroma
+C0032776,postmenopausal bleeding
+C0349578,complex endometrial hyperplasia
+C0017421,female genitalia
+C0334192,atrophic endometrium
+C0001807,aggressive behavior
+C0030797,pelvis
+C1334779,mitotic activity
+C0029045,oocytes
+C0018207,granulosa cell
+C0039748,theca cell
+C0016434,menstrual cycle proliferative phase
+C0333275,hemorrhagic
+C0028949,oligomenorrhea
+C0021655,insulin resistance
+C0011860,diabetes mellitus noninsulindependent
+C0017471,germ cells
+C0206724,sex cordstromal tumor
+C1368683,epithelioma
+C0205207,cystic
+C3714296,thin fluid
+C0205189,borderline
+C0279752,premenopausal menopausal status
+C0010633,cystadenoma
+C0742961,cyst complex
+C0010631,cystadenocarcinoma
+C0439650,fullness
+C0162491,serum markers
+C0919267,ovarian neoplasm
+C0934502,anatomical layer
+C3714606,neural
+C1515441,thyroid gland tissue
+C4048549,malignant germ cell neoplasm
+C0230960,structure of cytotrophoblast
+C1135936,syncytiotrophoblasts
+C0034013,precocious puberty
+C0025874,metrorrhagia
+C0206159,postmenopause
+C0242172,pelvic inflammatory disease
+C0178602,dosage
+C0450442,agent
+C0000786,spontaneous abortion
+C1288329,structure of lower uterine segment
+C0175566,open
+C0025362,mental retardation
+C0042798,low vision
+C0032981,pregnancy trimester third
+C4228946,visual abnormalities
+C0032914,preeclampsia
+C0036572,seizures
+C0332177,monthly qualifier value
+C0227792,structure of vaginal canal
+C0205197,complete
+C0042223,vacuum curettage
+C0003243,antibodies antinuclear
+C0006079,bowens disease
+C0428642,pulmonary artery pressure
+C0010417,cryptorchidism
+C0194907,orchidopexy
+C0033808,pseudomonas
+C0042029,urinary tract infection
+C0037868,sperm cell
+C0022885,laboratory procedures
+C0226710,structure of left testicular vein
+C0226722,structure of right testicular vein
+C0228014,tunica vaginalis
+C0282005,swelling of scrotum
+C0039590,testicular neoplasms
+C0206659,embryonal carcinoma
+C0014145,yolk sac tumor
+C0241353,testicular mass
+C0033572,prostate
+C0036563,plant seeds
+C0234233,sore to touch
+C3840869,boggy
+C0227977,prostatic fluid
+C0085696,chronic prostatitis
+C0039601,testosterone
+C0039602,testosterone 5alphareductase
+C0038148,dihydrotestosterone
+C0138741,prostatespecific antigen
+C0549622,sexual dysfunction
+C0007112,adenocarcinoma of prostate
+C1518416,serum horse
+C0332326,gleason grading system
+C0003737,architecture
+C1260953,suppressed
+C0085272,leuprolide
+C0016384,flutamide
+C0338078,nonfunctioning pituitary gland neoplasm
+C0221184,bitemporal hemianopia
+C0020635,hypopituitarism
+C0542341,function attribute
+C0033375,prolactinoma
+C0017547,gigantism
+C0037663,growth hormone
+C0032000,pituitary adenoma
+C0010276,craniopharyngioma
+C4086564,mass effect
+C0032001,pituitary apoplexy
+C0019270,hernia
+C0032005,pituitary gland
+C0020663,hypothalamic structure
+C0030095,oxytocin
+C0032009,pituitary gland posterior
+C0032617,polyuria
+C0020625,hyponatremia
+C3670503,neuronal swelling
+C0006114,cerebral edema
+C0231104,structure of thyroglossal duct
+C0039231,tachycardia
+C0017715,gluconeogenesis
+C0596624,glycogenolysis
+C0034844,thyrotropin receptor
+C0017973,glycosaminoglycans
+C0008466,chondroitin sulfates
+C0020196,hyaluronic acid
+C0342114,diffuse goiter
+C0038894,surgery specialty
+C0030011,oxidation
+C1948027,couple action
+C0040165,levothyroxine
+C0342208,multinodular goiter
+C0242961,replication origin
+C0020550,hyperthyroidism
+C0040135,thyroid hormones
+C0020676,hypothyroidism
+C0009269,cold intolerance
+C0428977,bradycardia
+C1318460,thyroperoxidase antibody assay
+C0949667,hurthle cells
+C0040149,subacute thyroiditis
+C0040137,thyroid nodule
+C0011387,dental papilla
+C0206682,follicular thyroid carcinoma
+C0015576,family
+C0017075,ganglioneuroma
+C0205696,anaplastic carcinoma
+C0020063,pth protein human
+C0262587,parathyroid adenoma
+C0271844,parathyroid hyperplasia
+C0687150,parathyroid carcinoma
+C0022650,kidney calculi
+C2699787,disturbance
+C0029405,osteitis fibrosa cystica
+C0005974,bone resorption
+C0036820,serum phosphate test
+C0042027,urinary tract
+C0037763,spasm
+C0234181,trousseau sign
+C0234180,chvostek sign
+C0033806,pseudohypoparathyroidism
+C0030281,structure of beta cell of islet
+C0017687,glucagon
+C0025517,metabolic diseases
+C0023796,lipolysis
+C0011880,diabetic ketoacidosis
+C2610739,glucagon secretion
+C0015688,nonesterified fatty acids
+C0022631,ketone bodies
+C0001002,acetone
+C0013832,electrolytes
+C0314657,genetic predisposition to disease
+C0085602,polydipsia
+C0020456,hyperglycemia
+C0428548,glucose level finding
+C0038766,sulfonylurea compounds
+C0025598,metformin
+C0205101,extrinsic
+C0232989,normal pregnancy
+C0036916,sexually transmitted diseases
+C0267582,stricture of rectum
+C0222193,skin of penis
+C1550261,glans
+C0736905,scrotal sac
+C1261210,reproductive system
+C0036630,seminiferous tubule structure
+C0039591,pain in testicle
+C0234176,cremasteric reflex
+C0508001,structure of left renal vein
+C4085887,inspiratory vital capacity test
+C0036760,serous membrane
+C1275602,radical orchiectomy
+C0007763,cerebellar nuclei
+C0040160,thyrotropin
+C0015491,factor ix
+C1384593,digital rectal examination
+C0227987,seminal vesicle fluid
+C0234234,tender
+C0024031,low back pain
+C0020510,nodular hyperplasia
+C0020295,hydronephrosis
+C0156273,bladder diverticulum
+C0162311,androgenetic alopecia
+C0025266,male population group
+C1704272,benign prostatic hyperplasia
+C0194804,biopsy of prostate
+C0017446,geographic locations
+C0312402,acid phosphatase isoenzyme prostatic fraction
+C0277565,local disease
+C0679246,advanced disease
+C0018066,pituitary gonadotropins
+C0019868,homeostasis
+C0032016,pituitary hormones anterior
+C0332459,compressed structure
+C0235660,galactorrhea not associated with childbirth
+C0002453,amenorrhea
+C0020610,hypogalactia
+C0205095,dorsal
+C0022676,distal convoluted renal tubule structure
+C0042130,uterine contraction
+C0023870,lithium
+C0011276,demeclocycline
+C0687720,central diabetes insipidus
+C0205094,anterior
+C0039044,sympathetic nervous system
+C1096189,type ii hypersensitivity
+C4722602,underlying
+C0033103,pretibial myxedema
+C0018213,graves disease
+C0039875,thioamides
+C4524869,free radioiodine
+C0033511,propylthiouracil
+C0041014,liothyronine
+C0600086,toxic goiter
+C0009677,congenital macroglossia
+C0019322,umbilical hernia
+C1160401,skeletal development
+C0749420,thyroid agenesis
+C4759669,iodine deficiency
+C0021965,iodide peroxidase
+C0019776,hladr5 antigen
+C0018023,nodular goiter
+C0001430,adenoma
+C0227496,hepatic capsule structure
+C1709281,nuclear grooves
+C0391863,psammoma body formation
+C0151468,thyroid gland follicular adenoma
+C0549473,thyroid carcinoma
+C0813143,oncogene ret
+C0206693,medullary carcinoma
+C0031511,pheochromocytoma
+C0231832,respiratory rate
+C0006706,calcium oxalate
+C4289684,dilated cystic spaces present
+C0030518,parathyroid gland
+C0013336,dwarfism
+C0582802,digit structure
+C0019932,hormones
+C1157202,glycogen biosynthetic process
+C1563744,lipogenesis
+C0030280,structure of alpha cell of islet
+C0428554,finding of blood glucose level
+C0232823,osmotic diuresis
+C0014563,epinephrine
+C0047456,3hydroxybutyric acid
+C0050445,acetoacetic acid
+C0225386,breath
+C0032659,geographic population
+C0860803,glucose high
+C0598528,glycation
+C0178664,glomerulosclerosis disorder
+C0017853,hemoglobin glycosylated
+C0017725,glucose
+C0037688,sorbitol
+C0021670,insulinoma
+C0017150,gastrinoma
+C0037661,somatostatinoma
+C0042395,vasoactive intestinal peptide
+C0026160,mineralocorticoids
+C0017710,glucocorticoids
+C0020268,hydrocortisone
+C0011185,prasterone
+C1384514,conn syndrome
+C0206667,adrenal cortical adenoma
+C0001627,congenital adrenal hyperplasia
+C0271728,secondary hyperaldosteronism
+C0597513,steroid biosynthesis
+C0221043,liddle syndrome
+C0001622,adrenal gland hyperfunction
+C0947487,peripheral vessels
+C0066563,mineralocorticoid receptor
+C0193704,total adrenalectomy
+C0027577,nelson syndrome
+C0022625,ketoconazole
+C0025876,metyrapone
+C0156394,hypertrophy of clitoris
+C0235461,androgen excess
+C0268287,deficiency of steroid 21monooxygenase
+C0011710,desoxycorticosterone
+C0268285,adrenal hyperplasia congenital type 5
+C0043068,waterhousefriderichsen syndrome
+C0025303,meningococcal infections
+C0403447,chronic kidney insufficiency
+C0001403,addison disease
+C0948387,secondary adrenal insufficiency
+C0860869,potassium normal
+C0430134,metyrapone test
+C4476956,abnormal response to corticotropin releasing hormone stimulation test
+C0007412,catecholamines
+C0031441,phenoxybenzamine
+C4319507,milk line
+C1515275,terminal ductal lobular unit cell
+C0921005,lobule
+C0026131,milk body substance
+C0225356,myoepithelial cell
+C0444070,breast tissue sample
+C0262397,breast tenderness
+C1272644,fibrocystic change
+C0016538,projections and predictions
+C1719642,mammographic calcification
+C0221228,comedone
+C0205645,adenocarcinoma tubular
+C0007130,mucinous adenocarcinoma
+C0029401,osteitis deformans
+C0334385,inflammatory carcinoma
+C0694872,cdh1 gene
+C0796693,sentinel lymph node biopsy
+C0034044,puerto rico
+C1512127,erbb2 gene amplification
+C0242957,erbb2 gene
+C0191877,excision of bilateral breasts
+C1134719,invasive ductal breast carcinoma
+C0034804,estrogen receptors
+C0027794,neural tube defects
+C0920623,neural plate
+C0231024,neural tube
+C0002902,anencephaly
+C0080178,spina bifida
+C0432163,defect of vertebral segmentation
+C0080174,spina bifida occulta
+C0332471,dimple
+C0025312,meningomyelocele
+C0158618,congenital stenosis of mitral valve
+C0020255,hydrocephalus
+C0152279,lateral ventricle structure
+C0149555,third ventricle structure
+C0149556,fourth ventricle structure
+C0228482,cerebellar vermis structure
+C0040421,palatine tonsil
+C0333435,cystic degeneration
+C0005903,body temperature
+C1866934,reduced tendon reflexes
+C0026609,motor neurons
+C0206435,poliovirus
+C0043116,hmn hereditary motor neuropathy proximal type i
+C1846566,degeneration of the lateral corticospinal tracts
+C0524458,upper motor neuron
+C5551413,reduced sensation of skin
+C1285162,degenerative disorder
+C0030552,paresis
+C0387678,frataxin
+C0003707,arachnoid mater
+C0599444,cell body of neuron
+C0037953,spinothalamic tracts
+C0228420,medial lemniscus
+C0206441,pyramidal cells
+C0228590,spinal cord anterior gray column
+C2323584,hypothalamospinal tract
+C0579233,streptococcus agalactiae
+C0023861,listeria monocytogenes
+C0021400,influenza
+C0038527,subarachnoid space
+C0007458,cauda equina
+C0085437,meningitis bacterial
+C0061856,grams stain
+C0011053,deafness
+C0241863,diabetic
+C0002694,amputation traumatic
+C5392125,glycemic control
+C0036387,schwann cells
+C0043515,zollingerellison syndrome
+C0001075,achlorhydria
+C0011993,vipoma
+C0043518,zona glomerulosa
+C0015644,muscular fasciculation
+C0175413,pars reticulata of substantia nigra
+C0030664,pathology
+C1579268,mineralocorticoid receptor antagonists
+C0001613,adrenal cortex
+C3713420,familial hyperaldosteronism
+C0020621,hypokalemia
+C0011777,dexamethasone
+C0393006,genetic testing for cancer risk
+C0020428,hyperaldosteronism
+C0220983,metabolic alkalosis
+C0304490,potassium sparing diuretics
+C0240526,night time
+C0729349,serum cortisol
+C0221406,pituitarydependent cushings disease
+C0085078,lysosomal storage diseases
+C0266362,ambiguous genitalia
+C0156404,irregular menstruation
+C0232939,primary physiologic amenorrhea
+C0045010,17alphahydroxyprogesterone
+C0004093,asthenia
+C3262233,secondary cause of death
+C0205372,tertiary
+C0376604,chromaffin cells
+C0001632,adrenalectomy
+C0020546,hypertensive crisis
+C0036525,metastatic to
+C0004454,axilla
+C0028109,nipples
+C2753460,inner mucus layer
+C2753461,outer mucus layer
+C0222598,upper outer quadrant of breast
+C0025329,menstrual cycle
+C0222617,breast lobule
+C0015965,fetus
+C0024103,mass in breast
+C0541951,bloody nipple discharge
+C1179435,protein component
+C0235590,fibrosing adenosis
+C0010701,phyllodes tumor
+C0031809,physical examination
+C0221370,retraction of nipple
+C5671213,desmoplasia
+C0026727,mucous body substance
+C0183235,bed sheets
+C0024235,lymphatic system
+C1515169,tnm staging system
+C0729594,axillary lymph node group
+C1749427,erbb2 class receptor binding
+C0699040,cell surface
+C0346153,breast cancer familial
+C0205097,caudal
+C4322626,tissue of central nervous system
+C0206417,peripheral nervous system
+C0439799,channel
+C0018827,heart ventricle
+C0442800,enlarged
+C1116439,posterior fossa
+C0016519,structure of foramen magnum
+C0026846,muscular atrophy
+C0079411,generations
+C0270971,floppy infant syndrome
+C0011164,abnormal degeneration
+C0151889,hyperreflexia
+C0039144,syringomyelia
+C0007765,cerebellum
+C0004134,ataxia
+C1538298,atxn1 gene
+C0228126,leptomeninges
+C0013313,dura mater
+C0063264,cisplatindoxorubicinifosfamide protocol
+C0069590,oralit
+C0039729,thalamic structure
+C0001614,adrenal cortex diseases
+C0001646,adrenergic fibers
+C0446433,l2 level
+C1179705,s2 innervation
+C0023685,ligaments
+C0014537,structure of epidural space
+C0333550,anemic infarct
+C0019564,hippocampus brain
+C0242129,thrombotic stroke
+C0262469,embolic stroke
+C3178801,stroke lacunar
+C0948008,ischemic stroke
+C0017639,gliosis
+C1707597,cyst formation
+C0333101,microaneurysm
+C0863146,yellow color on exam
+C0005136,berry aneurysm
+C0017163,gastroenterology field
+C2937358,cerebral hemorrhage
+C3273211,agerelated atrophy
+C0393983,hernia of cerebellar tonsil into foramen magnum
+C0393984,herniation under falx cerebri
+C0018427,gyrus cinguli
+C0026969,myelin
+C0023522,leukodystrophy metachromatic
+C0038727,sulfoglycosphingolipids
+C0023521,globoid cell leukodystrophy
+C0060955,galactocerebroside
+C0162309,adrenoleukodystrophy
+C0024485,magnetic resonance imaging
+C0037943,spinal puncture
+C0069426,oligoclonal bands protein
+C0015980,interferonbeta
+C0014038,encephalitis
+C0751378,neurologic signs
+C2826581,viral inclusions present
+C0028944,oligodendroglia
+C3665346,unspecified visual loss
+C0011304,demyelination
+C0032639,pontine structure
+C2827465,apoe wt allele
+C0332463,narrowed structure
+C0332464,widening
+C0333463,senile plaques
+C0010813,cytokinesis
+C0085400,neurofibrillary degeneration morphologic abnormality
+C0281351,uridine triacetate
+C0332148,probable diagnosis
+C4021022,argyrophilic inclusion bodies
+C0038590,substantia nigra structure
+C0521114,infrequent
+C0040822,tremor
+C0751564,pill rolling tremor
+C0151564,cogwheel rigidity
+C0085200,lewy bodies
+C0752347,lewy body disease
+C0556984,three times daily
+C0007461,caudate nucleus structure
+C0282537,trinucleotide repeats
+C0038661,suicide
+C0030567,parkinson disease
+C0033164,prions
+C0439836,conversions qualifier value
+C0860902,protein nonspecific normal
+C0042219,vacuole
+C0169964,somatropin
+C0010042,keratoplasty
+C0085209,encephalopathy bovine spongiform
+C0677930,primary neoplasm
+C0004112,astrocytes
+C1513123,meningothelial cell
+C0228092,ependymal cell
+C1518271,neuroectoderm
+C1621958,glioblastoma multiforme
+C0025286,meningioma
+C0027809,neurilemmoma
+C0020179,huntington disease
+C0334583,pilocytic astrocytoma
+C0014474,ependymoma
+C0001162,acoustic nerve
+C0175895,calcified qualifier
+C1511606,cystic lesions
+C0333731,rosenthal fiber
+C1522407,supratentorial brain
+C3271470,chondrocyte proliferation
+C0239399,short extremities
+C0231561,endochondral bone formation
+C0225371,matrix of cartilage
+C0222762,rib cage
+C0042449,veins
+C0029454,osteopetrosis
+C0007034,carbonic anhydrase ii
+C4072789,in microenvironment
+C0086590,vegetable marrow
+C0029418,osteoblasts
+C0042870,vitamin d deficiency
+C0035579,rickets
+C0221354,frontal bossing
+C0205412,inadequate qualifier
+C0444505,peak level
+C0025320,menopause
+C0005938,bone density
+C0151825,bone pain
+C0205234,focal
+C0682561,prebone tissue
+C0443285,radiolucent
+C0029417,osteoblastoma
+C0021149,incidence
+C0206244,lifting
+C0600139,prostate carcinoma
+C0224507,synovial joint structure
+C0224497,articular space
+C0205148,surface
+C0225362,hyaline cartilage
+C0029408,degenerative polyarthritis
+C1956089,osteophyte
+C0018862,heberden node
+C0039103,synovitis
+C0155094,corneal pannus
+C0003090,ankylosis
+C0029453,osteopenia
+C1444139,autoantibody igm
+C0026538,morbidity disease rate
+C0026565,mortality vital statistics
+C0031001,perfusion procedure
+C0333505,diffuse necrosis
+C0917808,vegetative state
+C0007776,cerebral cortex
+C0333517,laminar necrosis
+C0039485,temporal lobe
+C0746857,focal neurologic deficits
+C1253959,branch of
+C4086317,fluidfilled
+C0751955,brain infarction
+C0012725,psychologic displacement
+C0600228,cardiopulmonary arrest
+C0228120,structure of falx cerebri
+C0205104,downward
+C0004461,axon
+C0002658,amphetamine
+C0011303,demyelinating diseases
+C0023520,leukodystrophy
+C0152295,cerebral white matter structure
+C0004388,autonomic nervous system
+C0338474,central nervous system demyelination
+C0682708,white matter
+C0025011,measles virus
+C0231330,infancy
+C0006121,brain stem
+C0018220,gray matter
+C0026650,movement disorders
+C0423909,memory longterm
+C0235946,cerebral atrophy
+C0026045,microtubuleassociated proteins
+C0442043,temporal regional site descriptor
+C0035253,rest
+C0018524,hallucinations
+C1415504,htt gene
+C0037864,spermatogenesis
+C0679106,anticipation
+C0264733,ventricular dilatation disorder
+C2347435,prnp wt allele
+C0242781,disease transmission
+C1521733,pathologic
+C0333462,spongy degeneration
+C0162534,prion diseases
+C1836826,startle myoclonus
+C0013819,electroencephalography
+C0449475,cell type
+C0441938,supratentorial
+C0441939,infratentorial
+C0228174,cerebral hemisphere structure body structure
+C1655807,endothelial cell proliferation
+C0017626,glial fibrillary acidic protein
+C0010268,cranial nerves
+C0037941,spinal nerve structure
+C0007764,structure of cerebellopontine angle
+C0040264,tinnitus
+C0027832,neurofibromatosis 2
+C0016733,frontal lobe
+C1881930,mural nodule
+C0029126,optic chiasms
+C0018283,epiphysial cartilage
+C0222649,structure of flat bone
+C0036410,sclera
+C0001128,acids
+C0002890,leukoerythroblastic anemia
+C0439095,greek letter alpha qualifier value
+C0392079,senile
+C0019552,hip structure
+C0034627,bone structure of radius
+C0424641,decrease in height
+C0022821,kyphosis deformity of spine
+C1510486,dualenergy xray absorptiometry
+C2708283,clinical presentation
+C1265651,microfractures
+C0596392,craniofacial
+C0521009,bacterial
+C0222671,metaphysis
+C0014570,epiphysis of bone
+C0007366,catalan language
+C0333311,sequestrum
+C0333319,involucrum
+C0200949,blood culture
+C0008479,chondrosarcoma
+C0237897,physical strength
+C0026597,motion
+C0009331,collagen type ii
+C0039099,synovial membrane
+C0205357,smooth
+C0022411,joint loose bodies
+C0037390,snuff tobacco
+C0279391,mercaptopurinemethotrexatevincristine
+C0158477,swanneck deformity
+C0449751,radial deviation
+C0442045,visceral
+C0003509,aortitis
+C0085435,arthritis reactive
+C0003872,arthritis psoriatic
+C0314732,infectious agent
+C0041980,uric acid
+C0221248,tophus
+C2955673,urate nephropathy
+C0039097,synovial fluid
+C0033802,pseudogout
+C1290884,inflammatory disorder
+C0239266,pain in elbow
+C3272646,perimysial and endomysial inflammatory infiltrate
+C0014179,endometritis
+C4227743,necrotic muscle fibers
+C0079259,dystrophin
+C0013264,muscular dystrophy duchenne
+C0026850,muscular dystrophy
+C0034792,cholinergic receptors
+C0040071,thymectomy
+C0221629,proximal muscle weakness
+C0225323,lipoblast cell
+C1332852,cardiac rhabdomyoma
+C0011646,dermis
+C0241157,pustule
+C0302302,closed comedone disorder
+C0333128,open comedone
+C0542346,pimples
+C0033477,propionibacterium acnes
+C0030436,parakeratosis
+C0023646,lichen planus
+C0030809,pemphigus vulgaris
+C0000887,acantholysis
+C0230616,hemidesmosomes
+C1413577,col17a1 gene
+C0014742,erythema multiforme
+C0038325,stevensjohnson syndrome
+C0014518,toxic epidermal necrolysis
+C0022603,seborrheic keratosis
+C0596155,basal cell
+C1145667,binding action
+C0001916,albinism
+C0043346,xeroderma pigmentosum
+C0022602,actinic keratosis
+C0011389,dental plaque
+C0022572,keratoacanthoma
+C0025201,melanocyte
+C0041485,tyrosine
+C0025196,melanins
+C0025213,melanosomes
+C0012524,catechol oxidase
+C0042170,uveomeningoencephalitic syndrome
+C1306726,congenital nevus
+C0334433,junctional nevus
+C0259781,compound nevus of skin
+C0206737,nevus intradermal
+C0205748,dysplastic nevus
+C0013403,dysplastic nevus syndrome
+C4505185,atp binding cassette transporter subfamily d
+C4484175,growth phase
+C1335656,radial growth phase
+C1336956,vertical growth phase
+C0205125,deep qualifier value
+C0439746,acral
+C2228270,erythematous macule
+C0238124,necrotizing fasciitis
+C0278403,subcutaneous tissue
+C0234913,erythematous rash
+C0205226,exfoliative
+C0036036,sacroiliac joint structure
+C0037949,vertebral column
+C0009763,conjunctivitis
+C0033860,psoriasis
+C1621315,purine metabolism activity
+C0018534,hallux structure
+C0018193,granuloma foreignbody
+C4477048,heliotrope rash
+C0423781,gottrons papules
+C0007795,diffuse cerebral sclerosis of schilder
+C0027869,neuromuscular junction
+C0042153,utilization qualifier
+C0012569,diplopia
+C0008425,cholinesterase inhibitors
+C0001041,acetylcholine
+C0022567,keratinocyte
+C0027747,nerve endings
+C0459723,skin appendage structure
+C5545600,decreased vitamin a andor vitamin a derivative diet
+C0036270,scalp structure
+C0022593,keratosis
+C0221921,stratum corneum
+C0205166,long
+C0277962,auspitzs sign
+C0423786,wickham striae
+C0221929,dermoepidermal junction
+C0524909,hepatitis b chronic
+C0036679,diastasis
+C0205112,basal
+C0205204,scab
+C0016318,fluorescent antibody technique
+C3827857,targetoid lesion
+C0005758,bulla
+C0019348,herpes simplex infections
+C0026936,mycoplasma infections
+C0038760,sulfonamides
+C0036391,schwartzjampel syndrome
+C0041755,adverse reaction to drug
+C0333161,pseudocyst
+C0018246,inguinal region
+C0458582,upper lip structure
+C0728940,excision
+C4543526,exposure to arsenic
+C0458583,lower lip structure
+C2987254,esophageal well differentiated squamous cell carcinoma
+C0037290,skin pigmentation
+C0007966,cheek structure
+C0018494,hair
+C0038411,streptococcus pyogenes
+C0221928,dermal anatomy qualifier
+C1510824,aerobic
+C0277964,subcutaneous crepitus
+C0333472,epidermolysis
+C0032868,poxviridae
+C0333747,molluscum bodies
