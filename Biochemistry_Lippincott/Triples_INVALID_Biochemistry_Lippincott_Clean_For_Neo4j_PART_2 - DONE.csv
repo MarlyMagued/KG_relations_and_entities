@@ -1,0 +1,558 @@
+paragraph_id,subject,subject_cui,subject_type,relation,object,object_cui,object_type,rule_valid,gemini_verdict
+1075,calcium,C0006675,Pharmacologic Substance,INTERACTS_WITH,calmodulin subunit,C0006772,"Amino Acid, Peptide, or Protein",False,True
+1075,calcium,C0006675,Pharmacologic Substance,CAUSES,phosphorylase kinase b,C0031713,"Amino Acid, Peptide, or Protein",False,True
+1075,sarcoplasmic reticulum,C0036226,Cell Component,LOCATION_OF,calcium,C0006675,Pharmacologic Substance,False,True
+1079,glucose,C0017725,Organic Chemical,IS_A,monosaccharide,C0026492,Organic Chemical,False,True
+1079,galactose,C0016945,Organic Chemical,PART_OF,glycosylated proteins,C5690868,"Amino Acid, Peptide, or Protein",False,True
+1089,hyperuricemia,C0740394,Disease or Syndrome,RESULT_OF,amp,C0001465,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1094,aldose reductase,C0002003,"Amino Acid, Peptide, or Protein",PRODUCES,sorbitol,C0037688,Organic Chemical,False,True
+1094,sorbitol dehydrogenase,C0020809,"Amino Acid, Peptide, or Protein",PRODUCES,fructose,C0016745,Organic Chemical,False,True
+1094,sperm cells,C0037868,Cell,USES,fructose,C0016745,Organic Chemical,False,True
+1099,galactokinase,C0016937,"Amino Acid, Peptide, or Protein",PRODUCES,galactose 1-phosphate,C2611221,Molecular Function,False,True
+1101,udp-glucose,C0041986,"Nucleic Acid, Nucleoside, or Nucleotide",PRODUCES,udp-galactose,C2246921,Molecular Function,False,True
+1109,lactose synthase,C0022952,"Amino Acid, Peptide, or Protein",PRODUCES,udp,C0041986,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1109,protein a,C0038164,"Amino Acid, Peptide, or Protein",IS_A,β-d-galactosyltransferase,C0016964,"Amino Acid, Peptide, or Protein",False,True
+1109,mammary gland,C0929301,"Body Part, Organ, or Organ Component",LOCATION_OF,protein b,C0377800,"Amino Acid, Peptide, or Protein",False,True
+1112,fructokinase,C0060764,"Amino Acid, Peptide, or Protein",PRODUCES,fructose 1-phosphate,C0016762,"Amino Acid, Peptide, or Protein",False,True
+1112,aldolase b,C0001999,"Amino Acid, Peptide, or Protein",PRODUCES,dihydroxyacetone phosphate,C0012324,Organic Chemical,False,True
+1112,aldolase b,C0001999,"Amino Acid, Peptide, or Protein",PRODUCES,glyceraldehyde,C0017854,Organic Chemical,False,True
+1112,hyperglycemia,C0020456,Disease or Syndrome,CAUSES,sorbitol,C0037688,Organic Chemical,False,True
+1112,galt,C0268151,Disease or Syndrome,PRODUCES,udp-galactose,C1156464,Molecular Function,False,True
+1112,aldose reductase,C0002003,"Amino Acid, Peptide, or Protein",PRODUCES,galactitol,C0013283,Organic Chemical,False,True
+1112,udp-hexose 4-epimerase,C0041990,"Amino Acid, Peptide, or Protein",PRODUCES,udp-galactose,C2246921,Molecular Function,False,True
+1118,galactosemia,C0016952,Disease or Syndrome,AFFECTS,enzyme,C0014442,"Amino Acid, Peptide, or Protein",False,True
+1118,mammary gland,C0929301,"Body Part, Organ, or Organ Component",LOCATION_OF,hormone,C0019932,Hormone,False,True
+1119,galactosemia,C0016952,Disease or Syndrome,RESULT_OF,enzyme,C0014442,"Amino Acid, Peptide, or Protein",False,True
+1127,galactosyltransferase,C0016964,"Amino Acid, Peptide, or Protein",PRODUCES,lactose,C0022949,Organic Chemical,False,True
+1130,prolactin,C0033371,"Amino Acid, Peptide, or Protein",AFFECTS,protein b,C0033684,"Amino Acid, Peptide, or Protein",False,True
+1131,hormone prolactin,C0033374,"Amino Acid, Peptide, or Protein",AFFECTS,α-lactalbumin,C0022912,"Amino Acid, Peptide, or Protein",False,True
+1137,galactokinase,C0016937,"Amino Acid, Peptide, or Protein",PERFORMS,phosphorylate,C0031715,Molecular Function,False,True
+1137,blood,C0005767,Body Substance,LOCATION_OF,galactose,C0016945,Organic Chemical,False,True
+1137,urine,C0042036,Body Substance,LOCATION_OF,galactose,C0016945,Organic Chemical,False,True
+1140,pentose phosphate pathway,C0030892,Molecular Function,PRODUCES,nadph,C0027303,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1140,pentose phosphate pathway,C0030892,Molecular Function,PRODUCES,ribose 5-phosphate,C0140515,Organic Chemical,False,True
+1142,pentose phosphate pathway,C0030892,Molecular Function,PRODUCES,ribulose 5-phosphate,C0073350,Organic Chemical,False,True
+1144,glucose 6-phosphate dehydrogenase,C1333652,Gene or Genome,PERFORMS,oxidation,C0030011,Molecular Function,False,True
+1145,6-phosphogluconolactone hydrolase,C1149817,Molecular Function,PERFORMS,6-phosphogluconolactone,C0756485,Organic Chemical,False,True
+1145,6-phosphogluconate dehydrogenase,C0031654,"Amino Acid, Peptide, or Protein",PERFORMS,6-phosphogluconate,C4547213,Organic Chemical,False,True
+1149,tpp,C0039848,Organic Chemical,INGREDIENT_OF,multienzyme complexes pyruvate dehydrogenase,C0034344,"Amino Acid, Peptide, or Protein",False,True
+1157,enzymes,C0014442,"Amino Acid, Peptide, or Protein",PREVENTS,toxic effects,C0600688,Injury or Poisoning,False,True
+1161,monooxygenases,C0020364,"Amino Acid, Peptide, or Protein",PRODUCES,steroid hormones,C0301818,Organic Chemical,False,True
+1163,microsomal cyp monooxygenase system,C0003927,"Amino Acid, Peptide, or Protein",PHYSICALLY_RELATED_TO,membrane,C0025255,Tissue,False,True
+1163,microsomal cyp monooxygenase system,C0003927,"Amino Acid, Peptide, or Protein",PERFORMS,detoxification,C0025516,Organism Function,False,True
+1169,leukocyte cell membrane,C0023516,Cell,LOCATION_OF,nadph oxidase,C0068355,"Amino Acid, Peptide, or Protein",False,True
+1173,nitric oxide,C0028128,Pharmacologic Substance,CAUSES,vasodilation,C0042401,Organ or Tissue Function,False,True
+1173,nitric oxide,C0028128,Pharmacologic Substance,PREVENTS,platelet aggregation,C0032176,Cell Function,False,True
+1173,nitric oxide,C0028128,Pharmacologic Substance,IS_A,neurotransmitter,C0027908,Biologically Active Substance,False,True
+1173,enos,C0669365,"Amino Acid, Peptide, or Protein",PRODUCES,nitric oxide,C0028128,Pharmacologic Substance,False,True
+1173,nnos,C0907533,"Amino Acid, Peptide, or Protein",PRODUCES,nitric oxide,C0028128,Pharmacologic Substance,False,True
+1175,vasodilator nitrates,C0042402,Pharmacologic Substance,PRODUCES,nitric oxide,C0028128,Pharmacologic Substance,False,True
+1175,cgmp,C0018338,"Nucleic Acid, Nucleoside, or Nucleotide",CAUSES,protein kinase g,C0010536,"Amino Acid, Peptide, or Protein",False,True
+1178,nitric oxide,C0028128,Pharmacologic Substance,PREVENTS,platelet adhesion,C0032174,Cell Function,False,True
+1180,g6pd deficiency,C2939465,Disease or Syndrome,CAUSES,hemolytic anemia,C0002878,Disease or Syndrome,False,True
+1186,oxidant drugs,C0085403,Chemical Viewed Functionally,PRODUCES,hemolytic anemia,C0002878,Disease or Syndrome,False,True
+1186,antibiotics,C0003232,Antibiotic,PRODUCES,hemolytic anemia,C0002878,Disease or Syndrome,False,True
+1186,sulfamethoxazole,C0038689,Organic Chemical,PRODUCES,hemolytic anemia,C0002878,Disease or Syndrome,False,True
+1186,chloramphenicol,C0008168,Organic Chemical,PRODUCES,hemolytic anemia,C0002878,Disease or Syndrome,False,True
+1186,antimalarials,C0003374,Pharmacologic Substance,PRODUCES,hemolytic anemia,C0002878,Disease or Syndrome,False,True
+1186,primaquine,C0033126,Organic Chemical,PRODUCES,hemolytic anemia,C0002878,Disease or Syndrome,False,True
+1186,antipyretics,C0003419,Pharmacologic Substance,PRODUCES,hemolytic anemia,C0002878,Disease or Syndrome,False,True
+1186,acetanilide,C0000973,Organic Chemical,PRODUCES,hemolytic anemia,C0002878,Disease or Syndrome,False,True
+1190,infection,C0009450,Disease or Syndrome,CAUSES,hemolysis,C0019054,Pathologic Function,False,True
+1190,inflammatory response,C1155266,Pathologic Function,PRODUCES,free radicals,C0016693,Inorganic Chemical,False,True
+1192,point mutations,C0162735,Cell or Molecular Dysfunction,CAUSES,g6pd variants,C0017757,"Amino Acid, Peptide, or Protein",False,True
+1192,mutations,C0026882,Genetic Function,CAUSES,decreased catalytic activity,C0243102,Molecular Function,False,True
+1194,mutations,C0026882,Genetic Function,CAUSES,g6pd deficiency,C2939465,Disease or Syndrome,False,True
+1196,nadph oxidase,C0068355,"Amino Acid, Peptide, or Protein",USES,nadph,C0027303,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1196,myeloperoxidase,C0027021,"Amino Acid, Peptide, or Protein",PRODUCES,bactericidal hypochlorous acid,C0020600,Inorganic Chemical,False,True
+1196,no,C0028128,Pharmacologic Substance,PREVENTS,platelet aggregation,C0032176,Cell Function,False,True
+1204,endothelial nitric oxide synthase,C0669365,"Amino Acid, Peptide, or Protein",CAUSES,nitric oxide,C0028128,Pharmacologic Substance,False,True
+1208,overproduction,C0001622,Disease or Syndrome,CAUSES,vasodilation,C0042401,Organ or Tissue Function,False,True
+1208,endothelial enzyme,C0669365,"Amino Acid, Peptide, or Protein",PRODUCES,nitric oxide,C0028128,Pharmacologic Substance,False,True
+1208,nos,C0132555,"Amino Acid, Peptide, or Protein",USES,arginine,C0003765,"Amino Acid, Peptide, or Protein",False,True
+1214,cyp enzymes,C0014442,"Amino Acid, Peptide, or Protein",CONTAINS,heme,C0018966,Organic Chemical,False,True
+1214,nitric oxide synthase isozymes,C0132555,"Amino Acid, Peptide, or Protein",CONTAINS,heme,C0018966,Organic Chemical,False,True
+1219,glucose 6-phosphatase,C0017755,"Amino Acid, Peptide, or Protein",AFFECTS,glucose 6-phosphate,C0017761,Organic Chemical,False,True
+1228,gag,C0017346,Gene or Genome,CONSISTS_OF,disaccharide unit,C0012611,Organic Chemical,False,True
+1232,gag,C0017346,Gene or Genome,CONNECTED_TO,protein,C0033684,"Amino Acid, Peptide, or Protein",False,True
+1234,ecm,C0015350,Tissue,LOCATION_OF,proteoglycans,C0033692,"Amino Acid, Peptide, or Protein",False,True
+1234,cells,C0007634,Cell,LOCATION_OF,proteoglycans,C0033692,"Amino Acid, Peptide, or Protein",False,True
+1237,cartilage proteoglycans,C0081487,"Amino Acid, Peptide, or Protein",CONTAINS,chondroitin sulfate,C0008466,Organic Chemical,False,True
+1237,cartilage proteoglycans,C0081487,"Amino Acid, Peptide, or Protein",CONTAINS,keratan sulfate,C0022563,Organic Chemical,False,True
+1237,proteoglycans,C0033692,"Amino Acid, Peptide, or Protein",PART_OF,gene families,C0015576,Family Group,False,True
+1243,amino sugars,C0002531,Organic Chemical,PART_OF,glycoconjugates,C0017906,Organic Chemical,False,True
+1243,synthetic pathway,C1721101,Molecular Function,OCCURS_IN,connective tissues,C0009780,Tissue,False,True
+1244,fructose 6-phosphate,C2610745,Molecular Function,INGREDIENT_OF,n-acetylglucosamine,C0001056,Organic Chemical,False,True
+1244,udp-galnac,C1539554,Gene or Genome,RESULT_OF,udp-glcnac,C1156867,Molecular Function,False,True
+1248,glucuronic acid,C0061444,Organic Chemical,PART_OF,gag,C0017346,Gene or Genome,False,True
+1250,oxidation,C0030011,Molecular Function,PRODUCES,udp-glucuronic acid,C0061444,Organic Chemical,False,True
+1257,sulfate,C0038720,Inorganic Chemical,INGREDIENT_OF,paps,C0031631,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1262,vesicle,C0333262,Anatomical Abnormality,CONNECTED_TO,lysosome,C0024369,Cell Component,False,True
+1264,endoglycosidases,C3537242,"Amino Acid, Peptide, or Protein",PRODUCES,oligosaccharides,C0028959,Organic Chemical,False,True
+1267,gag,C0017346,Gene or Genome,LOCATION_OF,tissues,C0040300,Tissue,False,True
+1267,transplanted macrophages,C0040732,Therapeutic or Preventive Procedure,PRODUCES,enzymes,C0014442,"Amino Acid, Peptide, or Protein",False,True
+1269,glycoproteins,C0017968,"Amino Acid, Peptide, or Protein",IS_A,proteins,C0033684,"Amino Acid, Peptide, or Protein",False,True
+1269,glycoproteins,C0017968,"Amino Acid, Peptide, or Protein",CONTAINS,carbohydrate,C0007004,Organic Chemical,False,True
+1271,oligosaccharide,C0028959,Organic Chemical,PART_OF,glycoproteins,C0017968,"Amino Acid, Peptide, or Protein",False,True
+1273,amide group,C1879694,Organic Chemical,PART_OF,asparagine side chain,C0003995,"Amino Acid, Peptide, or Protein",False,True
+1273,hydroxyl group,C0700307,Inorganic Chemical,PART_OF,serine,C0036720,"Amino Acid, Peptide, or Protein",False,True
+1279,complex oligosaccharides,C0028959,Organic Chemical,CONTAINS,sugars,C0242209,Organic Chemical,False,True
+1279,high-mannose oligosaccharides,C0028959,Organic Chemical,CONTAINS,mannose,C0024742,Organic Chemical,False,True
+1284,gdp-mannose,C1156340,Molecular Function,PRODUCES,gdp-l-fucose,C1156331,Molecular Function,False,True
+1286,glycosyltransferases,C0085249,"Amino Acid, Peptide, or Protein",CONNECTED_TO,membranes,C0025255,Tissue,False,True
+1290,dolichol,C0012990,Organic Chemical,CONNECTED_TO,oligosaccharide,C0028959,Organic Chemical,False,True
+1290,tunicamycin,C0041385,"Nucleic Acid, Nucleoside, or Nucleotide",PREVENTS,n-linked glycosylation,C1622430,Molecular Function,False,True
+1293,sugars,C0242209,Organic Chemical,PRODUCES,complex glycoprotein,C4235135,Cell Component,False,True
+1294,receptors,C0597357,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,mannose 6-phosphate residues,C0065688,Organic Chemical,False,True
+1299,gag,C0017346,Gene or Genome,LOCATION_OF,golgi,C0018042,Cell Component,False,True
+1303,enzymes,C0014442,"Amino Acid, Peptide, or Protein",LOCATION_OF,lysosomes,C0024369,Cell Component,False,True
+1305,synthesis,C0220781,Biologic Function,PRODUCES,proteolytic enzymes,C0030940,"Amino Acid, Peptide, or Protein",False,True
+1306,synthesis,C0220781,Biologic Function,PRODUCES,core proteins,C2350415,"Amino Acid, Peptide, or Protein",False,True
+1307,synthesis,C0220781,Biologic Function,PRODUCES,heteropolysaccharides,C1817556,Molecular Function,False,True
+1308,deficiencies,C0268487,Disease or Syndrome,CAUSES,mucopolysaccharidoses,C0026703,Disease or Syndrome,False,True
+1308,lysosomal acid hydrolases,C1412132,Gene or Genome,PERFORMS,degradation,C0243125,Organism Function,False,True
+1308,enzyme,C0014442,"Amino Acid, Peptide, or Protein",LOCATION_OF,lysosome,C0024369,Cell Component,False,True
+1323,urine,C0042036,Body Substance,CONTAINS,dermatan sulfate,C0011602,Organic Chemical,False,True
+1323,urine,C0042036,Body Substance,CONTAINS,heparan sulfate,C0019143,Organic Chemical,False,True
+1328,glycosyltransferases,C0085249,"Amino Acid, Peptide, or Protein",IS_A,enzymes,C0014442,"Amino Acid, Peptide, or Protein",False,True
+1330,glycoproteins,C0017968,"Amino Acid, Peptide, or Protein",CONTAINS,oligosaccharide chains,C0028959,Organic Chemical,False,True
+1330,proteoglycans,C0033692,"Amino Acid, Peptide, or Protein",CONTAINS,glycosaminoglycan,C0017973,Organic Chemical,False,True
+1330,gag,C0017346,Gene or Genome,IS_A,complexes,C1704241,Chemical Viewed Structurally,False,True
+1330,complexes,C1704241,Chemical Viewed Structurally,CONTAINS,heteropolysaccharides,C1817556,Molecular Function,False,True
+1333,body lipids,C0230704,Cell Component,PART_OF,lipids,C0023779,Organic Chemical,False,True
+1333,droplets,C0230704,Cell Component,CONTAINS,triacylglycerol,C0041004,Organic Chemical,False,True
+1337,lingual lipase,C0023764,"Amino Acid, Peptide, or Protein",PERFORMS,fa,C0015625,Disease or Syndrome,False,True
+1339,mutations,C0026882,Genetic Function,CAUSES,cf,C0010674,Disease or Syndrome,False,True
+1339,cftr,C1413365,Gene or Genome,PERFORMS,chloride channel,,"Amino Acid, Peptide, or Protein",False,True
+1342,gallbladder,C0016976,"Body Part, Organ, or Organ Component",CONTAINS,bile salts,C0005404,Organic Chemical,False,True
+1343,pancreatic enzymes,C0920330,"Amino Acid, Peptide, or Protein",PERFORMS,d. degradation,C0699900,Organism Function,False,True
+1344,digested,C0868946,Physiologic Function,OCCURS_IN,small intestine,C0021852,"Body Part, Organ, or Organ Component",False,True
+1346,hydrolysis,C0020291,Natural Phenomenon or Process,PRODUCES,ffa,C0015688,Organic Chemical,False,True
+1348,pancreatic cholesteryl ester hydrolase,C0008385,"Amino Acid, Peptide, or Protein",PRODUCES,ffa,C0015688,Organic Chemical,False,True
+1353,ileum,C0020885,"Body Part, Organ, or Organ Component",LOCATION_OF,bile salts,C0005404,Organic Chemical,False,True
+1355,acyltransferases,C0001390,"Amino Acid, Peptide, or Protein",PRODUCES,tag,C0037293,Neoplastic Process,False,True
+1357,cf,C0010674,Disease or Syndrome,CAUSES,poor digestion,C0012238,Organism Function,False,True
+1357,short bowel syndrome,C0036992,Disease or Syndrome,CAUSES,decreased absorption,C2347023,Organism Function,False,True
+1360,chylomicrons,C0008731,"Amino Acid, Peptide, or Protein",TRAVERSES,lymphatic system,C0024235,Body System,False,True
+1362,lipoprotein lipase,C0023816,"Amino Acid, Peptide, or Protein",PRODUCES,ffa,C0015688,Organic Chemical,False,True
+1362,lipoprotein lipase,C0023816,"Amino Acid, Peptide, or Protein",PRODUCES,glycerol,C0017861,Organic Chemical,False,True
+1375,peptide hormone secretin,C1154416,Cell Function,CAUSES,gallbladder,C0016976,"Body Part, Organ, or Organ Component",False,True
+1375,peptide hormone secretin,C1154416,Cell Function,CAUSES,bile,C0005388,Body Substance,False,True
+1380,dietary triacylglycerol,C0041004,Organic Chemical,PRODUCES,free fatty acids,C0015688,Organic Chemical,False,True
+1380,dietary triacylglycerol,C0041004,Organic Chemical,PRODUCES,glycerol,C0017861,Organic Chemical,False,True
+1383,d. deficiencies,C0268487,Disease or Syndrome,CAUSES,chylomicrons,C0008731,"Amino Acid, Peptide, or Protein",False,True
+1384,tag,C0037293,Neoplastic Process,OCCURS_IN,duodenum,C0013303,"Body Part, Organ, or Organ Component",False,True
+1388,fatty acids,C0015684,Organic Chemical,PART_OF,membrane lipids,C0025249,Organic Chemical,False,True
+1388,body,,,CONTAINS,esterified fatty acids,C0369212,Organic Chemical,False,True
+1390,fatty acid,C0015684,Organic Chemical,CONSISTS_OF,hydrophobic hydrocarbon chain,C0020242,Organic Chemical,False,True
+1403,acetyl coa carboxylase,C0001022,"Amino Acid, Peptide, or Protein",PERFORMS,carboxylation,C0178529,Natural Phenomenon or Process,False,True
+1409,fatty acid synthase,C0015923,Disease or Syndrome,PERFORMS,fatty acid synthesis,C0596562,Molecular Function,False,True
+1440,triacylglycerol,C0041004,Organic Chemical,LOCATION_OF,white adipocytes,C1720858,Cell,False,True
+1441,glucose,C0017725,Organic Chemical,PRODUCES,glycerol 3-phosphate,C0051369,Organic Chemical,False,True
+1446,tag,C0037293,Neoplastic Process,PART_OF,fat droplets,C0230704,Cell Component,False,True
+1446,very-low-density lipoproteins,C0023825,"Amino Acid, Peptide, or Protein",LOCATION_OF,blood,C0005767,Body Substance,False,True
+1448,tag,C0037293,Neoplastic Process,PRODUCES,metabolic energy,C0014272,Physiologic Function,False,True
+1448,oxidation,C0030011,Molecular Function,PRODUCES,h2o,C0043047,Pharmacologic Substance,False,True
+1450,lipases,C0023764,"Amino Acid, Peptide, or Protein",PERFORMS,lipolysis,C0023796,Organism Function,False,True
+1451,adenylyl cyclase,C1155418,Molecular Function,PRODUCES,camp,C0001455,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1453,glycerol 3-phosphate,C0051369,Organic Chemical,PRODUCES,tag,C0037293,Neoplastic Process,False,True
+1453,glycerol 3-phosphate,C0051369,Organic Chemical,PRODUCES,dhap,C0012324,Organic Chemical,False,True
+1463,muscle tissue,C0026845,Tissue,CONTAINS,mitochondrial isozyme,C0026237,Cell Component,False,True
+1463,mitochondrial isozyme,C0026237,Cell Component,PART_OF,acc2,C1412105,Gene or Genome,False,True
+1463,liver,C0023884,"Body Part, Organ, or Organ Component",CONTAINS,isozymes,C0022173,"Amino Acid, Peptide, or Protein",False,True
+1469,β-oxidation reactions,C0030012,Molecular Function,CONSISTS_OF,sequence,C0004793,Nucleotide Sequence,False,True
+1469,hepatic ketogenesis,C0266258,Congenital Abnormality,USES,acetyl coa,C0001026,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1476,propionyl coa,C1123015,"Amino Acid, Peptide, or Protein",PRODUCES,d-methylmalonyl coa,C0025789,"Amino Acid, Peptide, or Protein",False,True
+1480,l-methylmalonyl coa,C0025789,"Amino Acid, Peptide, or Protein",PRODUCES,succinyl coa,C0075444,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1482,peroxisomes,C0752063,Cell Component,LOCATION_OF,synthetase,C0023689,"Amino Acid, Peptide, or Protein",False,True
+1482,mitochondrion,C0026237,Cell Component,LOCATION_OF,fatty acid,C0015684,Organic Chemical,False,True
+1484,phytanoyl coa α-hydroxylase,C3253651,"Amino Acid, Peptide, or Protein",PERFORMS,branched-chain phytanic acid,C0002521,"Amino Acid, Peptide, or Protein",False,True
+1484,pristanal,C0664634,Organic Chemical,PRODUCES,pristanic acid,C0071987,Organic Chemical,False,True
+1484,dietary restriction,C0425422,Health Care Activity,PREVENTS,disease progression,C0242656,Pathologic Function,False,True
+1488,acetyl coa,C0001026,"Nucleic Acid, Nucleoside, or Nucleotide",DISRUPTS,pyruvate dehydrogenase,C0034343,"Amino Acid, Peptide, or Protein",False,True
+1490,hmg coa lyase,C0268601,Disease or Syndrome,PRODUCES,acetoacetate,C0000988,Organic Chemical,False,True
+1490,hmg coa lyase,C0268601,Disease or Syndrome,PRODUCES,acetyl coa,C0001026,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1490,acetoacetate,C0000988,Organic Chemical,PRODUCES,acetone,C0001002,Organic Chemical,False,True
+1492,3-hydroxybutyrate dehydrogenase,C0020331,"Amino Acid, Peptide, or Protein",PRODUCES,acetoacetate,C0000988,Organic Chemical,False,True
+1494,carboxyl group,C0596260,Organic Chemical,PART_OF,ketone body,C0022631,Organic Chemical,False,True
+1495,acetone,C0001002,Organic Chemical,PRODUCES,odor,C0028884,Natural Phenomenon or Process,False,True
+1497,fatty acids,C0015684,Organic Chemical,OCCURS_IN,smooth endoplasmic reticulum,C0230789,Cell Component,False,True
+1502,carboxylate end,C0178528,Organic Chemical,PART_OF,fatty acid,C0015684,Organic Chemical,False,True
+1508,carnitine transporter,C1159794,Cell Function,DISRUPTS,fatty acid oxidation,C1158366,Molecular Function,False,True
+1508,carnitine transporter,C1159794,Cell Function,DISRUPTS,ketogenesis,C0599816,Molecular Function,False,True
+1508,adipose triglyceride lipase,C1538686,Gene or Genome,DISRUPTS,fatty acid,C0015684,Organic Chemical,False,True
+1515,arachidonic acid,C0003695,Organic Chemical,INGREDIENT_OF,d. prostaglandins,C0033554,Organic Chemical,False,True
+1515,linoleic acid,C0023749,Organic Chemical,INGREDIENT_OF,arachidonic acid,C0003695,Organic Chemical,False,True
+1519,acetyl coenzyme a,C0001026,"Nucleic Acid, Nucleoside, or Nucleotide",PRODUCES,acetoacetate,C0000988,Organic Chemical,False,True
+1521,acetoacetate,C0000988,Organic Chemical,IS_A,ketone body,C0022631,Organic Chemical,False,True
+1523,peroxisome,C0752063,Cell Component,LOCATION_OF,matrix proteins,C0042731,"Amino Acid, Peptide, or Protein",False,True
+1527,phospholipids,C0031676,Organic Chemical,CONSISTS_OF,alcohol,C0001962,Organic Chemical,False,True
+1527,phospholipids,C0031676,Organic Chemical,CONSISTS_OF,phosphodiester bond,C0031640,"Amino Acid, Peptide, or Protein",False,True
+1527,phospholipids,C0031676,Organic Chemical,CONSISTS_OF,diacylglycerol,C0011967,Organic Chemical,False,True
+1527,phospholipids,C0031676,Organic Chemical,CONSISTS_OF,sphingosine,C0037907,Organic Chemical,False,True
+1527,phospholipids,C0031676,Organic Chemical,PART_OF,cell membranes,C0007603,Cell Component,False,True
+1529,phospholipids,C0031676,Organic Chemical,PART_OF,membranes,C0025255,Tissue,False,True
+1531,glycerophospholipids,C0162448,Organic Chemical,IS_A,phospholipids,C0031676,Organic Chemical,False,True
+1531,glycerophospholipids,C0162448,Organic Chemical,CONTAINS,phosphatidic acid,C0031610,Organic Chemical,False,True
+1534,antibodies,C0003241,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,cardiolipin,C0007188,Organic Chemical,False,True
+1535,platelet-activating factor,C0032172,Organic Chemical,AFFECTS,inflammatory cells,C0007634,Cell,False,True
+1535,platelet-activating factor,C0032172,Organic Chemical,CAUSES,platelets,C0005821,Cell,False,True
+1537,sphingosine,C0037907,Organic Chemical,PRODUCES,ceramide,C0007745,Organic Chemical,False,True
+1537,sphingomyelin,C0037906,Organic Chemical,PART_OF,myelin sheath,C0026973,Cell Component,False,True
+1539,phosphatidic acid,C0031610,Organic Chemical,INGREDIENT_OF,glycerophospholipid synthesis,C1157378,Molecular Function,False,True
+1541,phosphatidic acid,C0031610,Organic Chemical,INGREDIENT_OF,glycerophospholipids,C0162448,Organic Chemical,False,True
+1541,phosphatidic acid,C0031610,Organic Chemical,INGREDIENT_OF,triacylglycerol,C0041004,Organic Chemical,False,True
+1542,tag synthesis,C0220781,Biologic Function,OCCURS_IN,liver,C0023884,"Body Part, Organ, or Organ Component",False,True
+1544,phosphatidylcholine,C1959616,Organic Chemical,LOCATION_OF,eukaryotic cells,C0015161,Cell,False,True
+1544,phosphatidylethanolamine,C0031618,Organic Chemical,LOCATION_OF,eukaryotic cells,C0015161,Cell,False,True
+1544,synthesis,C0220781,Biologic Function,USES,choline,C0008405,Organic Chemical,False,True
+1544,synthesis,C0220781,Biologic Function,USES,ethanolamine,C0014983,Organic Chemical,False,True
+1549,ps decarboxylase,C0007054,"Amino Acid, Peptide, or Protein",PRODUCES,phosphatidylethanolamine,C0031618,Organic Chemical,False,True
+1549,phosphatidylethanolamine,C0031618,Organic Chemical,PRODUCES,phosphatidylcholine,C1959616,Organic Chemical,False,True
+1551,ps synthesis,C0220781,Biologic Function,USES,phosphatidylethanolamine,C0031618,Organic Chemical,False,True
+1551,ps synthesis,C0220781,Biologic Function,PRODUCES,phosphatidylserine,C0301704,Organic Chemical,False,True
+1555,capillary endothelial cells,C1180238,Cell,LOCATION_OF,lipoprotein lipase,C0023816,"Amino Acid, Peptide, or Protein",False,True
+1557,mitochondrial membranes,C0596952,Cell Component,LOCATION_OF,phosphatidylglycerol,C0031614,Organic Chemical,False,True
+1563,phospholipases,C0031671,"Amino Acid, Peptide, or Protein",PERFORMS,degradation,C0243125,Organism Function,False,True
+1563,pathogenic bacteria,C0450254,Organism,PRODUCES,phospholipases,C0031671,"Amino Acid, Peptide, or Protein",False,True
+1565,phospholipases,C0031671,"Amino Acid, Peptide, or Protein",PRODUCES,second messengers,C0036522,Molecular Function,False,True
+1574,ceramide,C0007745,Organic Chemical,CONTAINS,monosaccharide,C0026492,Organic Chemical,False,True
+1574,carbohydrate moieties,C0007004,Organic Chemical,AFFECTS,glycosphingolipid,C0017978,Organic Chemical,False,True
+1576,cerebrosides,C0007805,Organic Chemical,CONSISTS_OF,ceramide,C0007745,Organic Chemical,False,True
+1576,cerebrosides,C0007805,Organic Chemical,CONSISTS_OF,monosaccharide,C0026492,Organic Chemical,False,True
+1576,galactocerebroside,C0060955,Organic Chemical,IS_A,cerebroside,C0007805,Organic Chemical,False,True
+1576,brain,C0006104,"Body Part, Organ, or Organ Component",LOCATION_OF,cerebrosides,C0007805,Organic Chemical,False,True
+1576,peripheral nerves,C0031119,"Body Part, Organ, or Organ Component",LOCATION_OF,cerebrosides,C0007805,Organic Chemical,False,True
+1576,myelin sheath,C0026973,Cell Component,LOCATION_OF,cerebrosides,C0007805,Organic Chemical,False,True
+1576,glucocerebroside,C0017770,Organic Chemical,PRODUCES,ceramide oligosaccharides,C0028959,Organic Chemical,False,True
+1580,ganglion cells,C0228071,Cell,LOCATION_OF,gangliosides,C0017082,Organic Chemical,False,True
+1580,gangliosides,C0017082,Organic Chemical,DERIVATIVE_OF,ceramide oligosaccharides,C0028959,Organic Chemical,False,True
+1580,gangliosides,C0017082,Organic Chemical,CONTAINS,nana,C1080692,Plant,False,True
+1582,brain,C0006104,"Body Part, Organ, or Organ Component",LOCATION_OF,sulfatides,C0038727,Organic Chemical,False,True
+1582,kidneys,C0022646,"Body Part, Organ, or Organ Component",LOCATION_OF,sulfatides,C0038727,Organic Chemical,False,True
+1586,enzymes,C0014442,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,glycosphingolipids,C0017978,Organic Chemical,False,True
+1588,paps,C1323288,Molecular Function,INGREDIENT_OF,glycosaminoglycan synthesis,C1156899,Molecular Function,False,True
+1588,paps,C1323288,Molecular Function,INGREDIENT_OF,steroid hormone catabolism,C0301818,Organic Chemical,False,True
+1592,lysosomal lipid storage diseases,C0023794,Disease or Syndrome,IS_A,sphingolipidoses,C0037899,Disease or Syndrome,False,True
+1596,prostaglandins,C0033554,Organic Chemical,IS_A,eicosanoids,C0013725,Organic Chemical,False,True
+1596,thromboxanes,C0040061,Organic Chemical,IS_A,eicosanoids,C0013725,Organic Chemical,False,True
+1596,leukotrienes,C0023545,Organic Chemical,IS_A,eicosanoids,C0013725,Organic Chemical,False,True
+1602,prostaglandin h2 synthase,C1565830,"Amino Acid, Peptide, or Protein",PRODUCES,pgh2,C0072288,Organic Chemical,False,True
+1602,pgh2,C0072288,Organic Chemical,PRODUCES,pg,C0030827,Organic Chemical,False,True
+1602,pgh2,C0072288,Organic Chemical,PRODUCES,tx,C0087111,Therapeutic or Preventive Procedure,False,True
+1603,cortisol,C0020268,Organic Chemical,INHIBITS,phospholipase a2 activity,C1149842,Molecular Function,False,True
+1603,aspirin,C0004057,Organic Chemical,INHIBITS,cox-1,C1565830,"Amino Acid, Peptide, or Protein",False,True
+1603,aspirin,C0004057,Organic Chemical,INHIBITS,cox-2,C1565860,"Amino Acid, Peptide, or Protein",False,True
+1605,cox-1,C1565830,"Amino Acid, Peptide, or Protein",PRODUCES,thromboxane a2,C0040057,Organic Chemical,False,True
+1605,cox-2,C1565860,"Amino Acid, Peptide, or Protein",PRODUCES,prostacyclin,C0033567,Organic Chemical,False,True
+1607,inhibitors,C0243077,Chemical Viewed Functionally,TREATS,asthma,C0004096,Disease or Syndrome,False,True
+1613,ingestion,C0232478,Biologic Function,CAUSES,bronchoconstriction,C0079043,Organ or Tissue Function,False,True
+1626,dipalmitoylphosphatidylcholine,C0000039,Organic Chemical,IS_A,lung surfactant,C0034085,Organic Chemical,False,True
+1626,respiratory distress syndrome,C0035220,Disease or Syndrome,OCCURS_IN,lungs,C0024109,"Body Part, Organ, or Organ Component",False,True
+1633,protein,C0033684,"Amino Acid, Peptide, or Protein",INDICATES,kidney damage,C0161816,Pathologic Function,False,True
+1635,aspirin,C0004057,Organic Chemical,PREVENTS,blood clots,C0087086,Pathologic Function,False,True
+1639,cholesterol,C0008377,Organic Chemical,PART_OF,cell membranes,C0007603,Cell Component,False,True
+1639,plaque,C0011389,Disease or Syndrome,CAUSES,atherosclerosis,C0003850,Disease or Syndrome,False,True
+1643,de novo synthesis,C0220781,Biologic Function,PRODUCES,cholesterol,C0008377,Organic Chemical,False,True
+1651,hmg coa reductase,C0020374,"Amino Acid, Peptide, or Protein",PRODUCES,coa,C0009226,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1652,mevalonate,C0677647,Organic Chemical,INGREDIENT_OF,cholesterol synthesis,C0599474,Molecular Function,False,True
+1653,mevalonate,C0677647,Organic Chemical,PRODUCES,5-pyrophosphomevalonate,C1150824,Molecular Function,False,True
+1654,5-pyrophosphomevalonate,C1150824,Molecular Function,PRODUCES,isopentenyl pyrophosphate (ipp),C0020823,Organic Chemical,False,True
+1655,isopentenyl pyrophosphate (ipp),C0020823,Organic Chemical,PRODUCES,geranyl pyrophosphate (gpp),C0343055,Disease or Syndrome,False,True
+1655,dpp,C1414174,Gene or Genome,PRODUCES,geranyl pyrophosphate (gpp),C0343055,Disease or Syndrome,False,True
+1656,isopentenyl pyrophosphate (ipp),C0020823,Organic Chemical,PRODUCES,farnesyl pyrophosphate (fpp),C1412373,Gene or Genome,False,True
+1656,geranyl pyrophosphate (gpp),C0343055,Disease or Syndrome,PRODUCES,farnesyl pyrophosphate (fpp),C1412373,Gene or Genome,False,True
+1656,squalene,C0038071,Organic Chemical,PRODUCES,sterol lanosterol,C0023025,Organic Chemical,False,True
+1656,linear squalene,C0038071,Organic Chemical,PRODUCES,lanosterol,C0023025,Organic Chemical,False,True
+1657,lanosterol,C0023025,Organic Chemical,PRODUCES,cholesterol,C0008377,Organic Chemical,False,True
+1657,7-dhc,C0049865,Organic Chemical,PRODUCES,vitamin d3,C0008318,Organic Chemical,False,True
+1659,hmg coa reductase,C0020374,"Amino Acid, Peptide, or Protein",MANAGES,cholesterol biosynthesis,C0599474,Molecular Function,False,True
+1661,srebp-2,C1528373,"Amino Acid, Peptide, or Protein",MANAGES,gene,C0017337,Gene or Genome,False,True
+1661,srebp-2,C1528373,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,dna,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1661,sterols,C0038323,Organic Chemical,INTERACTS_WITH,scap,C0406803,Neoplastic Process,False,True
+1661,scap,C0406803,Neoplastic Process,INTERACTS_WITH,insig,C0025252,"Amino Acid, Peptide, or Protein",False,True
+1661,srebp-1c,C0537474,"Amino Acid, Peptide, or Protein",MANAGES,enzymes,C0014442,"Amino Acid, Peptide, or Protein",False,True
+1667,statin drugs,C0360714,Organic Chemical,DISRUPTS,hmg coa reductase,C0020374,"Amino Acid, Peptide, or Protein",False,True
+1667,statin drugs,C0360714,Organic Chemical,TREATS,hypercholesterolemia,C0020443,Disease or Syndrome,False,True
+1671,bile,C0005388,Body Substance,CONSISTS_OF,inorganic compounds,C0021521,Inorganic Chemical,False,True
+1671,bile,C0005388,Body Substance,TRAVERSES,bile duct,C0005400,"Body Part, Organ, or Organ Component",False,True
+1671,gallbladder,C0016976,"Body Part, Organ, or Organ Component",LOCATION_OF,bile,C0005388,Body Substance,False,True
+1679,bacterial action,C0004611,Bacterium,INTERACTS_WITH,bile salts,C0005404,Organic Chemical,False,True
+1680,bacteria,C0004611,Bacterium,AFFECTS,bile salts,C0005404,Organic Chemical,False,True
+1680,bacteria,C0004611,Bacterium,PRODUCES,deoxycholic acid,C0011479,Organic Chemical,False,True
+1682,intestine,C0021853,"Body Part, Organ, or Organ Component",LOCATION_OF,bile salts,C0005404,Organic Chemical,False,True
+1682,liver,C0023884,"Body Part, Organ, or Organ Component",PERFORMS,secretion,C0036536,Biologic Function,False,True
+1682,albumin,C0001924,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,bile salts,C0005404,Organic Chemical,False,True
+1682,bile acid sequestrants,C2917337,Pharmacologic Substance,PREVENTS,reabsorption,C2610986,Physiologic Function,False,True
+1689,chylomicrons,C0008731,"Amino Acid, Peptide, or Protein",PART_OF,lipoprotein particles,C4235358,Cell Component,False,True
+1693,intestinal mucosal cells,C1512944,Cell,LOCATION_OF,c0008731,C0008731,"Amino Acid, Peptide, or Protein",False,True
+1693,chylomicrons,C0008731,"Amino Acid, Peptide, or Protein",CONTAINS,c0008377,C0008377,Organic Chemical,False,True
+1693,chylomicrons,C0008731,"Amino Acid, Peptide, or Protein",CONTAINS,c0259753,C0259753,Organic Chemical,False,True
+1693,chylomicrons,C0008731,"Amino Acid, Peptide, or Protein",CONTAINS,c0008387,C0008387,Organic Chemical,False,True
+1702,vldl,C0023825,"Amino Acid, Peptide, or Protein",CONTAINS,c0023779,C0023779,Organic Chemical,False,True
+1707,ldl particles,C0597177,Chemical Viewed Structurally,CONTAINS,tag,C0037293,Neoplastic Process,False,True
+1717,hdl particles,C0597177,Chemical Viewed Structurally,CONTAINS,apo c-ii,C0052190,"Amino Acid, Peptide, or Protein",False,True
+1725,lp(a),C0065058,"Amino Acid, Peptide, or Protein",ASSOCIATED_WITH,coronary heart disease,C0010054,Disease or Syndrome,False,True
+1733,lh,C0023607,"Amino Acid, Peptide, or Protein",AFFECTS,testes,C0021358,"Body Part, Organ, or Organ Component",False,True
+1733,lh,C0023607,"Amino Acid, Peptide, or Protein",AFFECTS,testosterone,C0039601,Organic Chemical,False,True
+1733,lh,C0023607,"Amino Acid, Peptide, or Protein",AFFECTS,ovaries,C0029939,"Body Part, Organ, or Organ Component",False,True
+1733,lh,C0023607,"Amino Acid, Peptide, or Protein",AFFECTS,estrogens,C0014939,Organic Chemical,False,True
+1733,lh,C0023607,"Amino Acid, Peptide, or Protein",AFFECTS,progesterone,C0033308,Organic Chemical,False,True
+1733,fsh,C0016424,Clinical Drug,AFFECTS,ovarian follicles,C0018120,"Body Part, Organ, or Organ Component",False,True
+1733,fsh,C0016424,Clinical Drug,AFFECTS,testicular spermatogenesis,C0037864,Cell Function,False,True
+1733,gonadotropin-releasing hormone,C0023610,"Amino Acid, Peptide, or Protein",AFFECTS,anterior pituitary,C0032016,"Amino Acid, Peptide, or Protein",False,True
+1733,gonadotropin-releasing hormone,C0023610,"Amino Acid, Peptide, or Protein",AFFECTS,lh,C0023607,"Amino Acid, Peptide, or Protein",False,True
+1733,gonadotropin-releasing hormone,C0023610,"Amino Acid, Peptide, or Protein",AFFECTS,fsh,C0016424,Clinical Drug,False,True
+1733,lh,C0023607,"Amino Acid, Peptide, or Protein",AFFECTS,camp,C0001455,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1733,fsh,C0016424,Clinical Drug,INTERACTS_WITH,surface receptors,C0034800,"Amino Acid, Peptide, or Protein",False,True
+1733,fsh,C0016424,Clinical Drug,AFFECTS,camp,C0001455,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1735,receptor–ligand complexes,,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,dna sequences,C1138413,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1739,statins,C0360714,Organic Chemical,DISRUPTS,hmg coa reductase,C0020374,"Amino Acid, Peptide, or Protein",False,True
+1739,statins,C0360714,Organic Chemical,TREATS,hypercholesterolemia,C0020443,Disease or Syndrome,False,True
+1740,bile acids,C0005390,Organic Chemical,DISRUPTS,cholesterol-7-αhydroxylase,C0008396,"Amino Acid, Peptide, or Protein",False,True
+1743,tag,C0037293,Neoplastic Process,IS_A,triacylglycerol,C0041004,Organic Chemical,False,True
+1743,nadph,C0027303,"Nucleic Acid, Nucleoside, or Nucleotide",IS_A,nicotinamide adenine dinucleotide phosphate,C0027303,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1743,c,,,IS_A,carbon,C0007009,Pharmacologic Substance,False,True
+1750,ampk,C1150553,Molecular Function,AFFECTS,reductase,C0030016,"Amino Acid, Peptide, or Protein",False,True
+1753,cholesterol,C0008377,Organic Chemical,PART_OF,vldl,C0023825,"Amino Acid, Peptide, or Protein",False,True
+1762,chylomicrons,C0008731,"Amino Acid, Peptide, or Protein",CAUSES,appearance,C0233426,Organism Attribute,False,True
+1762,high-density lipoproteins,C0023821,"Amino Acid, Peptide, or Protein",CONTAINS,cholesteryl esters,C0008387,Organic Chemical,False,True
+1762,low-density lipoproteins,C0023823,Organic Chemical,CONTAINS,cholesteryl esters,C0008387,Organic Chemical,False,True
+1762,intermediate-density lipoproteins,C0065063,"Amino Acid, Peptide, or Protein",CONTAINS,cholesteryl esters,C0008387,Organic Chemical,False,True
+1768,apo b-48,C0103839,"Amino Acid, Peptide, or Protein",PART_OF,chylomicrons,C0008731,"Amino Acid, Peptide, or Protein",False,True
+1768,cholesteryl ester transfer protein,C0055538,"Amino Acid, Peptide, or Protein",PERFORMS,cholesteryl ester–tag exchange,C0678640,Social Behavior,False,True
+1771,cortisol,C0017710,Organic Chemical,AFFECTS,blood glucose,C0005802,Organic Chemical,False,True
+1771,cortisol,C0017710,Organic Chemical,PREVENTS,acth release,C0001655,"Amino Acid, Peptide, or Protein",False,True
+1788,e3,C1150682,Molecular Function,INTERACTS_WITH,proteins,C0033684,"Amino Acid, Peptide, or Protein",False,True
+1792,gastric juice,C0017133,Body Substance,CONTAINS,hydrochloric acid,C0020259,"Indicator, Reagent, or Diagnostic Aid",False,True
+1792,gastric juice,C0017133,Body Substance,CONTAINS,proenzyme pepsinogen,C0030913,"Amino Acid, Peptide, or Protein",False,True
+1796,pepsin,C0030909,"Amino Acid, Peptide, or Protein",PRODUCES,polypeptides,C1305923,"Amino Acid, Peptide, or Protein",False,True
+1798,pancreatic proteases,C0030286,Disease or Syndrome,PRODUCES,oligopeptides,C0028954,"Amino Acid, Peptide, or Protein",False,True
+1798,pancreatic proteases,C0030286,Disease or Syndrome,PRODUCES,amino acids,C0002520,"Amino Acid, Peptide, or Protein",False,True
+1803,enteropeptidase,C0014366,"Amino Acid, Peptide, or Protein",LOCATION_OF,intestinal mucosal cells,C0021853,"Body Part, Organ, or Organ Component",False,True
+1805,pancreatic secretion,C0030296,Body Substance,AFFECTS,digestion,C0012238,Organism Function,False,True
+1808,aminopeptidase,C0002570,"Amino Acid, Peptide, or Protein",LOCATION_OF,enterocytes,C0682610,Cell,False,True
+1824,aminotransferases,C0002594,"Amino Acid, Peptide, or Protein",INDICATES,damage,C0010957,Injury or Poisoning,False,True
+1826,liver,C0023884,"Body Part, Organ, or Organ Component",CONTAINS,ast,C0004002,"Amino Acid, Peptide, or Protein",False,True
+1829,oxidative deamination reactions,C0030012,Molecular Function,PRODUCES,free ammonia,C0002607,Pharmacologic Substance,False,True
+1829,oxidative deamination reactions,C0030012,Molecular Function,OCCURS_IN,liver,C0023884,"Body Part, Organ, or Organ Component",False,True
+1829,oxidative deamination reactions,C0030012,Molecular Function,OCCURS_IN,kidney,C0022646,"Body Part, Organ, or Organ Component",False,True
+1829,oxidative deamination reactions,C0030012,Molecular Function,PRODUCES,α-keto acids,C0022618,Organic Chemical,False,True
+1830,nad+,C0027270,"Nucleic Acid, Nucleoside, or Nucleotide",USES,oxidative deamination,C0011061,Natural Phenomenon or Process,False,True
+1833,ammonia,C0002607,Pharmacologic Substance,PRODUCES,glutamate,C0017789,"Amino Acid, Peptide, or Protein",False,True
+1838,glutaminase,C0017796,"Amino Acid, Peptide, or Protein",PRODUCES,glutamate,C0017789,"Amino Acid, Peptide, or Protein",False,True
+1838,glutaminase,C0017796,"Amino Acid, Peptide, or Protein",PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1838,gdh,C0017786,"Amino Acid, Peptide, or Protein",PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1844,oxidative deamination,C0011061,Natural Phenomenon or Process,PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1844,carbamoyl phosphate synthetase i,C0006961,"Amino Acid, Peptide, or Protein",USES,n-acetylglutamate,C0067724,"Amino Acid, Peptide, or Protein",False,True
+1847,argininosuccinate synthetase,C0003776,"Amino Acid, Peptide, or Protein",PRODUCES,argininosuccinate,C0368700,"Amino Acid, Peptide, or Protein",False,True
+1849,argininosuccinate lyase,C0003775,"Amino Acid, Peptide, or Protein",PRODUCES,arginine,C0003765,"Amino Acid, Peptide, or Protein",False,True
+1849,argininosuccinate lyase,C0003775,"Amino Acid, Peptide, or Protein",PRODUCES,fumarate,C0220833,Organic Chemical,False,True
+1849,malate dehydrogenase,C0024544,"Amino Acid, Peptide, or Protein",PRODUCES,oxaloacetate,C0029989,Organic Chemical,False,True
+1850,arginase-i,C0003762,"Amino Acid, Peptide, or Protein",PRODUCES,ornithine,C0029277,"Amino Acid, Peptide, or Protein",False,True
+1850,arginase-i,C0003762,"Amino Acid, Peptide, or Protein",PRODUCES,urea,C0041942,Organic Chemical,False,True
+1851,bacterial urease,C0004623,Disease or Syndrome,PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1853,glutamate,C0017789,"Amino Acid, Peptide, or Protein",PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1855,nag,C1417593,Gene or Genome,INTERACTS_WITH,carbamoyl phosphate synthetase i,C0006961,"Amino Acid, Peptide, or Protein",False,True
+1858,tissues,C0040300,Tissue,PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1860,amino acids,C0002520,"Amino Acid, Peptide, or Protein",PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1861,liver,C0023884,"Body Part, Organ, or Organ Component",PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1861,kidneys,C0022646,"Body Part, Organ, or Organ Component",PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1865,amines,C0002508,Organic Chemical,PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1865,monoamine oxidase,C0026454,"Amino Acid, Peptide, or Protein",PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1867,purines,C0034140,Organic Chemical,PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1867,pyrimidines,C0034289,"Nucleic Acid, Nucleoside, or Nucleotide",PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1871,blood,C0005767,Body Substance,CONTAINS,urea,C0041942,Organic Chemical,False,True
+1871,kidneys,C0022646,"Body Part, Organ, or Organ Component",CONTAINS,urea,C0041942,Organic Chemical,False,True
+1873,glutamine synthetase,C0017801,"Amino Acid, Peptide, or Protein",OCCURS_IN,skeletal muscle,C0242692,Tissue,False,True
+1873,glutamine synthetase,C0017801,"Amino Acid, Peptide, or Protein",OCCURS_IN,liver,C0023884,"Body Part, Organ, or Organ Component",False,True
+1875,ammonia,C0002607,Pharmacologic Substance,CAUSES,tremors,C0040822,Sign or Symptom,False,True
+1877,liver disease,C0023895,Disease or Syndrome,CAUSES,hyperammonemia,C0220994,Disease or Syndrome,False,True
+1879,phenylbutyrate,C0031465,Organic Chemical,PRODUCES,phenylacetate,C0031452,Organic Chemical,False,True
+1888,glutamate,C0017789,"Amino Acid, Peptide, or Protein",PRODUCES,α-ketoglutarate,C1291208,Organic Chemical,False,True
+1888,oxaloacetate,C0029989,Organic Chemical,PRODUCES,aspartate,C0085845,"Amino Acid, Peptide, or Protein",False,True
+1890,enterocytes,C0682610,Cell,CONTAINS,free amino acids,C0002520,"Amino Acid, Peptide, or Protein",False,True
+1892,liver,C0023884,"Body Part, Organ, or Organ Component",USES,ammonia,C0002607,Pharmacologic Substance,False,True
+1895,amino acids,C0002520,"Amino Acid, Peptide, or Protein",PRODUCES,toxic ammonia,C0002607,Pharmacologic Substance,False,True
+1895,toxic ammonia,C0002607,Pharmacologic Substance,OCCURS_IN,blood,C0005767,Body Substance,False,True
+1896,branched-chain amino acids,C0002521,"Amino Acid, Peptide, or Protein",PRODUCES,glutamine,C0017797,"Amino Acid, Peptide, or Protein",False,True
+1896,glutamate dehydrogenase,C0017786,"Amino Acid, Peptide, or Protein",PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1896,glutamate dehydrogenase,C0017786,"Amino Acid, Peptide, or Protein",PRODUCES,α-ketoglutarate,C1291208,Organic Chemical,False,True
+1896,arginine,C0003765,"Amino Acid, Peptide, or Protein",OCCURS_IN,hepatic urea cycle,C0597619,Molecular Function,False,True
+1910,deficiencies,C0268487,Disease or Syndrome,CAUSES,hyperammonemia,C0220994,Disease or Syndrome,False,True
+1911,arginase,C0003762,"Amino Acid, Peptide, or Protein",PRODUCES,urea,C0041942,Organic Chemical,False,True
+1911,ornithine transcarbamylase,C0029279,"Amino Acid, Peptide, or Protein",PRODUCES,citrulline,C0008864,"Amino Acid, Peptide, or Protein",False,True
+1920,gluconeogenesis,C0017715,Molecular Function,PRODUCES,glucose,C0017725,Organic Chemical,False,True
+1922,ketone bodies,C0022631,Organic Chemical,CONTAINS,acetoacetate,C0000988,Organic Chemical,False,True
+1922,proteins,C0033684,"Amino Acid, Peptide, or Protein",CONTAINS,leucine,C0023401,"Amino Acid, Peptide, or Protein",False,True
+1922,proteins,C0033684,"Amino Acid, Peptide, or Protein",CONTAINS,lysine,C0024337,"Amino Acid, Peptide, or Protein",False,True
+1926,asparaginase,C0003993,"Amino Acid, Peptide, or Protein",PRODUCES,ammonia,C0002607,Pharmacologic Substance,False,True
+1926,asparaginase,C0003993,"Amino Acid, Peptide, or Protein",PRODUCES,aspartate,C0085845,"Amino Acid, Peptide, or Protein",False,True
+1926,aspartate,C0085845,"Amino Acid, Peptide, or Protein",PRODUCES,oxaloacetate,C0029989,Organic Chemical,False,True
+1926,asparaginase,C0003993,"Amino Acid, Peptide, or Protein",TREATS,leukemia,C0023418,Neoplastic Process,False,True
+1930,proline,C0033382,"Amino Acid, Peptide, or Protein",PRODUCES,glutamate,C0017789,"Amino Acid, Peptide, or Protein",False,True
+1932,arginase,C0003762,"Amino Acid, Peptide, or Protein",PRODUCES,ornithine,C0029277,"Amino Acid, Peptide, or Protein",False,True
+1932,ornithine,C0029277,"Amino Acid, Peptide, or Protein",PRODUCES,α-ketoglutarate,C1291208,Organic Chemical,False,True
+1934,histidase,C0019601,"Amino Acid, Peptide, or Protein",PRODUCES,urocanic acid,C0042054,Organic Chemical,False,True
+1934,figlu,C0016581,Organic Chemical,PRODUCES,glutamate,C0017789,"Amino Acid, Peptide, or Protein",False,True
+1935,c. amino acids,C0002520,"Amino Acid, Peptide, or Protein",PRODUCES,pyruvate 1,C0034354,Organic Chemical,False,True
+1940,cysteine,C0010654,"Amino Acid, Peptide, or Protein",PRODUCES,pyruvate,C0034354,Organic Chemical,False,True
+1940,cysteine,C0010654,"Amino Acid, Peptide, or Protein",PRODUCES,cystine,C0010682,"Amino Acid, Peptide, or Protein",False,True
+1944,hydroxylation,C0020365,Natural Phenomenon or Process,PRODUCES,tyrosine,C0041485,"Amino Acid, Peptide, or Protein",False,True
+1948,methionine,C0025646,"Amino Acid, Peptide, or Protein",PRODUCES,homocysteine,C0019878,"Amino Acid, Peptide, or Protein",False,True
+1948,methionine,C0025646,"Amino Acid, Peptide, or Protein",PRODUCES,s-adenosylmethionine (sam),C0036002,"Amino Acid, Peptide, or Protein",False,True
+1955,s-adenosylhomocysteine,C0036001,"Amino Acid, Peptide, or Protein",PRODUCES,hcy,C0019878,"Amino Acid, Peptide, or Protein",False,True
+1955,s-adenosylhomocysteine,C0036001,"Amino Acid, Peptide, or Protein",PRODUCES,adenosine,C0001443,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1956,hcy,C0019878,"Amino Acid, Peptide, or Protein",PRODUCES,cystathionine,C0010640,"Amino Acid, Peptide, or Protein",False,True
+1956,cystathionine,C0010640,"Amino Acid, Peptide, or Protein",PRODUCES,cysteine,C0010654,"Amino Acid, Peptide, or Protein",False,True
+1961,valine,C0042285,"Amino Acid, Peptide, or Protein",PRODUCES,propionyl coa,C1123015,"Amino Acid, Peptide, or Protein",False,True
+1961,isoleucine,C0022192,"Amino Acid, Peptide, or Protein",PRODUCES,propionyl coa,C1123015,"Amino Acid, Peptide, or Protein",False,True
+1961,propionyl coa,C1123015,"Amino Acid, Peptide, or Protein",PRODUCES,methylmalonyl coa,C0066397,"Amino Acid, Peptide, or Protein",False,True
+1961,methylmalonyl coa,C0066397,"Amino Acid, Peptide, or Protein",PRODUCES,succinyl coa,C0075444,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1963,propionyl coa,C1123015,"Amino Acid, Peptide, or Protein",PRODUCES,succinyl,C4763479,Molecular Function,False,True
+1963,threonine,C0040005,"Amino Acid, Peptide, or Protein",PRODUCES,propionyl coa,C1123015,"Amino Acid, Peptide, or Protein",False,True
+1963,oxidation,C0030011,Molecular Function,PRODUCES,propionyl coa,C1123015,"Amino Acid, Peptide, or Protein",False,True
+1965,tryptophan,C0041249,"Amino Acid, Peptide, or Protein",PRODUCES,acetyl coa,C0001026,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1965,tryptophan,C0041249,"Amino Acid, Peptide, or Protein",PRODUCES,acetoacetyl coa,C0050446,"Amino Acid, Peptide, or Protein",False,True
+1965,leucine,C0023401,"Amino Acid, Peptide, or Protein",PRODUCES,acetyl coa,C0001026,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1965,leucine,C0023401,"Amino Acid, Peptide, or Protein",PRODUCES,acetoacetyl coa,C0050446,"Amino Acid, Peptide, or Protein",False,True
+1965,isoleucine,C0022192,"Amino Acid, Peptide, or Protein",PRODUCES,acetyl coa,C0001026,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1965,isoleucine,C0022192,"Amino Acid, Peptide, or Protein",PRODUCES,acetoacetyl coa,C0050446,"Amino Acid, Peptide, or Protein",False,True
+1965,phenylalanine,C0031453,"Amino Acid, Peptide, or Protein",PRODUCES,acetoacetate,C0000988,Organic Chemical,False,True
+1965,tyrosine,C0041485,"Amino Acid, Peptide, or Protein",PRODUCES,acetoacetate,C0000988,Organic Chemical,False,True
+1967,tryptophan,C0041249,"Amino Acid, Peptide, or Protein",PRODUCES,alanine,C0001898,"Amino Acid, Peptide, or Protein",False,True
+1967,quinolinate,C0139706,Organic Chemical,INGREDIENT_OF,nicotinamide adenine dinucleotide,C0027270,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1968,leucine,C0023401,"Amino Acid, Peptide, or Protein",PRODUCES,acetoacetate,C0000988,Organic Chemical,False,True
+1972,lysine,C0024337,"Amino Acid, Peptide, or Protein",PRODUCES,acetoacetyl coa,C0050446,"Amino Acid, Peptide, or Protein",False,True
+1974,bcaa isoleucine,C0022192,"Amino Acid, Peptide, or Protein",IS_A,amino acids,C0002520,"Amino Acid, Peptide, or Protein",False,True
+1974,leucine,C0023401,"Amino Acid, Peptide, or Protein",IS_A,amino acids,C0002520,"Amino Acid, Peptide, or Protein",False,True
+1974,valine,C0042285,"Amino Acid, Peptide, or Protein",IS_A,amino acids,C0002520,"Amino Acid, Peptide, or Protein",False,True
+1976,branched-chain amino acid aminotransferase,C1152219,Molecular Function,OCCURS_IN,skeletal muscle,C0242692,Tissue,False,True
+1978,branched-chain α-keto acid dehydrogenase complex,C0046494,"Amino Acid, Peptide, or Protein",USES,thiamine pyrophosphate,C0039848,Organic Chemical,False,True
+1978,branched-chain α-keto acid dehydrogenase complex,C0046494,"Amino Acid, Peptide, or Protein",USES,lipoic acid,C0023791,Organic Chemical,False,True
+1978,branched-chain α-keto acid dehydrogenase complex,C0046494,"Amino Acid, Peptide, or Protein",USES,oxidized flavin adenine dinucleotide,C3156162,Molecular Function,False,True
+1978,branched-chain α-keto acid dehydrogenase complex,C0046494,"Amino Acid, Peptide, or Protein",USES,nad+,C2611154,Molecular Function,False,True
+1978,branched-chain α-keto acid dehydrogenase complex,C0046494,"Amino Acid, Peptide, or Protein",USES,coa,C0009235,Organic Chemical,False,True
+1978,branched-chain α-keto acid dehydrogenase complex,C0046494,"Amino Acid, Peptide, or Protein",PRODUCES,nadh,C0027289,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1979,oxidation,C0030011,Molecular Function,PRODUCES,fadh2,C0044036,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1980,isoleucine,C0022192,"Amino Acid, Peptide, or Protein",PRODUCES,succinyl coa,C0075444,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1980,valine,C0042285,"Amino Acid, Peptide, or Protein",PRODUCES,succinyl coa,C0075444,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1980,decarboxylation,C0011094,Natural Phenomenon or Process,PRODUCES,nadh,C0027289,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1980,dehydrogenation reactions,C0020286,Natural Phenomenon or Process,PRODUCES,fadh2,C0044036,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+1984,folate deficiency,C0016412,Disease or Syndrome,CAUSES,megaloblastic anemia,C0002888,Disease or Syndrome,False,True
+1988,oxaloacetate,C0029989,"Nucleic Acid, Nucleoside, or Nucleotide",INGREDIENT_OF,aspartate,C0085845,"Amino Acid, Peptide, or Protein",False,True
+1988,α-ketoglutarate,C1291208,Organic Chemical,INGREDIENT_OF,glutamate,C0017789,"Amino Acid, Peptide, or Protein",False,True
+1988,glutamate dehydrogenase,C0017786,"Amino Acid, Peptide, or Protein",PRODUCES,glutamate,C0017789,"Amino Acid, Peptide, or Protein",False,True
+1990,glutamine synthetase,C0017801,"Amino Acid, Peptide, or Protein",PRODUCES,glutamine,C0017797,"Amino Acid, Peptide, or Protein",False,True
+1991,asparagine synthetase,C0003997,"Amino Acid, Peptide, or Protein",PRODUCES,asparagine,C0003995,"Amino Acid, Peptide, or Protein",False,True
+1993,glutamate semialdehyde,C0061471,"Amino Acid, Peptide, or Protein",PRODUCES,proline,C0033382,"Amino Acid, Peptide, or Protein",False,True
+1996,3-phosphoglycerate,C0047701,Organic Chemical,PRODUCES,3phosphopyruvate,C0031691,"Amino Acid, Peptide, or Protein",False,True
+1996,3phosphopyruvate,C0031691,"Amino Acid, Peptide, or Protein",PRODUCES,3-phosphoserine,C0031721,"Amino Acid, Peptide, or Protein",False,True
+1996,phosphate ester,C0599126,Organic Chemical,PRODUCES,serine,C0036720,"Amino Acid, Peptide, or Protein",False,True
+1996,glycine,C0017890,"Amino Acid, Peptide, or Protein",PRODUCES,serine,C0036720,"Amino Acid, Peptide, or Protein",False,True
+1996,serine,C0036720,"Amino Acid, Peptide, or Protein",PRODUCES,selenocysteine,C0074289,"Amino Acid, Peptide, or Protein",False,True
+1996,selenium,C0036581,Pharmacologic Substance,PRODUCES,selenocysteine,C0074289,"Amino Acid, Peptide, or Protein",False,True
+1997,serine,C0036720,"Amino Acid, Peptide, or Protein",PRODUCES,glycine,C0017890,"Amino Acid, Peptide, or Protein",False,True
+2001,phenylalanine,C0031453,"Amino Acid, Peptide, or Protein",PRODUCES,tyrosine,C0041485,"Amino Acid, Peptide, or Protein",False,True
+2001,bh4,C0048897,"Amino Acid, Peptide, or Protein",PRODUCES,bh2,C1157143,Molecular Function,False,True
+2001,bh2,C1157143,Molecular Function,PRODUCES,bh4,C0048897,"Amino Acid, Peptide, or Protein",False,True
+2003,mutations,C0026882,Genetic Function,CAUSES,gene disorders,C0012634,Disease or Syndrome,False,True
+2006,dietary restriction,C0425422,Health Care Activity,TREATS,pku,C0031485,Disease or Syndrome,False,True
+2009,pku,C0031485,Disease or Syndrome,CAUSES,metabolites,C0870883,Biologically Active Substance,False,True
+2011,pku,C0031485,Disease or Syndrome,CAUSES,central nervous system effects,C3540014,"Indicator, Reagent, or Diagnostic Aid",False,True
+2034,urine,C0042036,Body Substance,CONTAINS,ha,C0018681,Sign or Symptom,False,True
+2034,arthritis,C0003864,Disease or Syndrome,OCCURS_IN,large joints,C0022417,Body Space or Junction,False,True
+2036,glucose,C0017725,Organic Chemical,OCCURS_IN,liver,C0023884,"Body Part, Organ, or Organ Component",False,True
+2036,glucose,C0017725,Organic Chemical,OCCURS_IN,kidneys,C0022646,"Body Part, Organ, or Organ Component{",False,True
+2040,tyrosinase,C0012524,"Amino Acid, Peptide, or Protein",PRODUCES,melanin,C0025196,Organic Chemical,False,True
+2045,tyrosine,C0041485,"Amino Acid, Peptide, or Protein",IS_A,amino acid,C0002520,"Amino Acid, Peptide, or Protein",False,True
+2048,alanine,C0001898,"Amino Acid, Peptide, or Protein",EXHIBITS,ketogenic,C0599817,Molecular Function,False,True
+2056,guanosine triphosphate,C0018353,"Nucleic Acid, Nucleoside, or Nucleotide",INGREDIENT_OF,tetrahydrobiopterin,C5575095,"Amino Acid, Peptide, or Protein",False,True
+2060,amino acids,C0002520,"Amino Acid, Peptide, or Protein",INGREDIENT_OF,nitrogen-containing compounds,C0028159,Inorganic Chemical,False,True
+2060,amino acids,C0002520,"Amino Acid, Peptide, or Protein",INGREDIENT_OF,proteins,C0033684,"Amino Acid, Peptide, or Protein",False,True
+2060,arginine,C0003765,"Amino Acid, Peptide, or Protein",INGREDIENT_OF,nitric oxide,C0028128,Pharmacologic Substance,False,True
+2062,porphyrins,C0032712,Organic Chemical,IS_A,cyclic compounds,C0596399,Organic Chemical,False,True
+2062,heme,C0018966,Organic Chemical,PART_OF,hemoglobin,C0008721,Organic Chemical,False,True
+2062,heme,C0018966,Organic Chemical,PART_OF,myoglobin,C0027078,"Amino Acid, Peptide, or Protein",False,True
+2062,heme,C0018966,Organic Chemical,PART_OF,cytochromes,C0010798,"Amino Acid, Peptide, or Protein",False,True
+2062,heme,C0018966,Organic Chemical,PART_OF,catalase,C0007367,"Amino Acid, Peptide, or Protein",False,True
+2062,heme,C0018966,Organic Chemical,PART_OF,nitric oxide synthase,C0132555,"Amino Acid, Peptide, or Protein",False,True
+2062,heme,C0018966,Organic Chemical,PART_OF,peroxidase,C0027021,"Amino Acid, Peptide, or Protein",False,True
+2064,porphyrins,C0032712,Organic Chemical,CONSISTS_OF,pyrrole rings,C3489010,Organic Chemical,False,True
+2065,uroporphyrin,C0042093,Organic Chemical,CONTAINS,acetate,C0000975,Organic Chemical,False,True
+2065,uroporphyrin,C0042093,Organic Chemical,CONTAINS,propionate,C0033474,Organic Chemical,False,True
+2065,coproporphyrin,C0009988,Organic Chemical,CONTAINS,methyl,C0650224,Organic Chemical,False,True
+2065,coproporphyrin,C0009988,Organic Chemical,CONTAINS,propionate,C0033474,Organic Chemical,False,True
+2065,protoporphyrin ix,C0072497,Pharmacologic Substance,CONTAINS,vinyl,C0032624,Organic Chemical,False,True
+2065,protoporphyrin ix,C0072497,Pharmacologic Substance,CONTAINS,methyl,C0650224,Organic Chemical,False,True
+2065,protoporphyrin ix,C0072497,Pharmacologic Substance,CONTAINS,propionate,C0033474,Organic Chemical,False,True
+2065,decarboxylation,C0011094,Natural Phenomenon or Process,PRODUCES,methyl,C0650224,Organic Chemical,False,True
+2065,decarboxylation,C0011094,Natural Phenomenon or Process,PRODUCES,vinyl,C0032624,Organic Chemical,False,True
+2070,hemin,C0018988,Organic Chemical,DISRUPTS,alas1,C1412330,Gene or Genome,False,True
+2071,drugs,C0013227,Pharmacologic Substance,AFFECTS,alas1,C1412330,Gene or Genome,False,True
+2073,inhibition,C0021467,Mental Process,CAUSES,anemia,C0002871,Disease or Syndrome,False,True
+2075,uroporphyrinogen iii synthase,C0042089,"Amino Acid, Peptide, or Protein",PRODUCES,asymmetric uroporphyrinogen iii,C1157261,Molecular Function,False,True
+2075,uroporphyrinogen iii decarboxylase,C0042085,"Amino Acid, Peptide, or Protein",PRODUCES,coproporphyrinogen iii,C0163564,Organic Chemical,False,True
+2076,mitochondrion,C0026237,Cell Component,LOCATION_OF,coproporphyrinogen iii,C0163564,Organic Chemical,False,True
+2076,protoporphyrinogen ix,C0072499,Organic Chemical,PRODUCES,protoporphyrin ix,C0072497,Pharmacologic Substance,False,True
+2076,iron,C0302583,Pharmacologic Substance,PRODUCES,heme,C0018966,Organic Chemical,False,True
+2078,oxidation,C0030011,Molecular Function,CAUSES,photosensitivity,C0349506,Pathologic Function,False,True
+2081,ala,C0001898,"Amino Acid, Peptide, or Protein",CAUSES,abdominal pain,C0000737,Sign or Symptom,False,True
+2081,pbg,C0032704,Organic Chemical,CAUSES,abdominal pain,C0000737,Sign or Symptom,False,True
+2083,erythropoietic porphyrias,C0162530,Disease or Syndrome,CAUSES,photosensitivity,C0349506,Pathologic Function,False,True
+2091,microsomal heme oxygenase,C0018969,"Amino Acid, Peptide, or Protein",PRODUCES,carbon monoxide,C0007018,Hazardous or Poisonous Substance,False,True
+2092,bilirubin,C0005437,Organic Chemical,PRODUCES,biliverdin,C0005446,Organic Chemical,False,True
+2092,biliverdin reductase,C0053602,"Amino Acid, Peptide, or Protein",PRODUCES,bilirubin,C0005437,Organic Chemical,False,True
+2094,liver,C0023884,"Body Part, Organ, or Organ Component",PERFORMS,uptake,C0243144,Physiologic Function,False,True
+2094,central nervous system,C3540014,"Indicator, Reagent, or Diagnostic Aid",LOCATION_OF,bilirubin,C0005437,Organic Chemical,False,True
+2094,hepatocyte,C0227525,Cell,LOCATION_OF,bilirubin,C0005437,Organic Chemical,False,True
+2096,glucuronic acid,C0061444,Organic Chemical,INGREDIENT_OF,bilirubin diglucuronide product,C0053592,Organic Chemical,False,True
+2096,microsomal bilirubin udp-glucuronosyltransferase,C0537026,Gene or Genome,PERFORMS,conjugation,C1160466,Natural Phenomenon or Process,False,True
+2097,bile canaliculi,C0005393,"Body Part, Organ, or Organ Component",LOCATION_OF,cb,C0526532,Organic Chemical,False,True
+2099,gut bacteria,C0004611,Bacterium,PERFORMS,cb,C0526532,Organic Chemical,False,True
+2099,kidney,C0022646,"Body Part, Organ, or Organ Component",LOCATION_OF,urobilinogen,C0042052,Organic Chemical,False,True
+2101,bilirubin,C0005437,Organic Chemical,CAUSES,jaundice,C0022346,Sign or Symptom,False,True
+2102,liver,C0023884,"Body Part, Organ, or Organ Component",PERFORMS,conjugation,C1160466,Natural Phenomenon or Process,False,True
+2103,damage,C0010957,Injury or Poisoning,CAUSES,unconjugated hyperbilirubinemia,C0268306,Disease or Syndrome,False,True
+2103,hepatic damage,C0151763,Pathologic Function,DISRUPTS,enterohepatic circulation,C0014362,Organ or Tissue Function,False,True
+2105,extrahepatic cholestasis,C0005398,Disease or Syndrome,CAUSES,jaundice,C0022346,Sign or Symptom,False,True
+2111,ne,C0014563,Organic Chemical,AFFECTS,carbohydrate,C0007004,Organic Chemical,False,True
+2111,ne,C0014563,Organic Chemical,AFFECTS,glycogen,C0017911,Organic Chemical,False,True
+2113,tyrosine,C0041485,"Amino Acid, Peptide, or Protein",PRODUCES,catecholamines,C0007412,Pharmacologic Substance,False,True
+2113,dopa,C0023570,"Amino Acid, Peptide, or Protein",PRODUCES,dopamine,C0013030,Organic Chemical,False,True
+2114,l-dopa,C0023570,"Amino Acid, Peptide, or Protein",TREATS,parkinson disease,C0030567,Disease or Syndrome,False,True
+2117,histidine,C0019602,"Amino Acid, Peptide, or Protein",PRODUCES,histamine,C0019588,Organic Chemical,False,True
+2119,tryptophan,C0041249,"Amino Acid, Peptide, or Protein",PRODUCES,serotonin,C0036751,Organic Chemical,False,True
+2119,serotonin,C0036751,Organic Chemical,PRODUCES,5-hiaa,C0020361,Organic Chemical,False,True
+2122,glycine,C0017890,"Amino Acid, Peptide, or Protein",PRODUCES,creatine,C0010286,"Amino Acid, Peptide, or Protein",False,True
+2122,arginine,C0003765,"Amino Acid, Peptide, or Protein",PRODUCES,creatine,C0010286,"Amino Acid, Peptide, or Protein",False,True
+2122,creatine kinase,C0010287,"Amino Acid, Peptide, or Protein",PRODUCES,creatine phosphate,C0031634,"Amino Acid, Peptide, or Protein",False,True
+2122,creatine kinase,C0010287,"Amino Acid, Peptide, or Protein",USES,atp,C0001480,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+2123,creatine,C0010286,"Amino Acid, Peptide, or Protein",PRODUCES,creatinine,C0010294,Organic Chemical,False,True
+2123,creatine phosphate,C0031634,"Amino Acid, Peptide, or Protein",PRODUCES,creatinine,C0010294,Organic Chemical,False,True
+2123,urine,C0042036,Body Substance,LOCATION_OF,creatinine,C0010294,Organic Chemical,False,True
+2123,creatinine,C0010294,Organic Chemical,INDICATES,kidney malfunction,C0232804,Organ or Tissue Function,False,True
+2125,melanin,C0025196,Organic Chemical,IS_A,pigment,C0031916,Chemical Viewed Functionally,False,True
+2125,eye,C0015392,"Body Part, Organ, or Organ Component",LOCATION_OF,melanin,C0025196,Organic Chemical,False,True
+2125,hair,C0018494,"Body Part, Organ, or Organ Component",LOCATION_OF,melanin,C0025196,Organic Chemical,False,True
+2125,skin,C0444099,Body Substance,LOCATION_OF,melanin,C0025196,Organic Chemical,False,True
+2125,tyrosine,C0041485,"Amino Acid, Peptide, or Protein",PRODUCES,melanin,C0025196,Organic Chemical,False,True
+2125,melanin,C0025196,Organic Chemical,PREVENTS,harmful effects,C0879626,Pathologic Function,False,True
+2127,amino acids,C0002520,"Amino Acid, Peptide, or Protein",INGREDIENT_OF,porphyrins,C0032712,Organic Chemical,False,True
+2127,porphyrins,C0032712,Organic Chemical,PRODUCES,heme,C0018966,Organic Chemical,False,True
+2127,glycine,C0017890,"Amino Acid, Peptide, or Protein",INGREDIENT_OF,heme synthesis,C0599175,Molecular Function,False,True
+2127,succinyl coenzyme a,C0038626,"Amino Acid, Peptide, or Protein",INGREDIENT_OF,heme synthesis,C0599175,Molecular Function,False,True
+2127,hemin,C0018988,Organic Chemical,PREVENTS,alas1,C1412330,Gene or Genome,False,True
+2127,lead poisoning,C0023176,Injury or Poisoning,CAUSES,porphyrias,C0032708,Disease or Syndrome,False,True
+2127,heme oxygenase,C0018969,"Amino Acid, Peptide, or Protein",PRODUCES,biliverdin,C0005446,Organic Chemical,False,True
+2127,biliverdin,C0005446,Organic Chemical,PRODUCES,bilirubin,C0005437,Organic Chemical,False,True
+2127,bile canaliculi,C0005393,"Body Part, Organ, or Organ Component",LOCATION_OF,bilirubin diglucuronide,C0053588,Organic Chemical,False,True
+2127,gut bacteria,C0004611,Bacterium,PRODUCES,urobilinogen,C0042052,Organic Chemical,False,True
+2127,gut bacteria,C0004611,Bacterium,PRODUCES,stercobilin,C0075228,Organic Chemical,False,True
+2136,δ-aminolevulinic acid synthase,C3815531,"Amino Acid, Peptide, or Protein",USES,pyridoxal phosphate,C0034266,Organic Chemical,False,True
+2137,phenytoin,C0031507,Organic Chemical,TREATS,seizure disorder,C0014544,Disease or Syndrome,False,True
+2143,e. the disease,C0028432,Disease or Syndrome,ASSOCIATED_WITH,uroporphyrinogen iii decarboxylase,C0042085,"Amino Acid, Peptide, or Protein",False,True
+2143,hepatic injury,C0160390,Injury or Poisoning,AFFECTS,clinical expression,C2362914,Mental or Behavioral Dysfunction,False,True
+2143,phenytoin,C0031507,Organic Chemical,CAUSES,synthesis,C0220781,Biologic Function,False,True
+2143,phenytoin,C0031507,Organic Chemical,CAUSES,uroporphyrinogen,C0042092,Organic Chemical,False,True
+2146,hepatic,C0205054,Body Location or Region,LOCATION_OF,conjugation,C1160466,Natural Phenomenon or Process,False,True
