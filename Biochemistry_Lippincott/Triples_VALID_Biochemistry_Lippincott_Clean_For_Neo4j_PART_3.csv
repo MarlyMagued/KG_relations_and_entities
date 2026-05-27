@@ -1,0 +1,103 @@
+paragraph_id,subject,subject_cui,subject_type,relation,object,object_cui,object_type,rule_valid,gemini_verdict
+2157,lead,C0023175,Hazardous or Poisonous Substance,DISRUPTS,heme synthesis,C0599175,Molecular Function,True,True
+2191,thioredoxin,C0039938,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,ribonucleotide reductase,C0035547,"Amino Acid, Peptide, or Protein",True,True
+2210,xo,C1421531,Gene or Genome,PRODUCES,xanthine,C0043314,"Nucleic Acid, Nucleoside, or Nucleotide",True,True
+2210,xo,C1421531,Gene or Genome,PRODUCES,uric acid,C0041980,Organic Chemical,True,True
+2211,uric acid,C0041980,Organic Chemical,CAUSES,gout,C0018099,Disease or Syndrome,True,True
+2211,crystals,C0427896,Body Substance,CAUSES,chronic gouty arthritis,C0268108,Disease or Syndrome,True,True
+2211,hyperuricemia,C0740394,Disease or Syndrome,PRECEDES,gout,C0018099,Disease or Syndrome,True,True
+2215,purines,C0034140,Organic Chemical,CAUSES,hyperuricemia,C0740394,Disease or Syndrome,True,True
+2218,anti-inflammatory agents,C0003209,Pharmacologic Substance,TREATS,gout,C0018099,Disease or Syndrome,True,True
+2247,uric acid,C0041980,Organic Chemical,CAUSES,kidney stones,C0022650,Disease or Syndrome,True,True
+2266,insulin,C0021641,"Amino Acid, Peptide, or Protein",AFFECTS,energy metabolism,C0014272,Physiologic Function,True,True
+2266,glucagon,C0017687,"Amino Acid, Peptide, or Protein",AFFECTS,energy metabolism,C0014272,Physiologic Function,True,True
+2268,β cells,C0007634,Cell,PRODUCES,insulin,C0021641,"Amino Acid, Peptide, or Protein",True,True
+2268,islets,C0022131,"Body Part, Organ, or Organ Component",PART_OF,pancreas,C0030274,"Body Part, Organ, or Organ Component",True,True
+2270,insulin,C0021641,"Amino Acid, Peptide, or Protein",CONSISTS_OF,amino acids,C0002520,"Amino Acid, Peptide, or Protein",True,True
+2270,insulin,C0021641,"Amino Acid, Peptide, or Protein",CONSISTS_OF,polypeptide chains,C1302674,"Amino Acid, Peptide, or Protein",True,True
+2275,pancreatic β cells,C0030280,Cell,PRODUCES,insulin,C0021641,"Amino Acid, Peptide, or Protein",True,True
+2275,pancreatic α cells,C0030280,Cell,PRODUCES,glucagon,C0017687,"Amino Acid, Peptide, or Protein",True,True
+2290,insulin,C0021641,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,insulin receptor,C0034818,"Amino Acid, Peptide, or Protein",True,True
+2296,insulin,C0021641,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,receptors,C0597357,"Amino Acid, Peptide, or Protein",True,True
+2297,adipocytes,C0206131,Cell,LOCATION_OF,glucose transport,C0178666,Cell Function,True,True
+2301,low blood glucose,C0005802,Organic Chemical,AFFECTS,glucagon secretion,C2610739,Cell Function,True,True
+2301,amino acids,C0002520,"Amino Acid, Peptide, or Protein",AFFECTS,glucagon secretion,C2610739,Cell Function,True,True
+2301,catecholamines,C0007412,Pharmacologic Substance,AFFECTS,glucagon secretion,C2610739,Cell Function,True,True
+2315,liver,C0023884,"Body Part, Organ, or Organ Component",LOCATION_OF,fa,C0015625,Disease or Syndrome,True,True
+2315,liver,C0023884,"Body Part, Organ, or Organ Component",PRODUCES,acetyl coa,C0001026,"Nucleic Acid, Nucleoside, or Nucleotide",True,True
+2319,glucagon,C0017687,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,gpcr,C0682972,"Amino Acid, Peptide, or Protein",True,True
+2327,glucagon,C0017687,"Amino Acid, Peptide, or Protein",AFFECTS,hepatic glycogenolysis,C0596624,Molecular Function,True,True
+2327,glucagon,C0017687,"Amino Acid, Peptide, or Protein",AFFECTS,gluconeogenesis,C0017715,Molecular Function,True,True
+2327,epinephrine,C0014563,Organic Chemical,AFFECTS,glycogenolysis,C0596624,Molecular Function,True,True
+2327,epinephrine,C0014563,Organic Chemical,AFFECTS,lipolysis,C0023796,Organism Function,True,True
+2327,epinephrine,C0014563,Organic Chemical,AFFECTS,insulin secretion,C1256369,Cell Function,True,True
+2332,oral administration,C0001563,Therapeutic or Preventive Procedure,TREATS,hypoglycemia,C0020615,Disease or Syndrome,True,True
+2334,insulin,C0021641,"Amino Acid, Peptide, or Protein",CAUSES,postprandial hypoglycemia,C0020615,Disease or Syndrome,True,True
+2348,catecholamines,C0007412,Pharmacologic Substance,AFFECTS,secretion,C0036536,Biologic Function,True,True
+2349,amino acids,C0002520,"Amino Acid, Peptide, or Protein",AFFECTS,secretion,C0036536,Biologic Function,True,True
+2370,tumor cells,C0431085,Cell,PRODUCES,insulin,C0021641,"Amino Acid, Peptide, or Protein",True,True
+2401,hepatocytes,C0227525,Cell,PRODUCES,pyruvate,C0034354,Organic Chemical,True,True
+2418,lpl,C0023816,"Amino Acid, Peptide, or Protein",AFFECTS,fa,C0015625,Disease or Syndrome,True,True
+2422,muscle,C0026845,Tissue,LOCATION_OF,degradation,C0243125,Organism Function,True,True
+2426,liver,C0023884,"Body Part, Organ, or Organ Component",PRODUCES,ketone bodies,C0022631,Organic Chemical,True,True
+2451,acetyl coa,C0001026,"Nucleic Acid, Nucleoside, or Nucleotide",AFFECTS,pdh,C0034345,Disease or Syndrome,True,True
+2453,insulin,C0021641,"Amino Acid, Peptide, or Protein",AFFECTS,muscle proteolysis,C0597304,Molecular Function,True,True
+2453,glucocorticoids,C0017710,Organic Chemical,AFFECTS,muscle proteolysis,C0597304,Molecular Function,True,True
+2473,liver,C0023884,"Body Part, Organ, or Organ Component",LOCATION_OF,uptake,C0243144,Physiologic Function,True,True
+2491,acetyl coenzyme a,C0001026,"Nucleic Acid, Nucleoside, or Nucleotide",INTERACTS_WITH,pyruvate carboxylase,C0034340,"Amino Acid, Peptide, or Protein",True,True
+2503,glucose,C0017725,Organic Chemical,CAUSES,hyperglycemia,C0020456,Disease or Syndrome,True,True
+2509,hypoglycemia,C0020615,Disease or Syndrome,AFFECTS,brain development,C1160340,Organ or Tissue Function,True,True
+2520,insulin resistance,C0021655,Pathologic Function,ASSOCIATED_WITH,inflammation,C0021368,Pathologic Function,True,True
+2520,activated macrophages,C0001280,Cell,PRODUCES,interleukin 6,C0021760,"Amino Acid, Peptide, or Protein",True,True
+2520,activated macrophages,C0001280,Cell,PRODUCES,tumor necrosis factor-α,C0041368,"Amino Acid, Peptide, or Protein",True,True
+2520,ffa,C0015688,Organic Chemical,CAUSES,tag,C0037293,Neoplastic Process,True,True
+2587,epigenetic changes,C1516924,Genetic Function,AFFECTS,obesity,C0028754,Disease or Syndrome,True,True
+2602,metabolic syndrome,C0524620,Disease or Syndrome,ASSOCIATED_WITH,cvd,C0007222,Disease or Syndrome,True,True
+2602,metabolic syndrome,C0524620,Disease or Syndrome,ASSOCIATED_WITH,t2d,C0011860,Disease or Syndrome,True,True
+2602,obesity,C0028754,Disease or Syndrome,AFFECTS,insulin resistance,C0021655,Pathologic Function,True,True
+2602,obesity,C0028754,Disease or Syndrome,AFFECTS,t2d,C0011860,Disease or Syndrome,True,True
+2602,adipocytes,C0206131,Cell,PRODUCES,il-6,C0021760,"Amino Acid, Peptide, or Protein",True,True
+2602,adipocytes,C0206131,Cell,PRODUCES,tnf-α,C1448177,"Amino Acid, Peptide, or Protein",True,True
+2604,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,tag,C0037293,Neoplastic Process,True,True
+2604,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,nafld,C0400966,Disease or Syndrome,True,True
+2606,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,t2d,C0011860,Disease or Syndrome,True,True
+2606,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,dyslipidemias,C0242339,Disease or Syndrome,True,True
+2606,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,hypertension,C0020538,Disease or Syndrome,True,True
+2606,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,cvd,C0007222,Disease or Syndrome,True,True
+2606,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,cancers,C0006826,Neoplastic Process,True,True
+2606,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,gallstones,C0008350,Disease or Syndrome,True,True
+2606,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,arthritis,C0003864,Disease or Syndrome,True,True
+2606,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,gout,C0018099,Disease or Syndrome,True,True
+2606,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,pelvic floor disorders,C3178892,Disease or Syndrome,True,True
+2606,obesity,C0028754,Disease or Syndrome,ASSOCIATED_WITH,sleep apnea,C0037315,Disease or Syndrome,True,True
+2682,phenolic compounds,C0031428,Pharmacologic Substance,AFFECTS,lipoprotein oxidation,C1158919,Molecular Function,True,True
+2738,nutritional insufficiency,C0162429,Disease or Syndrome,RESULT_OF,loss of appetite,C0003123,Disease or Syndrome,True,True
+2738,nutritional insufficiency,C0162429,Disease or Syndrome,RESULT_OF,excretion,C0221102,Physiologic Function,True,True
+2762,fat,C0001527,Tissue,PART_OF,adipose tissue,C0001527,Tissue,True,True
+2783,fat metabolism,C0598783,Molecular Function,PRODUCES,carbon dioxide,C0007012,Biologically Active Substance,True,True
+2814,iron,C0302583,Pharmacologic Substance,CAUSES,microcytic anemia,C5194182,Disease or Syndrome,True,True
+2850,peripheral neuropathy,C0031117,Disease or Syndrome,MANIFESTATION_OF,adult beriberi,C0005122,Disease or Syndrome,True,True
+2850,edema,C0013604,Pathologic Function,MANIFESTATION_OF,adult beriberi,C0005122,Disease or Syndrome,True,True
+2861,dermatitis,C0011603,Disease or Syndrome,MANIFESTATION_OF,riboflavin deficiency,C0035528,Disease or Syndrome,True,True
+2884,retinoic acid,C0040845,Organic Chemical,INTERACTS_WITH,receptor proteins,C0597357,"Amino Acid, Peptide, or Protein",True,True
+2890,retinol,C0042839,Organic Chemical,AFFECTS,normal reproduction,C0035150,Organism Function,True,True
+2890,retinol,C0042839,Organic Chemical,AFFECTS,spermatogenesis,C0037864,Cell Function,True,True
+2890,retinoic acid,C0040845,Organic Chemical,AFFECTS,growth,C0018270,Organism Function,True,True
+2890,retinoic acid,C0040845,Organic Chemical,AFFECTS,differentiation,C0007589,Cell Function,True,True
+2898,night blindness,C0028077,Disease or Syndrome,MANIFESTATION_OF,vitamin a deficiency,C0042842,Disease or Syndrome,True,True
+2922,reduction therapy,C2828006,Therapeutic or Preventive Procedure,PREVENTS,bone loss,C0029453,Disease or Syndrome,True,True
+2939,cephalosporin antibiotics,C3536856,Organic Chemical,CAUSES,hypoprothrombinemia,C0272317,Disease or Syndrome,True,True
+2961,rhodopsin,C0035499,"Amino Acid, Peptide, or Protein",CONSISTS_OF,protein opsin,C0033684,"Amino Acid, Peptide, or Protein",True,True
+2976,vitamin d,C0014695,Organic Chemical,INTERACTS_WITH,nuclear receptors,C0206588,"Amino Acid, Peptide, or Protein",True,True
+2976,vitamin d,C0014695,Organic Chemical,AFFECTS,gene transcription,C0040649,Genetic Function,True,True
+2976,vitamin d,C0014695,Organic Chemical,INTERACTS_WITH,parathyroid hormone,C0020063,"Amino Acid, Peptide, or Protein",True,True
+2978,vitamin b6,C0034272,Organic Chemical,AFFECTS,glycogen degradation,C0596624,Molecular Function,True,True
+2989,kidneys,C0022646,"Body Part, Organ, or Organ Component",PRODUCES,calcitriol,C0006674,Organic Chemical,True,True
+2991,magnesium sulfate,C0024480,Pharmacologic Substance,TREATS,preeclampsia,C0032914,Pathologic Function,True,True
+3061,pth,C0020063,"Amino Acid, Peptide, or Protein",AFFECTS,bone resorption,C0005974,Organ or Tissue Function,True,True
+3070,zinc,C0043481,Pharmacologic Substance,TREATS,h. wilson disease,C0019202,Disease or Syndrome,True,True
+3071,selenium excess,C0036581,Pharmacologic Substance,CAUSES,selenosis,C0020488,Disease or Syndrome,True,True
+3085,regulatory proteins,C0815047,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,recognition sequences,C0209994,"Amino Acid, Peptide, or Protein",True,True
+3151,transposon,C1257902,Gene or Genome,PRODUCES,reverse transcriptase,C0035379,"Amino Acid, Peptide, or Protein",True,True
+3153,removal,C0015252,Therapeutic or Preventive Procedure,PREVENTS,chain elongation,C4725181,Cell or Molecular Dysfunction,True,True
+3220,genome,C0017428,Gene or Genome,PRODUCES,rna transcripts,C1519595,"Nucleic Acid, Nucleoside, or Nucleotide",True,True
