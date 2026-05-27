@@ -1,0 +1,65 @@
+paragraph_id,subject,subject_cui,subject_type,relation,object,object_cui,object_type,rule_valid,gemini_verdict
+69,chemical nature,C0220806,Chemical,AFFECTS,function,C0031843,Physiologic Function,True,True
+84,hydroxyl group,C0700307,Inorganic Chemical,INTERACTS_WITH,phosphate group,C0031603,Inorganic Chemical,True,True
+146,chaperones,C0243041,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,polypeptide,C1305923,"Amino Acid, Peptide, or Protein",True,True
+151,cell,C0007634,Cell,LOCATION_OF,misfolded proteins,C1655235,Molecular Function,True,True
+153,gene,C0017337,Gene or Genome,PRODUCES,altered protein,C0033684,"Amino Acid, Peptide, or Protein",True,True
+155,prion protein,C0033164,"Amino Acid, Peptide, or Protein",CAUSES,transmissible spongiform encephalopathies,C0162534,Disease or Syndrome,True,True
+185,prpsc,C0074204,"Amino Acid, Peptide, or Protein",CAUSES,prion diseases,C0162534,Disease or Syndrome,True,True
+194,myoglobin,C0027078,"Amino Acid, Peptide, or Protein",CONSISTS_OF,polypeptide chain,C1305923,"Amino Acid, Peptide, or Protein",True,True
+201,hemoglobin a,C0019016,"Amino Acid, Peptide, or Protein",CONSISTS_OF,polypeptide chains,C1302674,"Amino Acid, Peptide, or Protein",True,True
+210,myoglobin,C0027078,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,o2,C0030054,Pharmacologic Substance,True,True
+210,hemoglobin,C0008721,Organic Chemical,INTERACTS_WITH,o2,C0030054,Pharmacologic Substance,True,True
+210,pulse oximetry,C0034108,Diagnostic Procedure,MEASURES,oxygen saturation,C0369768,Molecular Function,True,True
+225,"2,3-bpg",C0031701,Organic Chemical,INTERACTS_WITH,deoxy hemoglobin,C0057437,Organic Chemical,True,True
+231,co2,C0007012,Biologically Active Substance,AFFECTS,oxygen affinity,C0369765,Molecular Function,True,True
+232,hyperbaric oxygen therapy,C0020431,Therapeutic or Preventive Procedure,TREATS,co poisoning,C0032343,Injury or Poisoning,True,True
+248,nucleus,C0007610,Cell Component,LOCATION_OF,expression,C0017262,Genetic Function,True,True
+268,hematopoietic stem cell transplantation,C0472699,Therapeutic or Preventive Procedure,TREATS,β-thalassemia,C0039730,Disease or Syndrome,True,True
+272,o2,C0030054,Pharmacologic Substance,CAUSES,rupture,C3203359,Injury or Poisoning,True,True
+283,acidosis,C0001122,Pathologic Function,AFFECTS,oxygen affinity,C0369765,Molecular Function,True,True
+290,carbon dioxide,C0007012,Biologically Active Substance,AFFECTS,oxygen affinity,C0369765,Molecular Function,True,True
+291,saturation,C0522534,Natural Phenomenon or Process,AFFECTS,oxygen affinity,C0369765,Molecular Function,True,True
+294,oxygen,C0030054,Pharmacologic Substance,AFFECTS,oxygen affinity,C0369765,Molecular Function,True,True
+307,benzocaine,C0005059,Organic Chemical,CAUSES,acquired methemoglobinemia,C0271905,Disease or Syndrome,True,True
+331,collagen fibrils,C0225328,Cell Component,PART_OF,collagen fibers,C0225325,Tissue,True,True
+361,augmentation therapy,C3178819,Therapeutic or Preventive Procedure,TREATS,α1-antitrypsin deficiency,C0221757,Disease or Syndrome,True,True
+372,imaging,C0011923,Diagnostic Procedure,DIAGNOSES,fracture,C0016658,Injury or Poisoning,True,True
+378,type v collagen,C0009335,"Amino Acid, Peptide, or Protein",CAUSES,ehlers-danlos syndrome,C0013720,Disease or Syndrome,True,True
+403,holoenzyme,C0282109,"Amino Acid, Peptide, or Protein",CONSISTS_OF,nonprotein component,C1179435,"Amino Acid, Peptide, or Protein",True,True
+442,enzyme,C0014442,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,substrate,C0221135,"Amino Acid, Peptide, or Protein",True,True
+486,effectors,C4277620,"Amino Acid, Peptide, or Protein",AFFECTS,enzyme activity,C0243102,Molecular Function,True,True
+499,cells,C0007634,Cell,PRODUCES,enzymes,C0014442,"Amino Acid, Peptide, or Protein",True,True
+501,plasma,C0032105,Body Substance,PART_OF,blood,C0005767,Body Substance,True,True
+509,ck isoenzyme,C0010287,"Amino Acid, Peptide, or Protein",CONSISTS_OF,polypeptides,C1305923,"Amino Acid, Peptide, or Protein",True,True
+515,organic acids,C0369760,Organic Chemical,CAUSES,c0001122,C0001122,Pathologic Function,True,True
+589,leakage,C0015376,Pathologic Function,PRODUCES,reactive oxygen species,C0162772,Biologically Active Substance,True,True
+607,oligomycin,C0028951,Organic Chemical,INTERACTS_WITH,atp synthase,C0132555,"Amino Acid, Peptide, or Protein",True,True
+623,inner mitochondrial membrane,C0230840,Cell Component,LOCATION_OF,electron transport chain,C2244392,Molecular Function,True,True
+623,cytochrome c oxidase,C0010760,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,o2,C0030054,Pharmacologic Substance,True,True
+631,cyanide,C0010505,Hazardous or Poisonous Substance,DISRUPTS,electron transport chain,C2244392,Molecular Function,True,True
+642,carbon monoxide,C0007018,Hazardous or Poisonous Substance,DISRUPTS,phosphorylation,C0031715,Molecular Function,True,True
+679,water,C0043047,Pharmacologic Substance,CAUSES,osmotic diarrhea,C0267556,Disease or Syndrome,True,True
+690,undigested carbohydrate,C0007004,Organic Chemical,CAUSES,osmotic diarrhea,C0267556,Disease or Syndrome,True,True
+690,bacterial fermentation,C0015852,Molecular Function,PRODUCES,carbon dioxide,C0007012,Biologically Active Substance,True,True
+712,catabolic pathways,C1704259,Molecular Function,PRODUCES,carbon dioxide,C0007012,Biologically Active Substance,True,True
+736,ligand,C0023688,Chemical,INTERACTS_WITH,receptors,C0597357,"Amino Acid, Peptide, or Protein",True,True
+736,insulin,C0021641,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,membrane tyrosine kinase receptor,C0206364,"Amino Acid, Peptide, or Protein",True,True
+740,α subunit,C0599220,"Amino Acid, Peptide, or Protein",AFFECTS,enzyme activity,C0243102,Molecular Function,True,True
+848,sodium-dependent glucose cotransporter 1,C1420200,Gene or Genome,PART_OF,intestinal mucosal cells,C1512944,Cell,True,True
+906,atp/adp ratio,C1153238,Molecular Function,AFFECTS,citric acid cycle,C0008858,Molecular Function,True,True
+936,mitochondria,C0026237,Cell Component,LOCATION_OF,pc,C0056447,Therapeutic or Preventive Procedure,True,True
+951,liver,C0023884,"Body Part, Organ, or Organ Component",PRODUCES,free glucose,C0017725,Organic Chemical,True,True
+956,peptide hormone,C0597192,"Amino Acid, Peptide, or Protein",AFFECTS,gluconeogenesis,C0017715,Molecular Function,True,True
+958,glucagon,C0017687,"Amino Acid, Peptide, or Protein",AFFECTS,"fructose 1,6-bisphosphatase",C1149893,Molecular Function,True,True
+969,amp,C0001465,"Nucleic Acid, Nucleoside, or Nucleotide",AFFECTS,"fructose 1,6-bisphosphatase",C1149893,Molecular Function,True,True
+971,cells,C0007634,Cell,PRODUCES,lactate,C0022924,Organic Chemical,True,True
+971,skeletal muscle,C0242692,Tissue,PRODUCES,lactate,C0022924,Organic Chemical,True,True
+971,glucagon,C0017687,"Amino Acid, Peptide, or Protein",AFFECTS,transcription,C0040649,Genetic Function,True,True
+971,cortisol,C0020268,Organic Chemical,AFFECTS,transcription,C0040649,Genetic Function,True,True
+971,insulin,C0021641,"Amino Acid, Peptide, or Protein",AFFECTS,transcription,C0040649,Genetic Function,True,True
+971,"fructose 2,6-bisphosphate",C0016745,Organic Chemical,AFFECTS,glycolysis,C0017952,Molecular Function,True,True
+1013,branching,C0220781,Biologic Function,AFFECTS,glycogen synthesis,C1157202,Molecular Function,True,True
+1037,glycogen phosphorylase,C0917785,"Amino Acid, Peptide, or Protein",AFFECTS,glycogenolysis,C0596624,Molecular Function,True,True
+1053,enzyme,C0014442,"Amino Acid, Peptide, or Protein",CAUSES,gsd,C0017495,Disease or Syndrome,True,True
+1055,phosphatase,C0031678,"Amino Acid, Peptide, or Protein",CAUSES,glycogen storage disease ia,C0017919,Disease or Syndrome,True,True
