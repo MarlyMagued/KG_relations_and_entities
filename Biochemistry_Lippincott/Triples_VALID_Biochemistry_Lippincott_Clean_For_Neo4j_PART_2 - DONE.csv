@@ -1,0 +1,80 @@
+paragraph_id,subject,subject_cui,subject_type,relation,object,object_cui,object_type,rule_valid,gemini_verdict
+1095,sorbitol,C0037688,Organic Chemical,CAUSES,cell swelling,C0013604,Pathologic Function,True,True
+1109,lactose synthase,C0022952,"Amino Acid, Peptide, or Protein",CONSISTS_OF,protein a,C0038164,"Amino Acid, Peptide, or Protein",True,True
+1109,lactose synthase,C0022952,"Amino Acid, Peptide, or Protein",CONSISTS_OF,protein b,C0377800,"Amino Acid, Peptide, or Protein",True,True
+1112,aldose reductase,C0002003,"Amino Acid, Peptide, or Protein",CAUSES,liver damage,C0151763,Pathologic Function,True,True
+1112,aldose reductase,C0002003,"Amino Acid, Peptide, or Protein",CAUSES,brain damage,C0270611,Injury or Poisoning,True,True
+1112,aldose reductase,C0002003,"Amino Acid, Peptide, or Protein",CAUSES,cataracts,C0086543,Disease or Syndrome,True,True
+1125,β-galactosidase,C0016955,"Amino Acid, Peptide, or Protein",AFFECTS,degrade lactose,C1157749,Molecular Function,True,True
+1126,lactose synthesis,C1157168,Molecular Function,PRODUCES,milk,C0026131,Body Substance,True,True
+1129,α-lactalbumin,C0022912,"Amino Acid, Peptide, or Protein",AFFECTS,affinity,C1510827,Natural Phenomenon or Process,True,True
+1137,galactitol,C0013283,Organic Chemical,CAUSES,cataract formation,C0086543,Disease or Syndrome,True,True
+1140,cytosol,C1383501,Cell Component,LOCATION_OF,pentose phosphate pathway,C0030892,Molecular Function,True,True
+1142,pentose phosphate pathway,C0030892,Molecular Function,PRODUCES,co2,C0007012,Biologically Active Substance,True,True
+1184,oxidant drug,C0085403,Chemical Viewed Functionally,CAUSES,hemolytic anemia,C0002878,Disease or Syndrome,True,True
+1237,proteoglycan,C0033692,"Amino Acid, Peptide, or Protein",CONSISTS_OF,core protein,C0033684,"Amino Acid, Peptide, or Protein",True,True
+1241,golgi,C0018042,Cell Component,LOCATION_OF,synthesis,C0220781,Biologic Function,True,True
+1253,ribosomes,C0035553,Cell Component,PRODUCES,core protein,C0033684,"Amino Acid, Peptide, or Protein",True,True
+1295,death,C0011065,Organism Function,RESULT_OF,cardiopulmonary complications,C0281169,Pathologic Function,True,True
+1299,gag,C0017346,Gene or Genome,PRODUCES,body’s ground substance,C1253945,Body Substance,True,True
+1330,proteoglycans,C0033692,"Amino Acid, Peptide, or Protein",CONSISTS_OF,core protein,C0033684,"Amino Acid, Peptide, or Protein",True,True
+1342,liver,C0023884,"Body Part, Organ, or Organ Component",PRODUCES,bile salts,C0005404,Organic Chemical,True,True
+1346,colipase,C0009304,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,lipase,C0023764,"Amino Acid, Peptide, or Protein",True,True
+1373,mouth,C0226896,Body Space or Junction,LOCATION_OF,lipid droplets,C0230704,Cell Component,True,True
+1448,oxidation,C0030011,Molecular Function,PRODUCES,co2,C0007012,Biologically Active Substance,True,True
+1450,adipose triglyceride lipase,C1538686,Gene or Genome,PRODUCES,diacylglycerol,C0043791,Organic Chemical,True,True
+1495,ketone bodies,C0022631,Organic Chemical,CAUSES,dehydration,C0011175,Disease or Syndrome,True,True
+1508,enzymes,C0014442,"Amino Acid, Peptide, or Protein",CAUSES,secondary carnitine deficiency,C0268553,Disease or Syndrome,True,True
+1547,type ii pneumocytes,C0225700,Cell,PRODUCES,dipalmitoylphosphatidylcholine,C0000039,Organic Chemical,True,True
+1586,enzymes,C0014442,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,glycoproteins,C0017968,"Amino Acid, Peptide, or Protein",True,True
+1594,diagnosis,C0011900,Diagnostic Procedure,DIAGNOSES,sphingolipidosis,C0037899,Disease or Syndrome,True,True
+1594,enzyme replacement therapy,C0014935,Therapeutic or Preventive Procedure,TREATS,gaucher disease,C0017205,Disease or Syndrome,True,True
+1594,enzyme replacement therapy,C0014935,Therapeutic or Preventive Procedure,TREATS,fabry disease,C0002986,Disease or Syndrome,True,True
+1594,bone marrow transplantation,C0005961,Therapeutic or Preventive Procedure,TREATS,gaucher disease,C0017205,Disease or Syndrome,True,True
+1607,5-lox,C1412361,Gene or Genome,PRODUCES,5-hpete,C0052292,Organic Chemical,True,True
+1610,5-lox,C1412361,Gene or Genome,PRODUCES,lt,C0024320,"Amino Acid, Peptide, or Protein",True,True
+1613,nonsteroidal anti-inflammatory drugs,C0003211,Pharmacologic Substance,CAUSES,aspirin-exacerbated respiratory disease,C0035204,Disease or Syndrome,True,True
+1619,imaging,C0011923,Diagnostic Procedure,DIAGNOSES,respiratory distress syndrome,C0035220,Disease or Syndrome,True,True
+1643,ezetimibe,C1142985,Organic Chemical,INTERACTS_WITH,niemann-pick c1-like 1 protein,C2698466,"Amino Acid, Peptide, or Protein",True,True
+1647,tissues,C0040300,Tissue,PRODUCES,cholesterol,C0008377,Organic Chemical,True,True
+1675,bile acids,C0005390,Organic Chemical,AFFECTS,expression,C0017262,Genetic Function,True,True
+1682,bile acid sequestrants,C2917337,Pharmacologic Substance,TREATS,hypercholesterolemia,C0020443,Disease or Syndrome,True,True
+1684,laparoscopic cholecystectomy,C0162522,Therapeutic or Preventive Procedure,TREATS,cholelithiasis,C0008350,Disease or Syndrome,True,True
+1696,hepatic receptors,C0597357,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,c0023816,C0023816,"Amino Acid, Peptide, or Protein",True,True
+1699,adipose tissue,C0001527,Tissue,PRODUCES,c0023816,C0023816,"Amino Acid, Peptide, or Protein",True,True
+1702,liver,C0023884,"Body Part, Organ, or Organ Component",PRODUCES,c0023825,C0023825,"Amino Acid, Peptide, or Protein",True,True
+1703,liver,C0023884,"Body Part, Organ, or Organ Component",PRODUCES,vldl,C0023825,"Amino Acid, Peptide, or Protein",True,True
+1703,mtp,C0065610,Organic Chemical,CAUSES,abetalipoproteinemia,C0000744,Disease or Syndrome,True,True
+1708,ldl particles,C0597177,Chemical Viewed Structurally,INTERACTS_WITH,ldl receptors,C0034821,"Amino Acid, Peptide, or Protein",True,True
+1720,lcat,C0023194,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,hdl,C0023821,"Amino Acid, Peptide, or Protein",True,True
+1733,lh,C0023607,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,surface receptors,C0034800,"Amino Acid, Peptide, or Protein",True,True
+1735,steroid hormone,C0301818,Organic Chemical,INTERACTS_WITH,receptor,C0597357,"Amino Acid, Peptide, or Protein",True,True
+1771,aldosterone,C0002006,Organic Chemical,AFFECTS,blood pressure,C0005823,Organism Function,True,True
+1790,stomach,C0038351,"Body Part, Organ, or Organ Component",PRODUCES,proteolytic enzymes,C0030940,"Amino Acid, Peptide, or Protein",True,True
+1790,pancreas,C0030274,"Body Part, Organ, or Organ Component",PRODUCES,proteolytic enzymes,C0030940,"Amino Acid, Peptide, or Protein",True,True
+1790,small intestine,C0021852,"Body Part, Organ, or Organ Component",PRODUCES,proteolytic enzymes,C0030940,"Amino Acid, Peptide, or Protein",True,True
+1796,chief cells,C1516470,Cell,PRODUCES,pepsinogen,C0030913,"Amino Acid, Peptide, or Protein",True,True
+1839,liver,C0023884,"Body Part, Organ, or Organ Component",PRODUCES,urea,C0041942,Organic Chemical,True,True
+1841,mitochondrial matrix,C1510421,Cell Component,LOCATION_OF,synthesis,C0220781,Biologic Function,True,True
+1851,bacterial urease,C0004623,Disease or Syndrome,PRODUCES,co2,C0007012,Biologically Active Substance,True,True
+1875,ammonia,C0002607,Pharmacologic Substance,CAUSES,neurotoxic effect,C0235032,Injury or Poisoning,True,True
+1957,hcy,C0019878,"Amino Acid, Peptide, or Protein",CAUSES,oxidative damage,C5392203,Cell or Molecular Dysfunction,True,True
+1957,hcy,C0019878,"Amino Acid, Peptide, or Protein",CAUSES,inflammation,C0021368,Pathologic Function,True,True
+1957,hcy,C0019878,"Amino Acid, Peptide, or Protein",CAUSES,endothelial dysfunction,C0856169,Disease or Syndrome,True,True
+2003,intellectual disability,C3714756,Mental or Behavioral Dysfunction,RESULT_OF,amino acid disorders,C0002514,Disease or Syndrome,True,True
+2006,supplementation,C0242297,Therapeutic or Preventive Procedure,TREATS,pku,C0031485,Disease or Syndrome,True,True
+2018,phenylalanine,C0031453,"Amino Acid, Peptide, or Protein",CAUSES,microcephaly,C0025958,Congenital Abnormality,True,True
+2018,phenylalanine,C0031453,"Amino Acid, Peptide, or Protein",CAUSES,congenital heart abnormalities,C0000768,Congenital Abnormality,True,True
+2020,blood,C0005767,Body Substance,CAUSES,toxic effect,C0600688,Injury or Poisoning,True,True
+2026,leucine,C0023401,"Amino Acid, Peptide, or Protein",CAUSES,neurologic damage,C0751792,Injury or Poisoning,True,True
+2036,phenylalanine hydroxylase,C0031456,"Amino Acid, Peptide, or Protein",CAUSES,phenylketonuria,C0031485,Disease or Syndrome,True,True
+2036,branched-chain a-keto acid dehydrogenase,C0046494,"Amino Acid, Peptide, or Protein",CAUSES,maple syrup urine disease,C0024776,Disease or Syndrome,True,True
+2069,liver,C0023884,"Body Part, Organ, or Organ Component",PRODUCES,heme proteins,C0018974,"Amino Acid, Peptide, or Protein",True,True
+2069,bone marrow,C0005953,Tissue,PRODUCES,hb,C0019046,"Amino Acid, Peptide, or Protein",True,True
+2081,ala,C0001898,"Amino Acid, Peptide, or Protein",CAUSES,neuropsychiatric disturbances,C0233514,Mental or Behavioral Dysfunction,True,True
+2081,pbg,C0032704,Organic Chemical,CAUSES,neuropsychiatric disturbances,C0233514,Mental or Behavioral Dysfunction,True,True
+2083,skin rashes,C0015230,Sign or Symptom,MANIFESTATION_OF,photosensitivity,C0349506,Pathologic Function,True,True
+2111,ne,C0014563,Organic Chemical,AFFECTS,lipid metabolism,C0598783,Molecular Function,True,True
+2117,mast cells,C0024880,Cell,PRODUCES,histamine,C0019588,Organic Chemical,True,True
+2127,liver,C0023884,"Body Part, Organ, or Organ Component",LOCATION_OF,heme biosynthesis,C0599175,Molecular Function,True,True
+2127,bone marrow,C0005953,Tissue,LOCATION_OF,heme biosynthesis,C0599175,Molecular Function,True,True
