@@ -1,0 +1,424 @@
+paragraph_id,subject,subject_cui,subject_type,relation,object,object_cui,object_type,rule_valid,gemini_verdict
+3223,rrna,C0035701,"Nucleic Acid, Nucleoside, or Nucleotide",PART_OF,ribosomes,C0035553,Cell Component,False,True
+3229,rna pol,C0035678,"Amino Acid, Peptide, or Protein",PRODUCES,rna,C0035668,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3233,core enzyme,C0014442,"Amino Acid, Peptide, or Protein",PART_OF,holoenzyme,C0282109,"Amino Acid, Peptide, or Protein",False,True
+3233,sigma subunit,C0599220,"Amino Acid, Peptide, or Protein",PART_OF,holoenzyme,C0282109,"Amino Acid, Peptide, or Protein",False,True
+3235,promoter,C0086860,"Nucleic Acid, Nucleoside, or Nucleotide",LOCATION_OF,transcription unit,C0040649,Genetic Function,False,True
+3235,termination region,C1160149,Organism Function,LOCATION_OF,transcription unit,C0040649,Genetic Function,False,True
+3238,holoenzyme,C0282109,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,consensus sequence,C0079160,Nucleotide Sequence,False,True
+3240,polymerase,C1335439,"Amino Acid, Peptide, or Protein",PERFORMS,unwinding,C1819424,Genetic Function,False,True
+3240,rna pol,C0035678,"Amino Acid, Peptide, or Protein",PRODUCES,transcript,C1519595,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3240,rna pol,C0035678,"Amino Acid, Peptide, or Protein",USES,nucleoside triphosphates,C0597106,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3244,rifampin,C0035608,Organic Chemical,DISRUPTS,transcription initiation,C0589507,Mental Process,False,True
+3244,rifampin,C0035608,Organic Chemical,TREATS,tuberculosis,C0041296,Disease or Syndrome,False,True
+3247,tf,C1333522,Gene or Genome,INTERACTS_WITH,dna,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3251,nucleus,C0007610,Cell Component,LOCATION_OF,rna pol,C0035678,"Amino Acid, Peptide, or Protein",False,True
+3252,rna polymerase i,C0035678,"Amino Acid, Peptide, or Protein",PRODUCES,5.8s rrna,C0035706,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3254,rna polymerase ii,C0035679,"Amino Acid, Peptide, or Protein",PRODUCES,nuclear precursors,C0028603,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3254,rna polymerase ii,C0035679,"Amino Acid, Peptide, or Protein",PRODUCES,ncrna,C0887909,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3254,rna polymerase ii,C0035679,"Amino Acid, Peptide, or Protein",PRODUCES,snorna,C0751969,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3254,rna polymerase ii,C0035679,"Amino Acid, Peptide, or Protein",PRODUCES,snrna,C0035709,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3254,rna polymerase ii,C0035679,"Amino Acid, Peptide, or Protein",PRODUCES,mirna,C1101610,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3256,gtf,C5137536,Molecular Function,INTERACTS_WITH,rna pol ii,C0035679,"Amino Acid, Peptide, or Protein",False,True
+3259,transcriptional activators,C0040649,Genetic Function,INTERACTS_WITH,dna,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3261,rna polymerase iii,C0035680,"Amino Acid, Peptide, or Protein",PRODUCES,trna,C0035711,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3261,rna polymerase iii,C0035680,"Amino Acid, Peptide, or Protein",PRODUCES,5s rrna,C0035707,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3261,rna polymerase iii,C0035680,"Amino Acid, Peptide, or Protein",PRODUCES,snrna,C0035709,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3261,rna polymerase iii,C0035680,"Amino Acid, Peptide, or Protein",PRODUCES,snorna,C0751969,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3264,pre-rrna,C1148885,Genetic Function,PRODUCES,rrna,C0035701,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3264,ribonucleases,C0035542,"Amino Acid, Peptide, or Protein",PRODUCES,rrna,C0035701,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3268,rna pol ii,C0035679,"Amino Acid, Peptide, or Protein",PRODUCES,hnrna,C0035695,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3271,polyadenylate polymerase,C0032401,"Amino Acid, Peptide, or Protein",USES,atp,C0001480,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3273,splicing,C0035687,Genetic Function,PART_OF,maturation,C0678723,Organism Function,False,True
+3273,spliceosome,C0162771,Cell Component,PERFORMS,splicing,C0035687,Genetic Function,False,True
+3274,snrnp,C0142661,"Amino Acid, Peptide, or Protein",PERFORMS,splicing,C0035687,Genetic Function,False,True
+3279,trna,C0035711,"Nucleic Acid, Nucleoside, or Nucleotide",PERFORMS,amino acid,C0002520,"Amino Acid, Peptide, or Protein",False,True
+3279,rna polymerase,C0035681,"Amino Acid, Peptide, or Protein",PERFORMS,rna,C0035668,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3279,sigma factor,C0599220,"Amino Acid, Peptide, or Protein",PART_OF,core enzyme,C0014442,"Amino Acid, Peptide, or Protein",False,True
+3279,rna pol i,C0035678,"Amino Acid, Peptide, or Protein",PERFORMS,rrna,C0035701,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3279,rna pol ii,C0035679,"Amino Acid, Peptide, or Protein",PERFORMS,mrna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3279,rna pol iii,C0035679,"Amino Acid, Peptide, or Protein",PERFORMS,trna,C0035711,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3279,transcription factors,C0040648,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,core promoters,C0086860,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3287,mutation,C0026882,Genetic Function,PRODUCES,splice-acceptor site,C1706692,Nucleotide Sequence,False,True
+3287,nucleotides,C0028630,"Nucleic Acid, Nucleoside, or Nucleotide",PART_OF,coding region,C0079941,Gene or Genome,False,True
+3287,nucleotides,C0028630,"Nucleic Acid, Nucleoside, or Nucleotide",PART_OF,exon 2,C0015295,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3288,patient’s gene,C0030705,Patient or Disabled Group,CONTAINS,mutation,C0026882,Genetic Function,False,True
+3288,mutation,C0026882,Genetic Function,PART_OF,promoter region,C0033413,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3294,dystrophin messenger rna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",CAUSES,dystrophin protein,C0115220,"Amino Acid, Peptide, or Protein",False,True
+3301,promoters,C0086860,"Nucleic Acid, Nucleoside, or Nucleotide",CONTAINS,sequences,C0162326,Nucleotide Sequence,False,True
+3322,termination codons,C0242611,Nucleotide Sequence,DISRUPTS,synthesis,C0220781,Biologic Function,False,True
+3324,mutation,C0026882,Genetic Function,CAUSES,protein sequences,C0002518,Amino Acid Sequence,False,True
+3326,codon,C0009221,Nucleotide Sequence,PRODUCES,amino acid,C0002520,"Amino Acid, Peptide, or Protein",False,True
+3329,codon,C0009221,Nucleotide Sequence,PRODUCES,arginine,C0003765,"Amino Acid, Peptide, or Protein",False,True
+3331,codon,C0009221,Nucleotide Sequence,CONTAINS,base,C0178499,Chemical Viewed Functionally,False,True
+3333,single nucleotide base,C5236477,Nucleotide Sequence,IS_A,point mutation,C0026882,Genetic Function,False,True
+3339,termination codon,C0009221,Nucleotide Sequence,CAUSES,premature termination,C0544885,Cell or Molecular Dysfunction,False,True
+3340,mutations,C0026882,Genetic Function,AFFECTS,protein,C0033684,"Amino Acid, Peptide, or Protein",False,True
+3341,insertion,C0021107,Therapeutic or Preventive Procedure,CAUSES,huntington disease,C0020179,Disease or Syndrome,False,True
+3342,mutations,C0026882,Genetic Function,PRODUCES,proteins,C0033684,"Amino Acid, Peptide, or Protein",False,True
+3342,splicing,C0035687,Genetic Function,CAUSES,gene silencing,C0598496,Genetic Function,False,True
+3343,δf508 mutation,C0026882,Genetic Function,PREVENTS,folding,C0185026,Therapeutic or Preventive Procedure,False,True
+3352,anticodon,C0003284,"Nucleic Acid, Nucleoside, or Nucleotide",INTERACTS_WITH,codon,C0009221,Nucleotide Sequence,False,True
+3354,aminoacyl-trna synthetases,C0002529,"Amino Acid, Peptide, or Protein",PERFORMS,attachment,C0185023,Therapeutic or Preventive Procedure,False,True
+3354,aminoacyl-trna synthetases,C0002529,"Amino Acid, Peptide, or Protein",USES,atp,C0001480,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3359,ribosome,C0035553,Cell Component,CONSISTS_OF,protein,C0033684,"Amino Acid, Peptide, or Protein",False,True
+3359,ribosome,C0035553,Cell Component,CONSISTS_OF,rrna,C0035701,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3360,small ribosomal subunit,C1167012,Cell Component,INTERACTS_WITH,mrna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3366,ribosome,C0035553,Cell Component,CONTAINS,binding sites,C0005456,Receptor,False,True
+3367,ribosome,C0035553,Cell Component,SPATIALLY_RELATED_TO,endoplasmic reticulum,C0014239,Cell Component,False,True
+3367,mitochondria,C0026237,Cell Component,CONTAINS,ribosomes,C0035553,Cell Component,False,True
+3388,peptidyltransferase,C0030962,"Amino Acid, Peptide, or Protein",PERFORMS,peptide-bond formation,C1327133,Molecular Function,False,True
+3390,rf-1,C1421639,Gene or Genome,INTERACTS_WITH,uaa,C0724040,Organic Chemical,False,True
+3390,erf,C1308189,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,termination codons,C0242611,Nucleotide Sequence,False,True
+3392,phosphorylated eif-2,C0031715,Molecular Function,IS_A,eif-2,C0013729,"Amino Acid, Peptide, or Protein",False,True
+3394,chaperones,C0243041,"Amino Acid, Peptide, or Protein",AFFECTS,folding,C0185026,Therapeutic or Preventive Procedure,False,True
+3396,protein synthesis,C0597295,Molecular Function,OCCURS_IN,cytoplasm,C0010834,Cell Component,False,True
+3396,proteins,C0033684,"Amino Acid, Peptide, or Protein",CONTAINS,amino acid sequences,C0002518,Amino Acid Sequence,False,True
+3396,protein,C0033684,"Amino Acid, Peptide, or Protein",TRAVERSES,rer,C0230779,Cell Component,False,True
+3396,protein,C0033684,"Amino Acid, Peptide, or Protein",TRAVERSES,golgi,C0018042,Cell Component,False,True
+3396,nuclear proteins,C0028589,"Amino Acid, Peptide, or Protein",CONTAINS,nuclear localization signal,C1659110,Cell Function,False,True
+3396,mitochondrial matrix proteins,C0949610,"Amino Acid, Peptide, or Protein",CONTAINS,mitochondrial entry sequence,C1510874,Amino Acid Sequence,False,True
+3400,endoproteases,C0030940,"Amino Acid, Peptide, or Protein",CAUSES,release,C0030685,Health Care Activity,False,True
+3402,covalent attachment,C0185023,Therapeutic or Preventive Procedure,AFFECTS,protein function,C0815043,"Amino Acid, Peptide, or Protein",False,True
+3404,hydroxyl groups,C0700307,Inorganic Chemical,LOCATION_OF,phosphorylation,C0031715,Molecular Function,False,True
+3404,phosphorylation,C0031715,Molecular Function,AFFECTS,functional activity,C0695584,Therapeutic or Preventive Procedure,False,True
+3406,rer,C0230779,Cell Component,LOCATION_OF,n-glycosylation,C0017982,Natural Phenomenon or Process,False,True
+3406,golgi,C0018042,Cell Component,LOCATION_OF,o-glycosylation,C0017982,Natural Phenomenon or Process,False,True
+3408,hydroxylases,C0020364,"Amino Acid, Peptide, or Protein",CAUSES,hydroxylation,C0020365,Natural Phenomenon or Process,False,True
+3408,rer,C0230779,Cell Component,LOCATION_OF,hydroxylation,C0020365,Natural Phenomenon or Process,False,True
+3410,attachment,C0185023,Therapeutic or Preventive Procedure,AFFECTS,anchor proteins,C0872014,"Amino Acid, Peptide, or Protein",False,True
+3412,misfolding,C2718001,Disease or Syndrome,CAUSES,proteasomal degradation,C3824143,Molecular Function,False,True
+3414,codons,C0009221,Nucleotide Sequence,CONSISTS_OF,nucleotide bases,C0028630,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3414,cytosol,C1383501,Cell Component,LOCATION_OF,proteasome,C0208355,"Amino Acid, Peptide, or Protein",False,True
+3414,ribosomes,C0035553,Cell Component,CONSISTS_OF,proteins,C0033684,"Amino Acid, Peptide, or Protein",False,True
+3414,ribosomes,C0035553,Cell Component,CONSISTS_OF,ribosomal rna,C0035701,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3423,antibiotic,C0003232,Antibiotic,AFFECTS,bacterial protein,C0004627,"Amino Acid, Peptide, or Protein",False,True
+3437,∆f508 mutation,C0026882,Genetic Function,CAUSES,c0010674,C0010674,Disease or Syndrome,False,True
+3443,proteasome,C0208355,"Amino Acid, Peptide, or Protein",PERFORMS,destruction,C1261381,Therapeutic or Preventive Procedure,False,True
+3445,erythromycin,C0014806,Organic Chemical,INTERACTS_WITH,60s ribosomal subunit,C1622421,Cell Component,False,True
+3446,puromycin,C0034145,"Nucleic Acid, Nucleoside, or Nucleotide",DISRUPTS,elongation factor-2,C1870461,"Amino Acid, Peptide, or Protein",False,True
+3447,streptomycin,C0038425,Organic Chemical,INTERACTS_WITH,30s ribosomal subunit,C1956015,Cell Component,False,True
+3448,tetracyclines,C0039651,Chemical Viewed Structurally,DISRUPTS,peptidyltransferase,C0030962,"Amino Acid, Peptide, or Protein",False,True
+3449,streptomycin,C0038425,Organic Chemical,DISRUPTS,translation initiation,C1519613,Genetic Function,False,True
+3449,erythromycin,C0014806,Organic Chemical,INTERACTS_WITH,50s ribosomal subunit,C1956015,Cell Component,False,True
+3449,puromycin,C0034145,"Nucleic Acid, Nucleoside, or Nucleotide",DISRUPTS,elongation,C4725181,Cell or Molecular Dysfunction,False,True
+3449,tetracyclines,C0039651,Chemical Viewed Structurally,INTERACTS_WITH,30s ribosomal subunit,C1956015,Cell Component,False,True
+3449,tetracyclines,C0039651,Chemical Viewed Structurally,DISRUPTS,elongation,C4725181,Cell or Molecular Dysfunction,False,True
+3456,aca,C0085762,Mental or Behavioral Dysfunction,PRODUCES,threonine,C0040005,"Amino Acid, Peptide, or Protein",False,True
+3460,messenger rna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",TRAVERSES,nucleus,C0007610,Cell Component,False,True
+3460,messenger rna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",TRAVERSES,cytoplasm,C0010834,Cell Component,False,True
+3461,initiation factors,C0030943,"Amino Acid, Peptide, or Protein",PERFORMS,recognition,C0524637,Mental Process,False,True
+3462,translocation,C0040715,Cell or Molecular Dysfunction,PROCESS_OF,peptidyl-trna,C0077361,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3463,prokaryotes,C0686817,Organism,USES,formylated methionine,C0027228,"Amino Acid, Peptide, or Protein",False,True
+3464,aat deficiency,C0052586,Therapeutic or Preventive Procedure,RESULT_OF,impaired secretion,C0036536,Biologic Function,False,True
+3470,proteins,C0033684,"Amino Acid, Peptide, or Protein",TRAVERSES,rough endoplasmic reticulum,C0230779,Cell Component,False,True
+3470,proteins,C0033684,"Amino Acid, Peptide, or Protein",TRAVERSES,golgi,C0018042,Cell Component,False,True
+3470,secretory vesicles,C0886515,Cell Component,CONTAINS,proteins,C0033684,"Amino Acid, Peptide, or Protein",False,True
+3476,gene expression,C0017262,Genetic Function,PRODUCES,rna,C0035668,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3476,gene expression,C0017262,Genetic Function,PRODUCES,protein,C0033684,"Amino Acid, Peptide, or Protein",False,True
+3476,transcription,C0040649,Genetic Function,PRODUCES,rna,C0035668,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3479,cell,C0007634,Cell,LOCATION_OF,trans-acting molecules,C0040627,"Amino Acid, Peptide, or Protein",False,True
+3483,chromosome,C0008633,Cell Component,CONTAINS,structural genes,C0017366,Gene or Genome,False,True
+3483,chromosome,C0008633,Cell Component,CONTAINS,cis-acting regulatory elements,C0034987,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3485,operator,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",AFFECTS,structural genes,C0017366,Gene or Genome,False,True
+3485,repressor protein,C0033684,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,operator,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3485,rna polymerase,C0035681,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,promoter,C0086860,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3485,repressor protein,C0033684,"Amino Acid, Peptide, or Protein",PREVENTS,transcription,C0040649,Genetic Function,False,True
+3487,lac operon,C0022895,Gene or Genome,CONTAINS,genes,C0017337,Gene or Genome,False,True
+3487,promoter region,C0033413,"Nucleic Acid, Nucleoside, or Nucleotide",PART_OF,operon,C0029073,Gene or Genome,False,True
+3488,repressor protein,C0033684,"Amino Acid, Peptide, or Protein",PREVENTS,lac operon,C0022895,Gene or Genome,False,True
+3490,rna polymerase,C0035678,"Amino Acid, Peptide, or Protein",PERFORMS,transcription,C0040649,Genetic Function,False,True
+3490,transcription,C0040649,Genetic Function,PRODUCES,mrna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3498,stringent factor,C0004218,"Amino Acid, Peptide, or Protein",PRODUCES,ppgpp,C0018352,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3503,stf,C1337108,Gene or Genome,INTERACTS_WITH,genes,C0017337,Gene or Genome,False,True
+3503,tad,C0057150,Therapeutic or Preventive Procedure,INTERACTS_WITH,coactivators,C1422492,Gene or Genome,False,True
+3504,gal4,C1416832,Gene or Genome,INTERACTS_WITH,uasgal,C0004793,Nucleotide Sequence,False,True
+3504,gal80,C0815047,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,gal4,C1416832,Gene or Genome,False,True
+3506,hormones,C0019932,Hormone,INTERACTS_WITH,intracellular receptors,C1870051,"Amino Acid, Peptide, or Protein",False,True
+3506,glucagon,C0017687,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,plasma membrane receptor,C0007603,Cell Component,False,True
+3509,active creb protein,C0056695,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,cis-acting regulatory element,C0034987,Nucleotide Sequence,False,True
+3513,alternative splicing,C0002345,Genetic Function,PRODUCES,tm isoforms,C0597298,"Amino Acid, Peptide, or Protein",False,True
+3517,liver,C0023884,"Body Part, Organ, or Organ Component",LOCATION_OF,apo b mrna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3517,small intestine,C0021852,"Body Part, Organ, or Organ Component",LOCATION_OF,apo b mrna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3517,intestine,C0021853,"Body Part, Organ, or Organ Component",LOCATION_OF,apo b-48,C0103839,"Amino Acid, Peptide, or Protein",False,True
+3517,liver,C0023884,"Body Part, Organ, or Organ Component",LOCATION_OF,apo b-100,C0205666,"Amino Acid, Peptide, or Protein",False,True
+3520,irp,C0378503,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,ire,C5575096,Therapeutic or Preventive Procedure,False,True
+3521,overproduction,C0001622,Disease or Syndrome,CAUSES,age-related macular degeneration,C0242383,Disease or Syndrome,False,True
+3521,vegf,C0078058,"Amino Acid, Peptide, or Protein",CAUSES,sprouting,C1657282,Cell Function,False,True
+3522,phosphorylation,C0031715,Molecular Function,DISRUPTS,translation,C0589507,Mental Process,False,True
+3522,phosphorylation,C0031715,Molecular Function,PREVENTS,gdp-gtp exchange,C0120465,"Amino Acid, Peptide, or Protein",False,True
+3526,active chromatin,C0008546,"Amino Acid, Peptide, or Protein",CONTAINS,histone proteins,C0019652,"Amino Acid, Peptide, or Protein",False,True
+3528,gene amplification,C0017256,Genetic Function,CAUSES,resistance,C0237834,Mental Process,False,True
+3531,transposase,C0076934,"Amino Acid, Peptide, or Protein",PERFORMS,movement,C0026649,Organism Function,False,True
+3531,retrotransposons,C0600401,"Nucleic Acid, Nucleoside, or Nucleotide",PART_OF,transposons,C1257902,Gene or Genome,False,True
+3533,complex,,,INTERACTS_WITH,dna,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3533,glucose,C0017725,Organic Chemical,PREVENTS,camp,C0001455,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3533,lac operon,C0022895,Gene or Genome,CONTAINS,structural genes,C0017366,Gene or Genome,False,True
+3541,adenylyl cyclase,C0001492,"Amino Acid, Peptide, or Protein",PRODUCES,cyclic adenosine monophosphate (camp),C0001455,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3547,cyclic adenosine monophosphate response element–binding protein,C0033618,Molecular Function,INTERACTS_WITH,dna,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3547,repressor protein,C0035147,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,dna,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3547,thyroid hormone nuclear receptor protein,C5672856,Molecular Function,INTERACTS_WITH,dna,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3556,iron regulatory proteins,C0378503,"Amino Acid, Peptide, or Protein",AFFECTS,messenger rna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3559,iron regulatory proteins,C0378503,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,messenger rna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3579,human genome,C0017428,Gene or Genome,CONTAINS,base pairs,C0600436,Molecular Function,False,True
+3579,gene therapy,C0017296,Therapeutic or Preventive Procedure,TREATS,patients,C0030705,Patient or Disabled Group,False,True
+3581,restriction endonucleases,C0012906,"Amino Acid, Peptide, or Protein",AFFECTS,double-stranded dna,C0311474,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3581,restriction enzymes,C0012906,"Amino Acid, Peptide, or Protein",PRODUCES,dna segments,C0227622,Body Location or Region,False,True
+3584,methylation,C0025723,Molecular Function,PREVENTS,cleavage,C0010813,Cell Function,False,True
+3588,restriction enzymes,C0012906,"Amino Acid, Peptide, or Protein",PRODUCES,3′-hydroxyl group,,Chemical,False,True
+3588,restriction enzymes,C0012906,"Amino Acid, Peptide, or Protein",PRODUCES,5′-phosphate group,C0031603,Inorganic Chemical,False,True
+3588,restriction endonucleases,C0012906,"Amino Acid, Peptide, or Protein",PRODUCES,sticky ends,,DNA fragment,False,True
+3588,restriction endonucleases,C0012906,"Amino Acid, Peptide, or Protein",PRODUCES,blunt-ended fragments,,DNA fragment,False,True
+3590,restriction enzyme,C0012906,"Amino Acid, Peptide, or Protein",PRODUCES,dna fragments,C0684192,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3592,dna fragments,C0684192,"Nucleic Acid, Nucleoside, or Nucleotide",PRODUCES,recombinant dna molecule,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3592,dna vector molecule,C0086022,"Nucleic Acid, Nucleoside, or Nucleotide",PRODUCES,recombinant dna molecule,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3601,recombinant dna molecules,C0012931,"Nucleic Acid, Nucleoside, or Nucleotide",OCCURS_IN,host bacteria,C0004611,Bacterium,False,True
+3601,gene,C0017337,Gene or Genome,CONTAINS,restriction site,C1882940,Nucleotide Sequence,False,True
+3601,digestion,C0012238,Organism Function,PRODUCES,cleavage,C0010813,Cell Function,False,True
+3604,mrna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",PRODUCES,cdna,C0006556,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3604,plasmids,C0032136,"Nucleic Acid, Nucleoside, or Nucleotide",CONTAINS,bacterial promoter,C0004627,"Amino Acid, Peptide, or Protein",False,True
+3604,cdna,C0006556,"Nucleic Acid, Nucleoside, or Nucleotide",PRODUCES,fusion protein,C0162768,"Amino Acid, Peptide, or Protein",False,True
+3608,restriction enzymes,C0012906,"Amino Acid, Peptide, or Protein",PRODUCES,dna fragments,C0684192,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3610,probe,C0182400,Medical Device,INTERACTS_WITH,dna,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3612,probes,C0182400,Medical Device,PHYSICALLY_RELATED_TO,dna,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3614,biotin,C0005575,Organic Chemical,PHYSICALLY_RELATED_TO,avidin,C0004434,"Amino Acid, Peptide, or Protein",False,True
+3614,avidin,C0004434,"Amino Acid, Peptide, or Protein",PHYSICALLY_RELATED_TO,fluorescent dye,C0016320,"Indicator, Reagent, or Diagnostic Aid",False,True
+3634,αfetoprotein,C0015950,"Amino Acid, Peptide, or Protein",ASSOCIATED_WITH,neural tube defects,C0027794,Congenital Abnormality,False,True
+3634,trisomies,C0041107,Cell or Molecular Dysfunction,PRODUCES,extra chromosome,C0008633,Cell Component,False,True
+3640,point mutation,C0162735,Cell or Molecular Dysfunction,CAUSES,sequence alteration,C0596611,Genetic Function,False,True
+3640,mutation,C0026882,Genetic Function,DISRUPTS,cleavage site,C0010813,Cell Function,False,True
+3640,insertions,C0441587,Health Care Activity,CAUSES,genetic disorders,C0019247,Disease or Syndrome,False,True
+3642,rflp,C0035268,Cell or Molecular Dysfunction,ASSOCIATED_WITH,gene,C0017337,Gene or Genome,False,True
+3644,polymorphism,C0032529,Genetic Function,ASSOCIATED_WITH,mutant gene,C0678941,Gene or Genome,False,True
+3644,pku,C0031485,Disease or Syndrome,MANIFESTATION_OF,fetus,C0015965,Embryonic Structure,False,True
+3646,dietary restriction,C0425422,Health Care Activity,TREATS,pku,C0031485,Disease or Syndrome,False,True
+3654,denaturing dna,C5447347,"Indicator, Reagent, or Diagnostic Aid",DISRUPTS,target dna,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3658,dna pol,C0012888,"Amino Acid, Peptide, or Protein",PERFORMS,synthesis,C0220781,Biologic Function,False,True
+3669,mutations,C0026882,Genetic Function,CAUSES,cystic fibrosis,C0010674,Disease or Syndrome,False,True
+3672,gene expression,C0017262,Genetic Function,PRODUCES,protein products,C0033684,"Amino Acid, Peptide, or Protein",False,True
+3673,hybridization,C0020202,Genetic Function,USES,probes,C0182400,Medical Device,False,True
+3679,probe,C0182400,Medical Device,CONSISTS_OF,antibody,C0003241,"Amino Acid, Peptide, or Protein",False,True
+3679,antibody,C0003241,"Amino Acid, Peptide, or Protein",CONNECTED_TO,enzyme,C0014442,"Amino Acid, Peptide, or Protein",False,True
+3690,transgenic animals,C0003069,Animal,PRODUCES,human proteins,C1142652,"Amino Acid, Peptide, or Protein",False,True
+3690,transgenic goats,C2350483,Mammal,PRODUCES,antithrombin,C0003438,"Amino Acid, Peptide, or Protein",False,True
+3692,vector,C0086022,"Nucleic Acid, Nucleoside, or Nucleotide",CONTAINS,dna fragments,C0684192,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3692,genomic library,C0017430,Gene or Genome,CONTAINS,dsdna,C1083374,Virus,False,True
+3692,cdna libraries,,,CONTAINS,dna sequences,C0004793,Nucleotide Sequence,False,True
+3692,insertion,C0021107,Therapeutic or Preventive Procedure,PRODUCES,transgenic animal,C0003069,Animal,False,True
+3692,transgenic animal,C0003069,Animal,PRODUCES,therapeutic proteins,C0872285,Pharmacologic Substance,False,True
+3726,coagulation,C0005778,Organ or Tissue Function,USES,vasoconstriction,C0042396,Organ or Tissue Function,False,True
+3726,coagulation,C0005778,Organ or Tissue Function,USES,formation,C0220781,Biologic Function,False,True
+3726,formation,C0220781,Biologic Function,PRODUCES,clot,C0009074,Organic Chemical,False,True
+3726,clot,C0009074,Organic Chemical,CONSISTS_OF,platelets,C0005821,Cell,False,True
+3726,clot,C0009074,Organic Chemical,CONSISTS_OF,protein fibrin,C0033684,"Amino Acid, Peptide, or Protein",False,True
+3734,phosphatidylserine,C0031623,Organic Chemical,INDICATES,injury,C3263722,Injury or Poisoning,False,True
+3736,sodium citrate,C0142825,Organic Chemical,PREVENTS,clotting,C0005778,Organ or Tissue Function,False,True
+3737,γ-carboxylation,C0178529,Natural Phenomenon or Process,IS_A,posttranslational,C1514251,Molecular Function,False,True
+3737,rough endoplasmic reticulum,C0230779,Cell Component,LOCATION_OF,process,C1184743,"Body Part, Organ, or Organ Component",False,True
+3737,liver,C0023884,"Body Part, Organ, or Organ Component",LOCATION_OF,process,C1184743,"Body Part, Organ, or Organ Component",False,True
+3738,γ-carboxylation,C0178529,Natural Phenomenon or Process,USES,oxygen (o2),C0030054,Pharmacologic Substance,False,True
+3738,o2,C0030054,Pharmacologic Substance,PRODUCES,water,C0043047,Pharmacologic Substance,False,True
+3738,warfarin,C0043031,Organic Chemical,INHIBITS,clotting,C0005778,Organ or Tissue Function,False,True
+3739,genetic differences,C0036866,Organism Attribute,AFFECTS,patient response,C0871261,Organism Attribute,False,True
+3741,extrinsic pathway,C3269136,Molecular Function,PRODUCES,fxa,C2700041,Gene or Genome,False,True
+3741,intrinsic pathway,C3269143,Molecular Function,PRODUCES,fxa,C2700041,Gene or Genome,False,True
+3742,tissue factor (tf),C1333522,Gene or Genome,PHYSICALLY_RELATED_TO,gla-containing protein,C3273879,"Amino Acid, Peptide, or Protein",False,True
+3742,tissue factor (tf),C1333522,Gene or Genome,PHYSICALLY_RELATED_TO,fvii,C1366370,Gene or Genome,False,True
+3746,fixa,C1366464,Gene or Genome,CONNECTED_TO,fviiia,C1366370,Gene or Genome,False,True
+3747,thrombin,C0040018,"Amino Acid, Peptide, or Protein",AFFECTS,fxi,C1414498,Gene or Genome,False,True
+3751,fxa,C2700041,Gene or Genome,CONNECTED_TO,fva,C1366370,Gene or Genome,False,True
+3751,fxa,C2700041,Gene or Genome,PART_OF,prothrombinase,C0040048,"Amino Acid, Peptide, or Protein",False,True
+3751,prothrombin,C0033706,"Amino Acid, Peptide, or Protein",PRODUCES,thrombin,C0040018,"Amino Acid, Peptide, or Protein",False,True
+3751,fva,C1366370,Gene or Genome,AFFECTS,fxa,C2700041,Gene or Genome,False,True
+3753,liver,C0023884,"Body Part, Organ, or Organ Component",PRODUCES,fi,C1442484,Gene or Genome,False,True
+3756,tfpi,C0164707,"Amino Acid, Peptide, or Protein",PREVENTS,extrinsic pathway,C3269136,Molecular Function,False,True
+3760,thromboplastin,C0040048,"Amino Acid, Peptide, or Protein",CONSISTS_OF,phospholipids,C0031676,Organic Chemical,False,True
+3765,antithrombin,C0003438,"Amino Acid, Peptide, or Protein",PREVENTS,fiia,C1257900,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3765,antithrombin,C0003438,"Amino Acid, Peptide, or Protein",PREVENTS,coagulation,C0005778,Organ or Tissue Function,False,True
+3765,heparin,C0019134,Organic Chemical,PREVENTS,clot formation,,Pathologic Function,False,True
+3765,fondaparinux,C1098510,Organic Chemical,PREVENTS,fxa,C2700041,Gene or Genome,False,True
+3766,excess production of fii,C0020488,Disease or Syndrome,CAUSES,thrombophilia,C0398623,Disease or Syndrome,False,True
+3766,thrombus,C0087086,Pathologic Function,CAUSES,pulmonary embolism,C0034065,Pathologic Function,False,True
+3768,protein plasmin,C0036825,"Amino Acid, Peptide, or Protein",DISRUPTS,fibrin clot,C0015982,"Amino Acid, Peptide, or Protein",False,True
+3768,plasminogen,C0032140,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,clots,C0302148,Pathologic Function,False,True
+3771,platelets,C0005821,Cell,INTERACTS_WITH,collagen,C0009325,"Amino Acid, Peptide, or Protein",False,True
+3773,vwf,C0042971,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,platelets,C0005821,Cell,False,True
+3776,serotonin,C0036751,Organic Chemical,CAUSES,vasoconstriction,C0042396,Organ or Tissue Function,False,True
+3776,α granules,C3853573,Biomedical or Dental Material,PRODUCES,platelet-derived growth factor,C0032200,"Amino Acid, Peptide, or Protein",False,True
+3776,α granules,C3853573,Biomedical or Dental Material,PRODUCES,vwf,C0042971,"Amino Acid, Peptide, or Protein",False,True
+3776,α granules,C3853573,Biomedical or Dental Material,PRODUCES,fv,C3489397,"Amino Acid, Peptide, or Protein",False,True
+3776,α granules,C3853573,Biomedical or Dental Material,PRODUCES,fi,C1442484,Gene or Genome,False,True
+3778,fi,C1442484,Gene or Genome,INTERACTS_WITH,platelets,C0005821,Cell,False,True
+3779,prostaglandin i2,C0033567,Organic Chemical,CAUSES,vasodilation,C0042401,Organ or Tissue Function,False,True
+3779,nitric oxide,C0028128,Pharmacologic Substance,CAUSES,vasodilation,C0042401,Organ or Tissue Function,False,True
+3781,platelets,C0005821,Cell,PART_OF,clot,C0009074,Organic Chemical,False,True
+3781,protein fibrin,C0033684,"Amino Acid, Peptide{, or Protein",PART_OF,clot,C0009074,Organic Chemical,False,True
+3784,thromboxane a2,C0040057,Organic Chemical,CAUSES,vasoconstriction,C0042396,Organ or Tissue Function,False,True
+3784,platelets,C0005821,Cell,INTERACTS_WITH,vwf,C0042971,"Amino Acid, Peptide, or Protein",False,True
+3786,protein factors,C0284965,"Amino Acid, Peptide, or Protein",PART_OF,clotting,C0005778,Organ or Tissue Function,False,True
+3790,accessory protein,C1955894,"Amino Acid, Peptide, or Protein",AFFECTS,factor xa,C0015520,"Amino Acid, Peptide, or Protein",False,True
+3792,thrombin,C0040018,"Amino Acid, Peptide, or Protein",OCCURS_IN,common pathway,C1704259,Molecular Function,False,True
+3792,fxiii,C0033679,"Amino Acid, Peptide, or Protein",INTERCONNECTS,fibrin monomers,C0060327,"Amino Acid, Peptide, or Protein",False,True
+3792,fv,C3489397,"Amino Acid, Peptide, or Protein",AFFECTS,fxa,C2700041,Gene or Genome,False,True
+3792,fviii,C1366370,Gene or Genome,INTERACTS_WITH,fix,C1366464,Gene or Genome,False,True
+3792,fvii,C1366370,Gene or Genome,INTERACTS_WITH,tissue factor,C0040048,"Amino Acid, Peptide, or Protein",False,True
+3799,end-stage liver disease,C0745744,Disease or Syndrome,AFFECTS,clotting proteins,C0033684,"Amino Acid, Peptide, or Protein",False,True
+3806,deficiencies,C0268487,Disease or Syndrome,CAUSES,coagulopathy,C0005779,Disease or Syndrome,False,True
+3807,tpa,C0032143,"Amino Acid, Peptide, or Protein",TREATS,acute ischemic stroke,C5392833,Disease or Syndrome,False,True
+3813,tpa,C0032143,"Amino Acid, Peptide, or Protein",PRODUCES,plasmin,C0016016,"Amino Acid, Peptide, or Protein",False,True
+3813,plasmin,C0016016,"Amino Acid, Peptide, or Protein",DISRUPTS,fibrin,C0015982,"Amino Acid, Peptide, or Protein",False,True
+3813,activated protein c complex,C1170000,"Amino Acid, Peptide, or Protein",DISRUPTS,fv,C3489397,"Amino Acid, Peptide, or Protein",False,True
+3813,activated protein c complex,C1170000,"Amino Acid, Peptide, or Protein",DISRUPTS,fviii,C1366370,Gene or Genome,False,True
+3818,platelets,C0005821,Cell,CONNECTED_TO,von willebrand factor,C0795677,"Amino Acid, Peptide, or Protein",False,True
+3819,thrombin,C0040018,"Amino Acid, Peptide, or Protein",ACTIVATES,platelets,C0005821,Cell,False,True
+3820,thromboxane a2,C0040057,Organic Chemical,CAUSES,platelet activation,C0032173,Organ or Tissue Function,False,True
+3820,adenosine diphosphate,C0001459,"Nucleic Acid, Nucleoside, or Nucleotide",ACTIVATES,platelets,C0005821,Cell,False,True
+3821,nephrotic syndrome,C0027726,Disease or Syndrome,IS_A,kidney disease,C0022658,Disease or Syndrome,False,True
+3825,antithrombin iii,C0003438,"Amino Acid, Peptide, or Protein",PREVENTS,thrombin,C0040018,"Amino Acid, Peptide, or Protein",False,True
+3832,vitamin k,C0042878,Organic Chemical,PREVENTS,vitamin k deficiency bleeding,C2718087,Disease or Syndrome,False,True
+3838,b. fvii,C1366370,Gene or Genome,PART_OF,clotting,C0005778,Organ or Tissue Function,False,True
+3839,thrombin,C0040018,"Amino Acid, Peptide, or Protein",EXHIBITS,anticoagulant activity,C1148561,Molecular Function,False,True
+3846,thrombin,C0040018,"Amino Acid, Peptide, or Protein",PREVENTS,clotting,C0005778,Organ or Tissue Function,False,True
+3846,nitric oxide,C0028128,Pharmacologic Substance,PREVENTS,clotting,C0005778,Organ or Tissue Function,False,True
+3856,warfarin,C0043031,Organic Chemical,IS_A,vitamin k antagonist,C1096489,Therapeutic or Preventive Procedure,False,True
+3863,bj’s electrocardiogram,C0013798,Diagnostic Procedure,INDICATES,myocardial infarction,C0027051,Disease or Syndrome,False,True
+3863,angiography,C0002978,Diagnostic Procedure,INDICATES,severe stenosis,C1261287,Pathologic Function,False,True
+3865,occlusion,C0001168,Acquired Abnormality,CAUSES,myocardial infarction,C0027051,Disease or Syndrome,False,True
+3865,blood clot,C0087086,Pathologic Function,CAUSES,occlusion,C0001168,Acquired Abnormality,False,True
+3866,o2,C0030054,Pharmacologic Substance,IS_A,vasodilator,C0042402,Pharmacologic Substance,False,True
+3867,lipid-lowering drugs,C0086440,Pharmacologic Substance,CONTAINS,bile acid sequestrants,C2917337,Pharmacologic Substance,False,True
+3870,mutations,C0026882,Genetic Function,CAUSES,fh,C5686548,Disease or Syndrome,False,True
+3877,b,C0043457,Fish,AFFECTS,gene,C0017337,Gene or Genome,False,True
+3881,statins,C0360714,Organic Chemical,AFFECTS,hmg coa reductase,C0020374,"Amino Acid, Peptide, or Protein",False,True
+3882,competitive inhibitors,C0243077,Chemical Viewed Functionally,IS_A,irreversible inhibitors,C4744940,Biologically Active Substance,False,True
+3887,injury,C3263722,Injury or Poisoning,CAUSES,blood clot forms,C0302148,Pathologic Function,False,True
+3887,clot,C0009074,Organic Chemical,PREVENTS,blood flow,C0005775,Physiologic Function,False,True
+3900,substrate-level phosphorylation,C0031715,Molecular Function,OCCURS_IN,cytosol,C1383501,Cell Component,False,True
+3904,dna synthesis,C0598312,Genetic Function,USES,dideoxynucleotides,C0599651,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+3904,initiation,C0589507,Mental Process,PART_OF,dna synthesis,C0598312,Genetic Function,False,True
+3909,heart muscle,C0027061,Tissue,USES,aerobic metabolism,C1156962,Molecular Function,False,True
+3919,glucagon,C0017687,"Amino Acid, Peptide, or Protein",AFFECTS,blood lactate,C3824990,Organic Chemical,False,True
+3920,glucose 6-phosphatase deficiency,C0017920,Disease or Syndrome,CAUSES,hepatic adenomas,C0206669,Neoplastic Process,False,True
+3922,mutations,C0026882,Genetic Function,CAUSES,gsd ia,C0017495,Disease or Syndrome,False,True
+3932,vitamin d,C0014695,Organic Chemical,AFFECTS,calcium,C0006675,Pharmacologic Substance,False,True
+3934,organs,C0178784,"Body Part, Organ, or Organ Component",LOCATION_OF,glycogen,C0017911,Organic Chemical,False,True
+3935,glucose,C0017725,Organic Chemical,USES,glycogenesis,C0596623,Molecular Function,False,True
+3940,cytosol,C1383501,Cell Component,LOCATION_OF,carbohydrate,C0007004,Organic Chemical,False,True
+3941,cytosol,C1383501,Cell Component,LOCATION_OF,ribosomes,C0035553,Cell Component,False,True
+3942,membrane-spanning domain,C1417326,Gene or Genome,CONSISTS_OF,amino acids,C0002520,"Amino Acid, Peptide, or Protein",False,True
+3946,glucose,C0017725,Organic Chemical,INGREDIENT_OF,synthesis,C0220781,Biologic Function,False,True
+3953,urine,C0042036,Body Substance,CONTAINS,urinary tract infection,C0042029,Disease or Syndrome,False,True
+3956,diabetes,C0011847,Disease or Syndrome,ASSOCIATED_WITH,macrovascular complications,C0161816,Pathologic Function,False,True
+3958,monitoring,C0150369,Health Care Activity,PART_OF,blood glucose control,C5392125,Therapeutic or Preventive Procedure,False,True
+3959,autoimmune destruction,C1512644,Cell Function,ASSOCIATED_WITH,t1d,C0011854,Disease or Syndrome,False,True
+3959,genetic loci,C0678933,Gene or Genome,ASSOCIATED_WITH,t1d,C0011854,Disease or Syndrome,False,True
+3959,human-leukocyte antigen (hla) region,C0019721,"Amino Acid, Peptide, or Protein",ASSOCIATED_WITH,t1d,C0011854,Disease or Syndrome,False,True
+3970,odor,C0028884,Natural Phenomenon or Process,LOCATION_OF,breath,C0225386,Body Substance,False,True
+3973,β-oxidation,C0030011,Molecular Function,PRODUCES,ketone bodies,C0022631,Organic Chemical,False,True
+3974,malonyl coa,C0024645,"Nucleic Acid, Nucleoside, or Nucleotide",PREVENTS,β-oxidation,C0030011,Molecular Function,False,True
+3994,thiamine pyrophosphate,C0039848,Organic Chemical,AFFECTS,α-keto acids,C0022618,Organic Chemical,False,True
+3995,ethanol,C0001962,Organic Chemical,PRODUCES,acetaldehyde,C0000966,Organic Chemical,False,True
+3995,aldehyde dehydrogenase,C0001985,"Amino Acid, Peptide, or Protein",AFFECTS,acetaldehyde,C0000966,Organic Chemical,False,True
+4003,cyp2e1,C0010763,"Amino Acid, Peptide, or Protein",PRODUCES,reactive oxygen species,C0162772,Biologically Active Substance,False,True
+4006,inner mitochondrial membrane,C0230840,Cell Component,CONTAINS,b. cyp,C0010762,"Amino Acid, Peptide, or Protein",False,True
+4006,b. cyp,C0010762,"Amino Acid, Peptide, or Protein",PERFORMS,detoxification reactions,C0025516,Organism Function,False,True
+4007,smooth endoplasmic reticular membrane,C0230790,Cell Component,CONTAINS,c. cyp proteins,C0033684,"Amino Acid, Peptide, or Protein",False,True
+4007,c. cyp proteins,C0033684,"Amino Acid, Peptide, or Protein",PERFORMS,steroid hormones,C0301818,Organic Chemical,False,True
+4007,c. cyp proteins,C0033684,"Amino Acid, Peptide, or Protein",PERFORMS,bile acids,C0005390,Organic Chemical,False,True
+4007,c. cyp proteins,C0033684,"Amino Acid, Peptide, or Protein",PERFORMS,calcitriol,C0006674,Organic Chemical,False,True
+4008,cyp2e1,C0010763,"Amino Acid, Peptide, or Protein",PRODUCES,hydrogen peroxide,C0020281,Pharmacologic Substance,False,True
+4009,pentose phosphate pathway,C0030892,Molecular Function,PRODUCES,nadph,C0027303,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+4010,alcohol,C0001962,Organic Chemical,AFFECTS,serotonin,C0036751,Organic Chemical,False,True
+4010,serotonin,C0036751,Organic Chemical,IS_A,neurotransmitter,C0027908,Biologically Active Substance,False,True
+4018,exocrine pancreas,C0553695,"Body Part, Organ, or Organ Component",PRODUCES,protons,C0033727,"Element, Ion, or Isotope",False,True
+4024,cholesterol,C0008377,Organic Chemical,PRODUCES,steroid hormones,C0301818,Organic Chemical,False,True
+4025,inhibitors,C0243077,Chemical Viewed Functionally,PREVENTS,substrate,C0221135,"Amino Acid, Peptide, or Protein",False,True
+4026,tissue plasminogen activator (tpa),C0032143,"Amino Acid, Peptide, or Protein",PRODUCES,plasmin,C0016016,"Amino Acid, Peptide, or Protein",False,True
+4026,plasmin,C0016016,"Amino Acid, Peptide, or Protein",DISRUPTS,clot,C0009074,Organic Chemical,False,True
+4026,aspirin,C0004057,Organic Chemical,PREVENTS,cyclooxygenase,C0033551,"Amino Acid, Peptide, or Protein",False,True
+4026,activated protein c (apc),C1170000,"Amino Acid, Peptide, or Protein",DISRUPTS,factor (f)va,C0252549,"Amino Acid, Peptide, or Protein",False,True
+4026,activated protein c (apc),C1170000,"Amino Acid, Peptide, or Protein",DISRUPTS,fviiia,C1366370,Gene or Genome,False,True
+4026,warfarin,C0043031,Organic Chemical,PREVENTS,regeneration of vitamin k,,Organ or Tissue Function,False,True
+4033,vitamin d,C0014695,Organic Chemical,PRODUCES,transcription of the calbindin gene,,Genetic Function,False,True
+4037,adrenergic response,C0001637,Pharmacologic Substance,CONTAINS,tremor,C0040822,Sign or Symptom,False,True
+4037,detergents,C0011740,Chemical Viewed Functionally,DISRUPTS,membrane structure,C0596901,Cell Component,False,True
+4042,ketone bodies,C0022631,Organic Chemical,LOCATION_OF,mitochondria,C0026237,Cell Component,False,True
+4042,hba1c,C0019018,"Amino Acid, Peptide, or Protein",DIAGNOSES,diabetes,C0011847,Disease or Syndrome,False,True
+4043,malonyl coa,C0024645,"Nucleic Acid, Nucleoside, or Nucleotide",DISRUPTS,fa oxidation,C0030011,Molecular Function,False,True
+4043,acetyl coa,C0001026,"Nucleic Acid, Nucleoside, or Nucleotide",DISRUPTS,pyruvate dehydrogenase complex,C0007262,"Amino Acid, Peptide, or Protein",False,True
+4064,β-thalassemia,C0039730,Disease or Syndrome,CAUSES,microcytic anemia,C5194182,Disease or Syndrome,False,True
+4064,ethnicity,C0015031,Population Group,AFFECTS,thalassemia,C0039730,Disease or Syndrome,False,True
+4068,mutations,C0026882,Genetic Function,CAUSES,β-thalassemia,C0039730,Disease or Syndrome,False,True
+4068,mutations,C0026882,Genetic Function,AFFECTS,mrna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+4070,mrna synthesis,C1622984,Genetic Function,USES,trans-acting factors,C0040627,"Amino Acid, Peptide, or Protein",False,True
+4073,splicing,C0035687,Genetic Function,USES,removal,C0015252,Therapeutic or Preventive Procedure,False,True
+4073,proteasome,C0208355,"Amino Acid, Peptide, or Protein",PERFORMS,splicing,C0035687,Genetic Function,False,True
+4079,kl,C1144173,"Amino Acid, Peptide, or Protein",EXHIBITS,rash,C0015230,Sign or Symptom,False,True
+4079,kl,C1144173,"Amino Acid, Peptide, or Protein",EXHIBITS,flu-like symptoms,C0392171,Sign or Symptom,False,True
+4081,kl,C1144173,"Amino Acid, Peptide, or Protein",EXHIBITS,fever,C0015967,Sign or Symptom,False,True
+4084,doxycycline,C0013090,Organic Chemical,TREATS,lyme disease,C0024198,Disease or Syndrome,False,True
+4087,formylated methionine,C0027228,"Amino Acid, Peptide, or Protein",IS_A,amino acid,C0002520,"Amino Acid, Peptide, or Protein",False,True
+4089,peptidyltransferase,C0030962,"Amino Acid, Peptide, or Protein",IS_A,ribozyme,C0080125,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+4089,ribozyme,C0080125,"Nucleic Acid, Nucleoside, or Nucleotide",PRODUCES,peptide bond,C0678595,Natural Phenomenon or Process,False,True
+4090,phosphorylation,C0031715,Molecular Function,AFFECTS,initiation factor 2,C0083982,"Amino Acid, Peptide, or Protein",False,True
+4099,bleeding,C0019080,Pathologic Function,OCCURS_IN,gums,C0017562,Tissue,False,True
+4117,vitamins,C0042890,Organic Chemical,CAUSES,gene expression,C0017262,Genetic Function,False,True
+4120,vitamin b12,C0042845,Organic Chemical,INGREDIENT_OF,enzymes,C0014442,"Amino Acid, Peptide, or Protein",False,True
+4129,pheochromocytomas,C0031511,Neoplastic Process,PRODUCES,norepinephrine,C0028351,Organic Chemical,False,True
+4129,pheochromocytomas,C0031511,Neoplastic Process,PRODUCES,epinephrine,C0014563,Organic Chemical,False,True
+4130,tryptophan,C0041249,"Amino Acid, Peptide, or Protein",INGREDIENT_OF,synthesis,C0220781,Biologic Function,False,True
+4133,catechol-o-methyltransferase,C0007407,"Amino Acid, Peptide, or Protein",PERFORMS,methylation,C0025723,Molecular Function,False,True
+4133,degradation,C0699900,Organism Function,PRODUCES,normetanephrine,C0028385,Organic Chemical,False,True
+4133,degradation,C0699900,Organism Function,PRODUCES,metanephrine,C0025562,Organic Chemical,False,True
+4134,monoamine oxidase,C0026454,"Amino Acid, Peptide, or Protein",PERFORMS,normetanephrine,C0028385,Organic Chemical,False,True
+4134,monoamine oxidase,C0026454,"Amino Acid, Peptide, or Protein",PERFORMS,metanephrine,C0025562,Organic Chemical,False,True
+4138,adrenergic receptors,C0034783,"Amino Acid, Peptide, or Protein",IS_A,nuclear receptors,C0206588,"Amino Acid, Peptide, or Protein",False,True
+4145,xeroderma pigmentosum,C0043346,Congenital Abnormality,ASSOCIATED_WITH,nucleotide excision repair of dna,C0524550,Genetic Function,False,True
+4163,sulfonamide antibiotic,C0038760,Organic Chemical,TREATS,urinary tract infection,C0042029,Disease or Syndrome,False,True
+4164,physical examination,C0031809,Health Care Activity,EXHIBITS,jaundice,C0022346,Sign or Symptom,False,True
+4164,physical examination,C0031809,Health Care Activity,EXHIBITS,tachycardia,C0018810,Clinical Attribute,False,True
+4164,physical examination,C0031809,Health Care Activity,EXHIBITS,pale appearance,C0233426,Organism Attribute,False,True
+4164,urine,C0042036,Body Substance,CONTAINS,hemoglobin,C0008721,Organic Chemical,False,True
+4164,peripheral blood smear,C0229664,Body Substance,EXHIBITS,red blood cells,C0014792,Cell,False,True
+4164,peripheral blood smear,C0229664,Body Substance,EXHIBITS,reticulocytes,C0035286,Cell,False,True
+4165,glucose 6-phosphate dehydrogenase deficiency,C1333652,Gene or Genome,CAUSES,hemolysis,C0019054,Pathologic Function,False,True
+4165,glucose 6-phosphate dehydrogenase deficiency,C1333652,Gene or Genome,IS_A,x-linked disorder,C0012634,Disease or Syndrome,False,True
+4178,phototherapy,C0031765,Therapeutic or Preventive Procedure,AFFECTS,bilirubin,C0005437,Organic Chemical,False,True
+4182,ed,C0242350,Disease or Syndrome,LOCATION_OF,anti-inflammatory medication,C0003209,Pharmacologic Substance,False,True
+4184,gout,C0018099,Disease or Syndrome,IS_A,inflammatory arthritis,C0003864,Disease or Syndrome,False,True
+4184,gout,C0018099,Disease or Syndrome,IS_A,msu crystal deposition disease,C0553730,Disease or Syndrome,False,True
+4189,oxypurinol,C0030086,Organic Chemical,AFFECTS,enzyme,C0014442,"Amino Acid, Peptide, or Protein",False,True
+4190,colchicine,C0009262,Organic Chemical,AFFECTS,xanthine oxidase,C0043317,"Amino Acid, Peptide, or Protein",False,True
+4191,nitrogen atoms,C0028158,Biologically Active Substance,PART_OF,purine ring,C0034140,Organic Chemical,False,True
+4193,oxypurinol,C0030086,Organic Chemical,AFFECTS,amidotransferase,C5441760,Gene or Genome,False,True
+4195,purines,C0034140,Organic Chemical,PART_OF,nucleotides,C0028630,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+4198,orotic aciduria,,,MANIFESTATION_OF,pyrimidine degradation,C1157116,Molecular Function,False,True
+4209,mutations,C0026882,Genetic Function,CAUSES,cf,C0010674,Disease or Syndrome,False,True
+4211,cf,C0010674,Disease or Syndrome,CAUSES,hypoglycemia,C0020615,Disease or Syndrome,False,True
+4215,cftr protein,C0056889,"Amino Acid, Peptide, or Protein",IS_A,plasma membrane glycoprotein,C0032191,"Amino Acid, Peptide, or Protein",False,True
+4226,hyperammonemia,C0220994,Disease or Syndrome,ASSOCIATED_WITH,neurologic impairment,,,False,True
+4242,bicycle accident,C0701802,Injury or Poisoning,CAUSES,fracture,C0016658,Injury or Poisoning,False,True
+4244,immobilization,C0020944,Therapeutic or Preventive Procedure,ASSOCIATED_WITH,deep venous thrombosis,C0149871,Disease or Syndrome,False,True
+4248,dvt,C0149871,Disease or Syndrome,IS_A,blood clot,C0087086,Pathologic Function,False,True
+4265,phosphorylation,C0031715,Molecular Function,INHIBITS,eukaryotic translation,C0915260,"Amino Acid, Peptide, or Protein",False,True
+4265,mrna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",INTERACTS_WITH,small ribosomal subunit,C1167012,Cell Component,False,True
+4266,antibiotics,C0003232,Antibiotic,INHIBITS,protein synthesis,C0597295,Molecular Function,False,True
+4266,tetracycline,C0039644,Organic Chemical,INHIBITS,translation initiation,C1519613,Genetic Function,False,True
+4269,methotrexate,C0025677,Pharmacologic Substance,INHIBITS,dihydrofolate reductase,C0039667,"Amino Acid, Peptide, or Protein",False,True
+4271,catechol-o-methyltransferase,C0007407,"Amino Acid, Peptide, or Protein",PRODUCES,normetanephrine,C0028385,Organic Chemical,False,True
+4272,norepinephrine,C0027908,Biologically Active Substance,INTERACTS_WITH,postsynaptic neurons,C1817671,Cell Component,False,True
+4272,norepinephrine,C0027908,Biologically Active Substance,CAUSES,heart rate,C0018810,Clinical Attribute,False,True
+4272,epinephrine,C0014563,Organic Chemical,CAUSES,mobilization,C0185112,Therapeutic or Preventive Procedure,False,True
+4272,norepinephrine,C0027908,Biologically Active Substance,INTERACTS_WITH,adrenergic receptors,C0034783,"Amino Acid, Peptide, or Protein",False,True
+4274,ultraviolet (uv) radiation,C0041625,Natural Phenomenon or Process,CAUSES,pyrimidine dimers,C0034286,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+4277,glutathione,C0017817,"Amino Acid, Peptide, or Protein",IS_A,antioxidant,C0003402,Pharmacologic Substance,False,True
+4277,fatty acid synthesis,C0596562,Molecular Function,USES,nadph,C0027303,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+4277,steroid hormone synthesis,C0301818,Organic Chemical,USES,nadph,C0027303,"Nucleic Acid, Nucleoside, or Nucleotide",False,True
+4278,bilirubin,C0005437,Organic Chemical,CAUSES,jaundice,C0022346,Sign or Symptom,False,True
+4278,heme degradation,C1157876,Molecular Function,PRODUCES,bilirubin,C0005437,Organic Chemical,False,True
+4279,intestine,C0021853,"Body Part, Organ, or Organ Component",LOCATION_OF,cb,C0526532,Organic Chemical,False,True
+4282,colchicine,C0009262,Organic Chemical,IS_A,anti-inflammatory drug,C0003209,Pharmacologic Substance,False,True
+4283,methotrexate,C0025677,Organic Chemical,DISRUPTS,dihydrofolate reductase,C0039667,"Amino Acid, Peptide, or Protein",False,True
+4283,pyrimidine nucleotide synthesis,C1157679,Molecular Function,USES,prpp,C0031696,Organic Chemical,False,True
+4284,prpp synthetase,C0035551,"Amino Acid, Peptide, or Protein",PRODUCES,prpp,C0031696,Organic Chemical,False,True
+4290,arginase,C0003762,"Amino Acid, Peptide, or Protein",PRODUCES,urea,C0041942,Organic Chemical,False,True

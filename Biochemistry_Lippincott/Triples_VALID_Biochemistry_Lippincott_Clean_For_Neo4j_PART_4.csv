@@ -1,0 +1,82 @@
+paragraph_id,subject,subject_cui,subject_type,relation,object,object_cui,object_type,rule_valid,gemini_verdict
+3251,nucleus,C0007610,Cell Component,PART_OF,eukaryotic cells,C0015161,Cell,True,True
+3258,mediator,C0127400,Organic Chemical,INTERACTS_WITH,rna pol ii,C0035679,"Amino Acid, Peptide, or Protein",True,True
+3260,mediator,C0127400,Organic Chemical,INTERACTS_WITH,enhancers,C0086222,"Nucleic Acid, Nucleoside, or Nucleotide",True,True
+3343,cftr,C0056889,"Amino Acid, Peptide, or Protein",CAUSES,digestive deficiencies,C0268487,Disease or Syndrome,True,True
+3367,ribosome,C0035553,Cell Component,PRODUCES,proteins,C0033684,"Amino Acid, Peptide, or Protein",True,True
+3396,signal recognition particle,C0074512,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,ribosome,C0035553,"Amino Acid, Peptide, or Protein",True,True
+3404,protein phosphatases,C0031686,"Amino Acid, Peptide, or Protein",AFFECTS,phosphorylation,C0031715,Molecular Function,True,True
+3410,acetylation,C0001038,Molecular Function,AFFECTS,gene expression,C0017262,Genetic Function,True,True
+3435,cellular enzymes,C0007634,Cell,PRODUCES,c0010654,C0010654,"Amino Acid, Peptide, or Protein",True,True
+3449,puromycin,C0034145,"Nucleic Acid, Nucleoside, or Nucleotide",CAUSES,premature termination,C0544885,Cell or Molecular Dysfunction,True,True
+3465,smooth endoplasmic reticulum,C0230789,Cell Component,LOCATION_OF,synthesis,C0220781,Biologic Function,True,True
+3470,free (cytosolic) ribosomes,C1180077,Cell Component,LOCATION_OF,synthesis,C0220781,Biologic Function,True,True
+3479,transcription factors,C0040648,"Amino Acid, Peptide, or Protein",AFFECTS,transcriptional machinery,C0040649,Genetic Function,True,True
+3479,gene,C0017337,Gene or Genome,PRODUCES,protein transcription factor,C1442794,"Amino Acid, Peptide, or Protein",True,True
+3485,inducer molecule,C2744535,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,repressor protein,C0033684,"Amino Acid, Peptide, or Protein",True,True
+3487,genes,C0017337,Gene or Genome,PRODUCES,proteins,C0033684,"Amino Acid, Peptide, or Protein",True,True
+3487,lacz gene,C0022959,Gene or Genome,PRODUCES,βgalactosidase,C0016955,"Amino Acid, Peptide, or Protein",True,True
+3487,laci gene,C0017362,Gene or Genome,PRODUCES,repressor protein,C0035147,"Amino Acid, Peptide, or Protein",True,True
+3490,allolactose,C0051211,Organic Chemical,INTERACTS_WITH,repressor protein,C0035147,"Amino Acid, Peptide, or Protein",True,True
+3490,camp,C0001455,"Nucleic Acid, Nucleoside, or Nucleotide",INTERACTS_WITH,cap,C0815047,"Amino Acid, Peptide, or Protein",True,True
+3498,operon,C0029073,Gene or Genome,PRODUCES,rrna,C0035701,"Nucleic Acid, Nucleoside, or Nucleotide",True,True
+3508,cortisol,C0020268,Organic Chemical,INTERACTS_WITH,intracellular receptors,C1870051,"Amino Acid, Peptide, or Protein",True,True
+3511,splicing,C0035687,Genetic Function,AFFECTS,gene expression,C0017262,Genetic Function,True,True
+3511,polyadenylation,C0949765,Molecular Function,AFFECTS,gene expression,C0017262,Genetic Function,True,True
+3514,apa,C1414406,Gene or Genome,PRODUCES,mrna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",True,True
+3533,camp,C0001455,"Nucleic Acid, Nucleoside, or Nucleotide",INTERACTS_WITH,catabolite activator protein,C0007364,"Amino Acid, Peptide, or Protein",True,True
+3547,cyclic adenosine monophosphate response element–binding protein,C0033618,Molecular Function,AFFECTS,expression,C0017262,Genetic Function,True,True
+3547,repressor protein,C0035147,"Amino Acid, Peptide, or Protein",AFFECTS,expression,C0017262,Genetic Function,True,True
+3547,thyroid hormone nuclear receptor protein,C5672856,Molecular Function,AFFECTS,expression,C0017262,Genetic Function,True,True
+3554,rna interference,C0035668,"Nucleic Acid, Nucleoside, or Nucleotide",AFFECTS,gene expression,C0017262,Genetic Function,True,True
+3554,alternative splicing,C0002345,Genetic Function,AFFECTS,gene expression,C0017262,Genetic Function,True,True
+3584,restriction endonucleases,C0012906,"Amino Acid, Peptide, or Protein",AFFECTS,expression,C0017262,Genetic Function,True,True
+3626,dna variations,C0012854,"Nucleic Acid, Nucleoside, or Nucleotide",CAUSES,rflp,C0035268,Cell or Molecular Dysfunction,True,True
+3638,prenatal diagnosis,C0033053,Diagnostic Procedure,DIAGNOSES,sickle cell anemia,C0002895,Disease or Syndrome,True,True
+3656,primers,C0206415,"Nucleic Acid, Nucleoside, or Nucleotide",INTERACTS_WITH,ssdna,C0012935,"Nucleic Acid, Nucleoside, or Nucleotide",True,True
+3685,genome,C0017428,Gene or Genome,PRODUCES,proteins,C0033684,"Amino Acid, Peptide, or Protein",True,True
+3690,gene,C0017337,Gene or Genome,LOCATION_OF,germline,C0206530,Genetic Function,True,True
+3715,gene,C0017337,Gene or Genome,PRODUCES,messenger rna,C0035696,"Nucleic Acid, Nucleoside, or Nucleotide",True,True
+3723,enzymic activity,C0243102,Molecular Function,AFFECTS,protein synthesis,C0597295,Molecular Function,True,True
+3732,phosphatidylserine,C0031623,Organic Chemical,AFFECTS,clotting cascade,C1817996,Organism Function,True,True
+3732,ca2+,C0666743,"Amino Acid, Peptide, or Protein",AFFECTS,clotting cascade,C1817996,Organism Function,True,True
+3739,polymorphism,C0032529,Genetic Function,AFFECTS,gene expression,C0017262,Genetic Function,True,True
+3750,tfpi,C0164707,"Amino Acid, Peptide, or Protein",AFFECTS,extrinsic pathway,C3269136,Molecular Function,True,True
+3773,vwf,C0042971,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,collagen,C0009325,"Amino Acid, Peptide, or Protein",True,True
+3776,adp,C0001459,"Nucleic Acid, Nucleoside, or Nucleotide",INTERACTS_WITH,gpcr,C0682972,"Amino Acid, Peptide, or Protein",True,True
+3776,dense granules,C1166757,Cell Component,PRODUCES,ca2+,C0666743,"Amino Acid, Peptide, or Protein",True,True
+3776,ca2+,C0666743,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,calmodulin,C0006772,"Amino Acid, Peptide, or Protein",True,True
+3784,thrombin,C0040018,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,gpcr,C0682972,"Amino Acid, Peptide, or Protein",True,True
+3799,aspirin therapy,C4303556,Therapeutic or Preventive Procedure,AFFECTS,platelet function,C1254881,Cell Function,True,True
+3813,antithrombin iii,C0003438,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,thrombin,C0040018,"Amino Acid, Peptide, or Protein",True,True
+3813,thrombomodulin,C0145779,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,thrombin,C0040018,"Amino Acid, Peptide, or Protein",True,True
+3816,endothelial cells,C0225336,Cell,PRODUCES,thromboxane a2,C0040057,Organic Chemical,True,True
+3820,platelets,C0005821,Cell,PRODUCES,thromboxane a2,C0040057,Organic Chemical,True,True
+3821,protein loss,C0033684,"Amino Acid, Peptide, or Protein",CAUSES,hypercoagulable state,C0398623,Disease or Syndrome,True,True
+3854,protein clotting factors,C0005789,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,thrombin,C0040018,"Amino Acid, Peptide, or Protein",True,True
+3856,warfarin,C0043031,Organic Chemical,AFFECTS,γ-carboxylation,C0178529,Natural Phenomenon or Process,True,True
+3868,hypercholesterolemia,C0020443,Disease or Syndrome,ASSOCIATED_WITH,premature coronary heart disease,C1867743,Disease or Syndrome,True,True
+3870,fh,C5686548,Disease or Syndrome,ASSOCIATED_WITH,cardiovascular disease,C0007222,Disease or Syndrome,True,True
+3955,antibiotic treatment,C0003232,Antibiotic,TREATS,urinary tract infection,C0042029,Disease or Syndrome,True,True
+3964,t1d,C0011854,Disease or Syndrome,ASSOCIATED_WITH,obesity,C0028754,Disease or Syndrome,True,True
+4015,alcohol,C0001962,Organic Chemical,CAUSES,acute pancreatitis,C0001339,Disease or Syndrome,True,True
+4017,diabetes,C0011847,Disease or Syndrome,MANIFESTATION_OF,chronic pancreatitis,C0149521,Disease or Syndrome,True,True
+4019,hypercholesterolemia,C0020443,Disease or Syndrome,ASSOCIATED_WITH,pancreatitis,C0030305,Disease or Syndrome,True,True
+4037,glucagon,C0017687,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,coupled receptor,C0682972,"Amino Acid, Peptide, or Protein",True,True
+4037,camp,C0001455,"Nucleic Acid, Nucleoside, or Nucleotide",INTERACTS_WITH,protein kinase a,C0010531,"Amino Acid, Peptide, or Protein",True,True
+4037,protein kinase a,C0010531,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,glycogen phosphorylase kinase,C0205896,"Amino Acid, Peptide, or Protein",True,True
+4037,glycogen phosphorylase kinase,C0205896,"Amino Acid, Peptide, or Protein",INTERACTS_WITH,glycogen phosphorylase,C0917785,"Amino Acid, Peptide, or Protein",True,True
+4068,mutations,C0026882,Genetic Function,AFFECTS,gene transcription,C0040649,Genetic Function,True,True
+4068,mutations,C0026882,Genetic Function,AFFECTS,posttranscriptional processing,C0035684,Genetic Function,True,True
+4082,bacterium borrelia burgdorferi,C0006034,Bacterium,CAUSES,lyme disease,C0024198,Disease or Syndrome,True,True
+4086,antibiotics,C0003232,Antibiotic,AFFECTS,protein synthesis,C0597295,Molecular Function,True,True
+4118,folic acid,C0016410,Organic Chemical,AFFECTS,energy metabolism,C0014272,Physiologic Function,True,True
+4125,adrenal medulla,C0001629,"Body Part, Organ, or Organ Component",LOCATION_OF,pheochromocytoma,C0031511,Neoplastic Process,True,True
+4163,urinary analgesic,C0724138,Pharmacologic Substance,TREATS,urinary tract infection,C0042029,Disease or Syndrome,True,True
+4205,abdominal x-rays,C0034573,Diagnostic Procedure,DIAGNOSES,meconium ileus,C2939175,Disease or Syndrome,True,True
+4244,ocp,C1282359,Disease or Syndrome,ASSOCIATED_WITH,deep venous thrombosis,C0149871,Disease or Syndrome,True,True
+4266,tetracycline,C0039644,Organic Chemical,INTERACTS_WITH,16s rrna,C0035702,"Nucleic Acid, Nucleoside, or Nucleotide",True,True
+4269,vitamin b12,C0042845,Organic Chemical,CAUSES,pernicious anemia,C0002892,Disease or Syndrome,True,True
+4278,phototherapy,C0031765,Therapeutic or Preventive Procedure,TREATS,unconjugated hyperbilirubinemia,C0268306,Disease or Syndrome,True,True
+4284,uric acid,C0041980,Organic Chemical,CAUSES,hyperuricemia,C0740394,Disease or Syndrome,True,True
+4287,oral supplementation,C0242297,Therapeutic or Preventive Procedure,TREATS,pancreatic insufficiency,C0030293,Disease or Syndrome,True,True
